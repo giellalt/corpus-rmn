@@ -1,0 +1,68 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>812</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/djur-och-natur/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fin" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="fit" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sma" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="sme" location="djur-och-natur.html"/>
+    <parallel_text xml:lang="swe" location="djur-och-natur.html"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmu"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rka"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="rmf"/>
+    <parallel_text location="djur-och-natur.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Zivotinje hem i natura - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Zivotinje &amp; i natura</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Zivotinje hem i natura</p>
+    <p xml:lang="swe"><em type="italic">Länsstyrelsen kerol buti te arakhenpe sa o biljke hem o zivotinje save itane ano regioni hem te mothovol kaj on itane vazne te arakhenpe ani jekh sasti natura. Odoljeske mora te kerolpe inventering e biljkenge hem zivotinjenge ani natura, te dikholpe kaske shaj te dolpe dozvola te kerol buti ani natura, hem te shaj arakholpe e polache o naturako reservati. O naturako reservati hem o nationalno parko itano sa odoljenge ko kaml te avol te odmorinope anis hukar natura. </em></p>
+    <p xml:lang="swe">Länsstyrelsen si odgovornost te arkhol o zivotinje ano sa o regioni. Amen kera buti te ovol shukar e zivotninjenge. Amen shaj te ana odluka te la djikaske zivotinja ak shukar na pazinenla ja se maltretirinenla, amen isi zakoni pe akav puchibe.</p>
+    <p type="title" xml:lang="swe">Zivotinjengo arakhibe</p>
+    <p xml:lang="swe">Ano zivotinjengo zakoni isi osnovne odluke sar te arakhenpe o zivotinje kan itane nasvalje hem te na patinen. O Länsstyrelsen kerol zivotinjengi kontrola ano celo regioni. Te dikhljam kaj jekh zivotinja patinol shaj te ana odluka te la e zivotinja katar ljende. Te dikljan kaj djiko maltretirinol o zivotinje kern kontakti amende ano Länsstyrelsen.</p>
+    <p type="title" xml:lang="swe">Manusha save astaren machen (ribarija)</p>
+    <p xml:lang="swe">Länsstyrelsen isi obaveza hem odgovornost sar asternpe o mache ano sa o regioni. Te shaj arakholpe ribarenje hem te kerolpe nevi buti sar shaj te dolpe dumo ljenege kerenpe neve projektia sar te astarenpe o mache. Länsstyrelsen ka dikhol popashe sar astarenpe o mache sar o zakoni phenol hem odova sa te avol ano interesi e regionisko.</p>
+    <p type="title" xml:lang="swe">Arakh i natura (priroda)</p>
+    <p xml:lang="swe">E Länsstyrelse isi odgovornost sar shaj te arakholpe e natura hem o kultur resravtia, nationalne parkia, hem o phiriba ani natura ano vesha hem planine. Isi but nachinia sar shaj te arakholpe i natura. O nationalne parkia itane than save naj shukar arakhenpe. Ov itano jekh baro tahan ano jekh regioni savo arakholpe sar i natura kamol. Naturake reservatia itane odola thana save najbuder arkhenpe. Shaj te arakholpe ano nachin e biologijako, sar vredne naturake thana ja se te dikholpe so valjanol te lacharolpe ano than kaj o mansuha djan ano plo slobodno vreme. E Kulturake rezervatia ano sa iste forme arakhenpe sar diso vredno ano kulturake naturake thana.</p>
+    <p type="title" xml:lang="swe">Tlo slobodno vreme ani natura- (priroda)</p>
+    <p xml:lang="swe">O Länsstyrles kerol buti te shaj ovol jekh bravalo shukar slobodno vreme sarijenge e manushenge ani natura. Jekh buti savi kera itani hem e manushenge save itane ano kolice hem e dijenge save pe chavenca ano koljice kamene te djan ani natura te avol shukar. Ani Shvedska sarijen isi chachipe te djan ani natura ja se sar phenolpe sarijengo chachipe, so o glavno zakoni itano ma smetin nikaske hem ma rumin i natura. O chacipe sariengo ani natura itano sa jekh hem ano natur reservatia, ali shaj te avol hem harica ogranicheno sloboda ano akala thana.</p>
+    <p type="title" xml:lang="swe">Darajbe te nashavdjon ke pe vrste o biljke hem zivotinje</p>
+    <p xml:lang="swe">O Länsstyrelse kerol buti te arakhen sa o vazne specialne biljke hem zivotinje te na unishtinenpe. Ako jekh vrsta e biljkengi na ne but ani natura nashti te chine la hem sa jekh nashti te ranine di jekhe zivotinja save na ne but ani natura katr ljengi vrsta. Bute biljkenge nashti hem te rumine o thana sostar on shaj te meren hem nashavdjnon.</p>
+    <p type="title" xml:lang="swe">Lovibe divlje zivotinjen</p>
+    <p xml:lang="swe">Ano zakoni e lovibasko mothovol kaj sa soj divljo hem ljenge jare ja se semke itane zashtitime. So kamol te phenol kaj shaj te lovine samo sar so phenol o zakoni. Ani shvedska itano normalono te lovinen o mansuha saven isi plje privatne vesha. O Länsstyrelse dol informacia hem dozvole kaj hem sar te lovine, on hem keren statistika te na mudarenpe pobuder zivotinje. On hem kern buti te ulo di jekh sudar e zivotinjenca ano drumo kaj o vesha.</p>
+    <p type="title" xml:lang="swe">Divlje zivotinje</p>
+    <p xml:lang="swe">O Länsstyrelsen itano odgovorno e bare divlje zivotinjenge ano regioni. O cilji itano te arakhenpe o divlje zivotinje ane plo pleme hem te keren minimalne shtete ano regioni. O najbre divlje zivotinje itane i mechka, ruv, divlja machka (lodjur), järv hem o kraljsko orao. O Länsstyrelse kerol svako bersh inventerig te valjandja te lovinolpe hem kobor te lovinolpe on den license odoljeske. On hem arakhen te na kerolpe zabranjeno lov ane akal divlje zivotinje. Hem amen kera buti te ulo di jekh sudra e divlje zivotinja ano vesha.</p>
+    <p type="title" xml:lang="swe">O saobrachaj ani natura</p>
+    <p xml:lang="swe">O länsstyrelse regulinol hem pratinol sar itane o drumia ano tereni hem ano saobrachaj kana vozine o jevendeske motoria ja se panjeske motorienca. O cilji itano te na koristinpe akal motoria ani priroda sve shaj te ruminen i natura, i phuv o biljke, o zivotinje, i poljuprivreda hem o vesha. O vozibe ano tereni ko specialne thana ano vesh itano strogo zabranimo ani sa i Shvedska. O motoria e jevendeske shaj samo te vozine ano than kaj itane ucharde ivea. E panjeske motoria shaj samo te vozine ano thana kaj o Länsstyrelsen dol dozvola.</p>
+  </body>
+</document>

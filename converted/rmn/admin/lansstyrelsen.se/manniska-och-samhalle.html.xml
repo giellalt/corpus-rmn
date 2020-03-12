@@ -1,0 +1,85 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1211</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/manniska-och-samhalle/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fin" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="fit" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="sma" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="sme" location="manniska-och-samhalle.html"/>
+    <parallel_text xml:lang="swe" location="manniska-och-samhalle.html"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmu"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rka"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="rmf"/>
+    <parallel_text location="manniska-och-samhalle.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">O manusha hem o drushtvo - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">O manusha &amp; o drushtvo</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">O manusha hem o drushtvo</p>
+    <p xml:lang="swe"><em type="italic">O Länsstyresen kerol buti ko jekh than e komuna te shaj ovol shukar sarienge save djivdinen ano regioni sar dizutne- sar e privatne manushenge adjukha hem odoljenge saven isi firme. Sarienge te dolpe sa jekh sigurno djivdipasko miljö, kolaj te avolpe hem te kerope bucha, hem te avol sarien shukar khera. </em></p>
+    <p xml:lang="swe">Manushikane chachipeButi hem sa jekh chachipe mora te dichol shukar ano sa o Länsstyrelsen organizacie hem bucha. Prekalo o zakoni e dikriminaciako na ne tut chachipe te kere djikasek diskriminacia samo so ov itano jave pol, savo etniciteti isilje, religia ja se javer verovanje, savo sexualno dikhibe isilje, odoljen savenge o telo na funkcionisinol, phuren, ja odolejn saven isi javer dikhibe ke po pol.</p>
+    <p type="title" xml:lang="swe">Jekhibe</p>
+    <p xml:lang="swe">O nationalno cilji itano kaj e djuvljen hem e mushen te ovol sa jekh chachipe hem zor te keren forma ano sistemi kaj djivdinen hem ke po privtano djivdipe. O Länsstyrelsen itano odothe te dol dumo sa e komunenge thaj sa e regioniske te shaj realizuinen o plani hem i buti e jekhibasko. O Länstyrelsen hem kerol buti kana o musha maren e djuvljen, prostitucia kana bikinen o manushen sexualno, on den dumo te achavolpe sa akala bucha e organizacienca save itane ano sistemi hem idelane organizacien.</p>
+    <p type="title" xml:lang="swe">Nationalne minoritetia</p>
+    <p xml:lang="swe">O Länsstyrelsen ano Stockholmo isilje odgovornost te pratinol sar djal hem sar kerolpe i buti e minoritetiengi ani sa i Shvedska. E minoritetiengi politika itani o puchiba sar te dolpe ljenge arakhibe, dumo, hem sar te arkaholpe ljengi chib. Ani Shvedska itane pindjarde pandj nationalne minoritetia on itane o judar, romer, samer, sverigefinnar hem o tornedalingar. O chibja save o nationalne minoritetia vakeren itane jiddisch, romani chib, samiska, finska hem meänkieli.</p>
+    <p type="title" xml:lang="swe">E manushego sastipe</p>
+    <p xml:lang="swe">O Länsstyrelsen kerol buti te ovol moguchnost sarien te arakhen po sastipe pravedno ano iste moguchnostia. E manushengo sastipe itano diso so o manusha kokori odluchinen sar ka ikeren po sastipe ali shaj isto te javer miljö utichine ano tlo sastipe alji tut istut tlje demokrtiajke chachipe save shaj te rode. Amen kera buti ano plani te ovol shukar integracia, jekhibe, miljö, kherenge plania, socialno dikhiba, . protiv i diskriminacia hem protiv o alkhol hem drogake puchiba.</p>
+    <p type="title" xml:lang="swe">Integracia</p>
+    <p xml:lang="swe">O najvavzno puchibe e integraciajko itano te ovol tut sa iste chachipe sar javeren, hem sa jekh odgovornost sar sarijen, bizo te kerolpe razlika savo etniciteti isi tut hem kultura. O Länsstyrelsen ka kerol buti te pravol o drumia bute aktorienca te shaj arakholpe kapaciteti ano sa o regioni te realizinope o plani e itegraciako, te pomozinenpe hem o neve izbeglice save aven te shaj dolpe ljenge arakhibe.</p>
+    <p type="title" xml:lang="swe">Te birine (Glasanje)</p>
+    <p xml:lang="swe">O Länsstyrelsen itano jekh regionalno glasachko regioni. So phenol kaj on itane odgovorne te organizinen hem ikeren o javno glasanje, hem o glasanje e Evropake parlamentiske, te dolpe savet tsar te ikernpe o javno glasanje.</p>
+    <p xml:lang="swe">Anglal o glasanje sar naprimer o Länsstyrelsen odluchindja te kerol jekh glasachko distrikti kaj o manusha shaj te den pe kandidatien save ka aven ane partienge listia. Kan djal o glasanje sa o distriktia keren raporti ano Länsstyrelsen sar djal o glasanje. Odoljeske amen hinam odola savo da hem o definitvno rezultati.</p>
+    <p type="title" xml:lang="swe">Krizaki priprema</p>
+    <p xml:lang="swe">Te hine disavi kriza o Länsstyrelsen itane odola save ka organizuinen o organizacie e firmen save itane vazne ano regioni. Amen isi isto odgovornost te da informacia sar organizuina o pomoch ano krizako vreme e manushen hem e media. Te hine di jekh probljemi e nuklearne elektranenca ano sa o regionia kaj isi o Länsstyrelsen isiljen obaveza te keren plani e arakhibasko ano plo regioni on itane ani Uppsala, Kalmar hem ano Hallands region ljen isi obaveza te organizuiene o arakhibe.</p>
+    <p type="title" xml:lang="swe">Kontrola hem dozvole</p>
+    <p xml:lang="swe">Ano razne plania o Länsstyrelsen kerol kotrole te arakhol o sastipe hem te dol dozvole te shaj dolpe e manushen plo chachipe hem odova te na cidolpe ljendar.</p>
+    <p type="title" xml:lang="swe">Sahrane (djenaze)</p>
+    <p xml:lang="swe">Ano Länsstyrelsen isi jekh ombud so ka dikhol popashe save religiozne kedipe isi save na ne chlania ani shvedsko khangiri, te shaj onda sahraninen pe muljen sar on mangen. Amen shaj te da hem dozvola te manglje te forden o praho e muljesko te na manglje te chivenlje ani phuv.</p>
+    <p type="title" xml:lang="swe">Te deponera o love</p>
+    <p xml:lang="swe">O Länsstyrelsen shaj te mukhol tut te kere deponera o love ano jekh posebno konto. So znachinol kaj amen shaj te la o love te grava kaske tu mange te platine diso. Na primer ano akava konto shaj te platine te hine tut probljemi e kirija ja se te hinana borchi djikaske a tu nadjane kaske valjanol te platine. Prekao o zakoni nashti te vakeren tuke kaj na platindjan te ulo disavo probljemi.</p>
+    <p type="title" xml:lang="swe">Kameraki kontrola</p>
+    <p xml:lang="swe">O Länsstyrelse shaj te dol dozvola sa odoljenge save kamen te avoljen kamerake kotrole. Shaj te aven ano than kaj kedempe javno o manusha. Isi duj zakonia save itane kerede ko kamerake kontrole, ko kamerake javen thana hem personalne podatke , svo kontrol kerol o Länsstyrelsen te ikernep o zakoni hem te na mukhen bilo kaske avrial.</p>
+    <p type="title" xml:lang="swe">Habeske kontrole</p>
+    <p xml:lang="swe">O primera prodiktia itane o anglune ano redo kana vakera kotar o habaske produktia on itane o mas, o thud, o habe save kerenpe e zivotinjenge, ano save transportia on ingarenpe. I primarno habeske kontrole kerenpe ano but nachina ano Länsstyrelsen hem ko Jordbroksverket. Amen dikha popashe sar on o komune keren kotrola po odola save producirinen o habe hem posle bikinen e manushenge, dalji isiljen dosta djanibe sar on keren odova, hem dalji isljen shukar lokalia kaj ikeren o habe e bikinipasko.</p>
+    <p type="title" xml:lang="swe">E platakigarantia</p>
+    <p xml:lang="swe">Te kerdjan buti ani jekh firma savi djal ano konkurs tut isi chachipe ani paltaki garancia. O länsstyrelsen ljol o odogovoronost pe peste te do lipalata odoljenge te alje dji ko akava probljemi ano isto regioni te gelji disvi firma ano konkurs.</p>
+    <p type="title" xml:lang="swe">Drzavljanstvo</p>
+    <p xml:lang="swe">O Länsstyrelsen ljol i molba za drzavljanstvo ani Svedska e manushendar save aven kotar i Finska, Danska, Norveska hem Island. Te pisine i jekh molba te rode drzavljanstvo itano but jednostavno ani Shvedska. Te hinana kotar o javer drzave mora te rode drzavljanstvo prekalo o Migrationsverket. Te nashavdjan to drzavljanstvo shaj te rode lje palje prekalo o Länsstyrelsen.</p>
+    <p type="title" xml:lang="swe">Notarius publicus</p>
+    <p xml:lang="swe">O Länsstyrelsen dol buti jkeehske so vikinolpe notarius publicus. Akija titula itani ano latinsko chib hem zanchinol sar jekh javno sekretari. Notarius publicus isilje zadatak te pomozinol odoljen saven potpisinen po potpis hem te podatke te oven chache, te kerolpe prevodiaja save itane sa pisime ano ljil, te ovol svedoko, te avol ano than sar kontrolanti kaj kheljolpe loto thaj but slicne situacie.</p>
+    <p type="title" xml:lang="swe">Vencanje (prandipe)</p>
+    <p xml:lang="swe">O Länsstyrelssen organizinol venchanje ano kommune, on den buti e personenge te keren akala bucha sar maticaria ano regioni kaj tu djivdine. Te hinana po terno kotar o 18 bersh a mange te zenine tut mora te rode dozvola kotar o Länsstyrelsen te shaj te vencinetu.</p>
+    <p type="title" xml:lang="swe">Överförmyndare</p>
+    <p xml:lang="swe">Jekh mansuh savo na djanol te vodinol pi ekonomia odoljeske soj itano nasvalo shaj te ljol pomoc kotar jekh kontakt persona. Ani savaki komuna shaj te avol jekh överförmyndare ja se jekh grupa ani komuna savi ka dikhol sar pomozinol e mansuheske saveske valjanol pomoch. O Länsstyrelsen kerol inspekcia ko överförmyndaren ano periodia sar kerol pi buti, sar primer te djiko prijavindjalje kaj na kerol shukra pi buti on dikhen but popashe so kerdja.</p>
+  </body>
+</document>

@@ -1,0 +1,57 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>371</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/lantbruk-och-landsbygd/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fin" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="fit" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sma" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="sme" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text xml:lang="swe" location="lantbruk-och-landsbygd.html"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmu"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rka"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="rmf"/>
+    <parallel_text location="lantbruk-och-landsbygd.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Poljubrivreda hem o gava - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Poljubrivreda &amp; o gava</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Poljubrivreda hem o gava</p>
+    <p xml:lang="swe"><em type="italic">O länsstyrelsen kerol buti te shaj o EU hem i Shvedska ani poljuprivreda hem ano keriba khera ano gava ovol kerdo ano regionalno nivo. Odova vakerol kaj o poljuprivrednikia ka aven po zorlalje ani konkurencia hem te ikerenpe adjukha ano duze vreme, ano sa isto vreme te kerolpe sadinolpe pobut ekoloshki thaj te ovol po vredno natura, hem adjukah arakholpe o gava. Jekh djivdo gav itano atraktivno isi buti te kerolpe, dol shukar servic hem itano atraktivno te seljinenpe o manusha ano khera. </em></p>
+    <p type="title" xml:lang="swe">Sar arakhenpe o zivotinje</p>
+    <p xml:lang="swe">O Länsstyrelsne kerol buti ano but puchiba sar te arakhenpe o zivotinje. Kerolpe kotrola ano shtale rodlope te ovol jekh shukar miljö. Te shaj o zivotinje hem amen osetinape shukar mora te dihka, so dolpe ljenge te han sar arakholpe ljengo hajbe hem kaj producirinolpe o hajbe, sar transportirinolpe hem koristinolpe mi sigurno. Kontrola kerolpe ko but thana ano Länsstyrelsen hem ano poljurdivredno thana. Ano than kaj isi dji ko 400 ja se pobuder zivotinje ko jekh than rodolpe posebno dozvola katar o Länsstyrelsen. Amen da hem dozvola javer buchenge thanege kaj arakhenpe o djukela hem e grasetnge shkolenge.</p>
+    <p type="title" xml:lang="swe">Gavengo bajaripe hem pomoch</p>
+    <p xml:lang="swe">Amen la ozbiljno te shaj kerenpe o gava pobuder atraktivne hem te shaj o gava bajarenpe. E gavengo programi itano kotar e EU-programi so dol e aktorienge jekh shaipe te praven pe firme ano gava, ljen isi shaipe te roden pomoch lovengo te praven i firma jas se te kamlje te bajaren pi firma, hem te bajaren i kompetencia ani firma.</p>
+    <p type="title" xml:lang="swe">Poljuprivreda</p>
+    <p xml:lang="swe">O Länsstyrelsen kerol buti te shaj obradinople i phuv poshukra ano regioni hem te bajarolpe o djanibe sar. Jekh djivdi hem shukar obradimi phuv itani shukar ano anglunipe te sadinolpe poshukar hem adjukah ovol jekh djivdo than ano gava. Amaro vazno cilji itano te ikerolpe o than trajno, te aven efektivne bucha, te avol ano shukar miljö ani sa i linia e Shvedskai hem EU kana preradinolpe i phuv ano gava. Amen da dumo hem informacia sa e manushenge save itane poljuprivrednikia. Amen isto la molbe odoljendar savenge valjanol pomoch, dikah ljengo sluchaj popashe hem ana odluka sar so phnol o zakoni e EU.</p>
+  </body>
+</document>

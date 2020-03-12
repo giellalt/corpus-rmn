@@ -1,0 +1,133 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2500</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Undersokningar-prover/Gynekologisk-cellprovtagning</origFileName>
+    <parallel_text xml:lang="eng" location="gynekologiska-cellprovtagning.html"/>
+    <parallel_text xml:lang="fin" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="fit" location="gynekoligisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sma" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="sme" location="gynekologisk-cellprovtagning-.html"/>
+    <parallel_text xml:lang="smj" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text xml:lang="swe" location="gynekologisk-cellprovtagning.html"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rka"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmu"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="yid"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="gynekologisk-cellprovtagning.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Ginekologikane celiengiri proba / Gynekologisk cellprovtagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Ginekologikane celiengiri probaGynekologisk cellprovtagning</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Rezime</p>
+    <p xml:lang="swe">Mukhindor redovno ginekologikane celulengiri proba šaj o džuvlja te arakhen pes kotar o rako ko matericakoro kerlo (dajipaskoro kerlo). Celulengiri proba lela pes kotar o cerviksi telal tari džuvli hem šaj but rano te sikavel te isi e džuvlja disave promene ko olakere celule so šaj te keren ponodori te ovel ola rako ko matericakoro kerlo.</p>
+    <p xml:lang="swe">Poviše kotar akala lokhe promene so arakhena pe celule ola sasčona korkori pestar ama disave mora te ikalen pes. Ko but retko slučaja o celulakere probe sikavena kaj manuše isi rako. Tegani o rako tano ko jek but rano stadiumi hem ovela but polokhe te sastljarel pe bizo te ovel manuše bare posledice kotar odova.</p>
+    <p xml:lang="swe">O džuvlja ki Švedija ovena vikime redovno ko ginekologikane celulengere probe, olenge vakerela pes screening .Tej manuš ki akaja beršengiri grupa taro 23 dži ko 50 berš tegani ola ovena vikime sakova trinto berš. Palo odova ovena vikime sakova pandžto berš džikote pherela pe 60 berš. Keda manuše isi poviše kotar 50 berš tegani šaj te ovel hari javerčhane ko zavisnost ko savo kotor manuš bešela ki Švedija.</p>
+    <p xml:lang="swe">Manuš šaj te mukhel akala probe ki babica ja pale ko ginekologi keda manuš kerela hem javera ginekologikane dikhljariba kotar javera razlogija.</p>
+    <p type="title" xml:lang="swe">Pripreme/Hazerikeribe</p>
+    <p xml:lang="swe">Manuš na trebela te pripreminel pes kodžani sar, ama ka ovel šukar angleder o dikhljaribe 24 sahatija te na ovel seksi e džuvlja hem te na makhel pes disavi krema telal. Se šaj te ovel pharo te dikhel pe o rezultati šukar. Manuš na trebela te mukhel asavke probe ni keda isi e džuvlen mensturacija.</p>
+    <p type="title" xml:lang="swe">Sar kerela pe o dikhljaribe?</p>
+    <p xml:lang="swe">Keda trebela te lel pe robe tegani manuš trebela te huljavel ple telune šeja hem te pašljol ki ginekologikani stolica bašo dikhljaribe. O doktori ja pale i babica šaj te len probe ko but javera načinija. Obično koristinela pe jek tikni spatula (dikhljaribaskiri roj) kolaja makhela pes ki matericakoro kerlo hem palo odova lela pe jek tikni kovli četka hem makhela pes hari ko matericakoro kerleskoro kanali skros tele.</p>
+    <p xml:lang="swe">Keda kerena pe akala probe tegani čhivena pe disave pučiba. O odgovorija tane važna te šaj o probe te analizirinen pe ko jek šukar način.</p>
+    <p xml:lang="swe">O dikhljaribe na dukhala hem odova kerela pe disave minutenge. O odgovor bašo celulengiri proba obično avela palo šov kurke.</p>
+    <p type="title" xml:lang="swe">Sar osetinela pes manuš palo odova?</p>
+    <p xml:lang="swe">Keda kerela pe akaja proba othe nane nisavo riziko. Disavo puti manuš šaj te ratvarel pali proba ama odova nane opasno.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Soj odova ginekologikano celulengiri proba?</p>
+    <p type="title" xml:lang="swe">Te mukhel pe celulengiri proba</p>
+    <p xml:lang="swe">Jek ginekologikani celulengiri proba tani jek proba so lela pe kotar o najteluno kotor kotar e matericakoro krlo kaske so vakerela pe cerviks hem so ikljola avri kotar i vagina. Akaja proba šaj sikavela but rano promene ko celule kola so šaj te keren te ovel rako ko matericakoro kerlo. Poviše kotar akala celulengere promene so arakhena pe ola šaj te sasčon korkori pestar ama jek kotor olendar mora te ikalen pe. Akaja proba šaj sikavela dali manuše isi rako mada odova tano but retko.</p>
+    <p xml:lang="swe">Keda o džuvlja mukhena redovno celulengere probe tegani e džuvlen ovela jek zoralo arakhibe bašo rako ko matericakoro krlo odolea so manuš dikhela akala promene ko celule rano angleder te ovel rako.</p>
+    <p xml:lang="swe">O celulengere probe lena pe taro najteluno kotor kotar e matericakoro kerlo, ko cerveksi so ikljola avri ki vagina. Livmoder = Materica (Dajipa) Äggstock = Jajniko (Jarengorothan) Livmoderhals= Matericakoro kerlo (Dajipaskoro kerlo) Livmodertapp=Cerviksi Slida=Vagina</p>
+    <p type="title" xml:lang="swe">Redovna kontrole</p>
+    <p xml:lang="swe">I ginekologikani celulengiri proba tani jek kotor kotar e sastipaskiri kontrola kaske so vakerela pe screening, o džuvlja ki Švedija oven nudime te keren odova redovno. Odolea so akana dikhela pe but rano e celulengiri promena hem sastljaribaja ko rano stadiumo odova kerdža o rako ko matericakoro kerlo te ovel but retko ko palune 40 berša.</p>
+    <p type="title" xml:lang="swe">Javera šaipa te kerel pe celulengiri proba</p>
+    <p xml:lang="swe">Jek ginekologikani celulengiri proba šaj mukhela pe hem keda i džuvli tani ki babica ja pale ko ginekologi hem kerela disave ginekologikane dikhljariba bašo javera buča. Disavo puti e celulengiri proba kerela pe sar jek kotor taro ginekologikano dikhljaribe keda rumindžovela e džuvlengoro ratvaribe, tegani šaj te ovel jek šukar situacija te mukhel pe jek skrinproba. Odova šaj te ovel šukar keda avela paše o vreme baši jek redovno kontrola ja pale manuš te našadža o redo baši i redovno celulakiri kontrola angleder.</p>
+    <p type="title" xml:lang="swe">Celulakiri promena hem o rako</p>
+    <p xml:lang="swe">E celulakiri promena šaj te zavisinel odoleske so i sapanimortik tani but mordi (holjankerdi) taro bakterie ja pale tari disavi privremeno viruseskiri infekcija. Odova tano o najobično soskipa bašo promene ko celule ama odova sasčola korkori pestar. O javera promene ki celula so šaj te keren te ovel rako ko matericakoro kerlo, šaj ikalela pe tikne operaciaja.</p>
+    <p xml:lang="swe">Te isi e džuvlja jek celulakiri proba so nane normalno tegani kerela pe jek istraga hem manuš ovela vikimo ko jek dikhljaribe ko doktori. Tegani predložinela pe te ikalel pe odola celule soj rumime ja pale šaj phenela pe te adžikerel pe te dikhel pe dali ka nakhen korkori pestar.</p>
+    <p xml:lang="swe">Obično lela but vreme angleder o celule so meninena pe te oven rako ko matericakoro kerlo, šaj lela deš dži ko dešupandž berša. Odova tano but neobično keda manuš kerela celulengiri proba te sikavel pe kaj manuše isi rako, ama ko but retko slučaja šaj te ovel adžahar. Tegani o rako tano ko jek rano stadiumi hem šaj te sastljarel pe but hari posledicencar.</p>
+    <p xml:lang="swe">Sakova berš ki Švedija ovela komaj 450 džuvlen rako ko matericakoro kerlo, a komaj 30000 džuvlenge vakerela pe kaj isi olen promene ko celule.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">O džuvlja ovena vikime redovno</p>
+    <p type="title" xml:lang="swe">O džuvlja ovena vikime sakova trinto berš</p>
+    <p xml:lang="swe">Sa e džuvlenge kotar o 23 berš dži ko 50 berš avela olenge jek pokana sakova trinto berš te keren jek celulengiri proba. Palo odova keda manuš i maškar o 50 hem 60 berša tegani avela pokana sakova pandžto berš. Keda manuše isi poviše kotar 50 berš tegani e pokanengere vremija šaj te oven hari javera na isto ko zavisnost kori manuš bešela. O džuvlja so sine sastljarde kotar o celulengere promene šaj trebela te džan ko celulengere kontrole hem palo 60 berš.</p>
+    <p xml:lang="swe">I pokana ovela bičhaldi ki odoja adresa kori manuš i registririmo hem i kontrola kerela pe manuš te manglja.</p>
+    <p type="title" xml:lang="swe">Ki savi ambolanta šaj mukhela pe i proba?</p>
+    <p xml:lang="swe">Keda manuš ovela vikimo tegani lena pes o celulengere probe kotar jek babica ki jek babicakiri ambolanta ja pale sar so vakerela pe dajengiri centrala soj tuke najpaše. Obično manušeske dela pe jek termini kova so šaj te iranel pe hem te lel pe javer. Ko disave dizja manuš šaj te lel javer termini hem ko javera ambolante.</p>
+    <p xml:lang="swe">Manuš te mukhlja jek celulengiri proba keda manuš džala ki jek ginekologikani kontrola ko primer ko jek ginekologi ja pale keda manuš džala te sovetinel pe bašo na ačhojbe khamni, tegani akala probe registririnena pe kaj te šaj i javer ponuda bašo celulengiri proba te ovel palo trin berš ja pale pandž berš.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Jek kotor taro džuvlja na trebena te mukhen probe</p>
+    <p type="title" xml:lang="swe">Okola so nane olen pherde 23 berš hem okola so isi olen buteder kotar 60 na ovena vikime</p>
+    <p xml:lang="swe">Tej manuš pohari taro 23 berš tegani na ovela vikimi bašo celulengere kontrole. Odoleske obično na ovena promene ko celule kas nane 23 berš. Ama te ulo tegani ko terne džuvlja odola promene našavdžovena korkori pestar. Odova i čače but retko te ovel džikas odoborom rano rako ko matericakoro kerlo. Manuš te sine poviše puti ko ginekologikane celulengere probe hem te sine e džuvlja normalno celulengere rezultatija sa džikote pherela 60 berš, tegani o riziko te astarel rako ko dajipaskoro kerlo tano but tikno.</p>
+    <p type="title" xml:lang="swe">Okola so na sine olen seksi na trebena te mukhen probe</p>
+    <p xml:lang="swe">E džuvlja te na sine nikad seksi tegani na trebela te mukhel celulengere probe. O rako ko matericakoro kerlo šaj te ovel samo ko džuvlja so sine olen seksi hem ule zarazime e virusea HPV, humant papilomvirusi.</p>
+    <p type="title" xml:lang="swe">Tej i džuvli homoseksualka</p>
+    <p xml:lang="swe">Tej i džuvli homoseksualka tegani šukar i te džal pe redovno ko celulengere kontrole odoleske so o virusi so kerela promene ko celule šajda zarazinela hem tari džuvli ki džuvli.</p>
+    <p type="title" xml:lang="swe">Manuš te ikaldža i materica operaciaja</p>
+    <p xml:lang="swe">Manuš te ikaldža sa i materica operaciaja, kaske so vakerela pe histerektomija, tegani manuš na trebela te džal ko celulengere probe, odoleske so e operaciaja ikalena pes hem o cerviksija. Ama te kerdža pe operacija bašo rako ko matericakoro kerlo ja pale bašo promene ko matericakere kerleskere celule tegani manuš trebela te produžinel e kontrolencar. Tegani lena pes probe kotar e vaginakoro upruno kotor.</p>
+    <p xml:lang="swe">Tej i džuvli nasigurno savi operacija uli hem so ikaldža pe tegani manuš šaj te pučel ki odoja klinika kori so uli operacija. I babica ki ambolanta ja pale ki dajengiri ambolanta obično šaj te pomožinen te den odoja informacija. Tej manuš nasigurno tegani pošukar i te kerel pe jek proba.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Adžahar kerela pe o dikhljaribe</p>
+    <p type="title" xml:lang="swe">Pripreme</p>
+    <p xml:lang="swe">Manuš na trebela te kerel specialno disave pripreme bašo celulengiri proba, ama 24 sahatija angleder o dikhljaribe i džuvli na ka ovel ola seksi hem na ka makhel pes disavi mast telal. Se e celulengiri proba šaj te tumačinel pe phare. Nane šukar te mukhel pe proba hem keda e džuvla isi mensturacija.</p>
+    <p type="title" xml:lang="swe">Proba taro cerviksi</p>
+    <p xml:lang="swe">Keda i džuvli džala ko jek asavko dikhljariba tegani manuš ikalela pestar o telune šea hem pašljola ki ginekologikani dikhljaribaskiri stolica. Okova so lela o probe obično tani babica ja pale doktori, tegani oj phravela hari i vagina obično ginekologikane instrumentea kola tane tačarde sar e teloskiri temperatura.</p>
+    <p xml:lang="swe">Sar lena pe o probe zavisinela tari ambolanta ki ambolanta. Obično lela pe jek kaštunali ja plastikani spatula hem morela pe hari o cerviksi, palo odova koristinela pes jek tikni kovli četka ko teluno kotor kotar e matericakoro krleskoro kanali.</p>
+    <p xml:lang="swe">O probe kerena pes sigate disave minutenge. Odova na dukhala. Disave džuvlja šaj osetinena pes hari nezgodno ama odova nakhela sigate.</p>
+    <p type="title" xml:lang="swe">﻿﻿O pučiba so odgovorinena pes</p>
+    <p xml:lang="swe">But puti keda manuš džala ki akaja proba tegani trebela te odgovorinel pe ko disave pučiba, ko primer:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">keda sine palune mensturacijakoro prvo dive ja pale dali o mensturacije čhinavdile</p>
+      <p type="listitem" xml:lang="swe">lela li i džuvli disave buča te na ačhol pes khamni</p>
+      <p type="listitem" xml:lang="swe">lela i džuvli hormonija bašo klimakterijakoro pharipa</p>
+      <p type="listitem" xml:lang="swe">khamni li i džuvli, ja pale savo berš bijandža posledno puti.</p>
+    </list>
+    <p xml:lang="swe">Akaja informacija bičhalela pes jekhethane e probencar kaj te šaj te ločharel pe e laboratorijakoro procenibe.</p>
+    <p type="title" xml:lang="swe">Palo odova šaj te ovel jek tikno naopasno ratvaribe</p>
+    <p xml:lang="swe">E matericakoro kerleskiri sapani mortik ratvarela lokhe hem odoleske odova i obično palo asavko dikhljaribe te ovea jek naopasno ratvaribe. O ratvaribe čhinavdžovela palo disave divesa.</p>
+    <p type="title" xml:lang="swe">O khamne džuvlja šaj mukhena proba</p>
+    <p xml:lang="swe">O keribe akala probe tane bizo riziko hem odoleske o khamne džuvljada šaj te keren olen. Obično phenela pes olenge kaj ola šaj te mukhen proba najkasno ko 15-to khamnibaskoro kurko, odoleske so keda o khamnipe tano pobaro odova kerela popharo te dikhel pe o rezultati.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Keda avela o odgovor?</p>
+    <p type="title" xml:lang="swe">Obično o odgovoria na sikavena disave promene</p>
+    <p xml:lang="swe">Palo šov kurke trebela manušeske te avel e probengoro odgovor, ama disavo puti šaj te lel poviše vreme. Komaj 95 kotar 100 probe e celulen nane disave promene hem proceninena pe kaj tane normalna. O odgovor avela direktno kotar i laboratorija.</p>
+    <p xml:lang="swe">Te sine mukhli i proba ki jek jek ginekologikani ambolanta ja pale disavo centri bašo khamnipaskoro čhinavibe tegani odova manuš so kerdža i proba othar ov i odgovorno te del tut o odgovor.</p>
+    <p xml:lang="swe">Ko okola slučaja keda i proba našti te analizirinel pe, obično zavisinela ko primer keda isi but rat tari mensturacij. Tegani manuš ovela pale vikimo te kerel proba.</p>
+    <p type="title" xml:lang="swe">Te isi disave promene ko celule</p>
+    <p xml:lang="swe">Te sikavela i proba kaj isi disave promene ko celule tegani odova lela te istraživinel pe ponodori. Te isi manuše lokhe promene ko celule hem te isi manuše 30 ja pale 35 berša, odova zavisinela kotar odova ki savi diz manuš bešela, tegani istražinela pe i proba direktno jekhe viruseskere testeja. O testi kontrolirinela dali manuše isi HPV, human papillomvirus, kova so barakerela o riziko bašo rako ko matericakoro kerlo. Samo okola džuvlja so isi olen HPV trebela te džan ponodori ko dikhljaribe. Te isi manuše lokhe promene ko celule kori so nane odova virus tegani manuš trebela te džal palo jek berš pale ki kontrola.</p>
+    <p xml:lang="swe">Keda i ko pučibe sa o promene ko celule e džuvlenge so isi olen pohari kotar 30 ja 35 berša, akana olenge preporučinela pe te oven dikhljarde kotar ginekologi, ama ko disave thana šaj i džuvli te ovel vikimi ko disave slučaja ki babica te šaj te kerel pe nevi proba bašo celule. O džuvlja so isi olen poviše kotar 30 ja 35 berša hem so isi olen promene ko celule a na samo lokhe promene hem olenge preporučinela pe te dikhljaren pes ko ginekologi.</p>
+    <p type="title" xml:lang="swe">O keribe celulengere probe na dena jek pherdo arakhibe bašo rako</p>
+    <p xml:lang="swe">O redovno celulengere probe dena jek zoralo arakhibe bašo rako ko matericakoro kerlo, ama odova nane šel procentia sigurno. O džuvlja šaj te astaren rako ko matericakoro kerlo mada e celulengere probe sine normalna, ama odova tano but retko. Osim kotar o džajbe ko celulengere probe redovno manuš trebela te rodel pomoč keda i džuvli ratvarela keda isi ola seksi, ja pale keda isi ola poviše puti ratvariba maškar o mensturacije, ja pale keda ratvarela pali i mensturacija.</p>
+    <p xml:lang="swe">Manuš šaj bilo keda te telefonirinel ko sastipearakhibaskoro godidejbe kaj te šaj manuš te džanel kori te obratinel pe.</p>
+    <p type="title" xml:lang="swe">Manuš šaj te ovel sekirimo bašo keribe probe hem bašo probengoro odgovor</p>
+    <p xml:lang="swe">Keda manuš mukhela celulengere probe tegani nane manušeske sajekh. Adžikerindor o odgovor manuš šaj te ovel sekirimo. Tegani manuš na trebela te bistrel kaj o celulengere probe tane jek način te arakhel pes manuš kotar rako. Odola promene so arakhena pe ola skoro uvek šaj te ikalen pe tikne operaciaja hem odolea manuš čhinavela te ovel rako.</p>
+    <p xml:lang="swe">Odova i čače but retko jek proba te sikavel kaj e džuvli astardža rako. Ko odola but retko slučaja kori so arakhela pe rako ko akala celulengere probe, ola tane ko jek but rano stadiumi hem ov sastljarela pe but jednostavno hem hari posledicenar. Keda kerela manuš akala celulengere probe tegani manuš arakhela sigate akava nasvalipe hem čhinavela pe o riziko manuš te perel but nasvalo.</p>
+    <p type="title" xml:lang="swe">Manuš odlučinela korkori dali o probe ka šparinen pe</p>
+    <p xml:lang="swe">Keda mukhela manuš celulengiri proba tegani oj obično šparinel pe. Tegani šaj ko primer jek nevi proba te usporedinel pe e purajnaja hem te dikhel pe sar džala ponodori. Plus odova o probe šaj koristinena pe bašo istraživibe ja pale bašo javer cili soj priznajmo kotar o istražibaskoro etikano komiteti. Manuš te na manglja te garaven pe o probe tegani trebela te phenel okoleske so kerela o probe, palo odova ola kosena sa.</p>
+    <p xml:lang="swe">O podatke bašo probe šparinena pe hem ko registri bašo kvaliteti kova so koristinela pe te šaj te ovel pošukar o arakhibe. Manuš te na manglja te koristinen pe olakere podatke tegani šaj rodela pe ola te oven kosle.</p>
+  </body>
+</document>

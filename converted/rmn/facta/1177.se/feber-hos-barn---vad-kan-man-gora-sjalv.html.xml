@@ -1,0 +1,81 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>907</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Feber-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="feber--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fin" location="feber-hos-barn--vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="fit" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="feber-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="feber-hos-barn-vad-kan-man-gora-sjalv.html"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="feber-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Keda isi jag/temperatura e čhaven - so šaj manuš te kerel korkori? / Feber hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Keda isi jag/temperatura e čhaven - so šaj manuš te kerel korkori?Feber hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">I jag tani jek kotor kotar e teloskoro arakhiba</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Probin te kere te ovel so pošukar e čhaveske/čhajake. Šukar i te del pe počesto te piel pe disavo tečnost.</p>
+    </list>
+    <p xml:lang="swe">I jag značinela kaj e teloskoro tatipa tano bareder nego obično. Odova ustvari nane opasno, odova tano e teloskoro način te arakhel pe kotar infekcie. E čhaven uklela sigate i jag, odova ovela najviše taro infekcie so ovena taro virus, sar soj o šudardipe, khujnibe, kerleskiridukh, ola kerena e teloskoro tatipa te ovel pobaro. E teloskoro tatipa šaj isto te ovel pobaro keda o čhave khelena but ja pale keda phirena but. Ko disave slučaja isi e čhaven jag sar nišani kaj isi olen ozbilno nasvalipa.</p>
+    <p xml:lang="swe">Šaj vakerela pe kaj e čhave isi jag tej o telo tato sabale ja pale tej i temperatura poviše kotar 38 stepenja mada tane odmorime 30 minutija.</p>
+    <p xml:lang="swe">Obično odova dikhela pe keda isi e čhave jag. Tej manuš ko dujgodža tegani šaj te merinel pe i jag ko čhavo, ama but i važno te pratinel pe sar osetinela pe o čhavo/ i čhaj. Te planirinela manuš te kontaktirinel e ambolanta tegani šukar i te kontrolirinel pe i jag.</p>
+    <p xml:lang="swe">Najsigurno i te merinel pe e teloskoro tatipa kotar i bul. Isi hem kanengere aparatia baši jag, odova i šukar te koristindže pe sar so trebela. Asavke aparatia i phare te koristinen pe ko tikne čhave odoleske so e tikne čhavengere kanengere kanalia tane tikne.</p>
+    <p type="title" xml:lang="swe">Mukh e čhave te odmorinel hem te piel but</p>
+    <p xml:lang="swe">E čhave/čhaja so isi jag trebela te ovel khere, te na ovel ki škola ja angliškola, kaj te šaj te odmorinel pe hem te khedel zoralipa. O čhavo nane potrebno te pašljol ko kreveti, ama na trebela te čhinjarel pe fizički. Najšukar i te mukhe e čhave korkori te dvižinel pe odoborom so šaj.</p>
+    <p xml:lang="swe">E čhaveske trebela poviše panjalipa/tečnost nego keda nane ole/ola jag. Kaj te šaj e čhave te ovel dovolno panjalipa ani peste tegani ka ovel šukar te del pe te piel diso so počesto. De e čhaveske te hal hem te piel odova so mangela, ko primer: sladoleti, kremi, grizi. Te nane e čhave/čhaja apetiti hajbaske tegani na trebela te hal obično hajbe. Nane nišo te halja hari pološno hajbe disave divesa. O čhavo/čhaj te na mutrela pe redovno ja pale tej umorno odova zavisninela kaj na pilja but tečnost.</p>
+    <p type="title" xml:lang="swe">Ker so pokomotno so šaj</p>
+    <p xml:lang="swe">Tej e čhaveske pošukar te sovel jekhe sane čharšafea ja pale samo ko sostenja, tegani mukh ole/ola adžahar te sovel. Ama o čhavo/čhaj te tinanela hem te marunela, kova tano obično keda i jag ovela bari, tegani manuš šaj te učharel jekhe čebaja hem te kerel so pokomotno so šaj.</p>
+    <p type="title" xml:lang="swe">Iljačija bizo recepti</p>
+    <p xml:lang="swe">I jag retko sastljarela pe jagakere iljačencar. Bute čhaven isi jag disave divesa bizo te značinel kaj isi disavo seriozno nasvalipa. Ama keda e čhaveske/čhajake tane but lošno tegani šaj te del pe jagakere iljačija, ko primer keda dukhala olen o telo, rovena, na hana hem na piena često, na sovena šukar ja pale našti bešena rahati ko akšami.</p>
+    <p xml:lang="swe">Manuš na trebela te del jagakere iljačija e čhavenge soj potikne kotar šov masek, bizo te kontaktirinel e ambolanta/klinika.</p>
+    <p xml:lang="swe">Isi jagakoro iljači e čhavenge so isi olen poviše kotar trin masek, ko odova iljači isi paracetamol, ko primer Alvedon ja Panodil. Keda pherena o čhave šov masek tegani šaj dela pe olenge iljači kori so isi ibuprofen, ov biknela pe anaveja Ipren ja Ibumetin. Akala iljačija tane ki panjali forma, sar kerpičija, ola čhivena pe e čhavenge ki bul, akaja doza trebela te ovel kerdi tikne čhavenge. E pobare čhavenge isi hapija. Dikh šukar so terdžola ke pakovka baši upotreba. Ma kombinirin razna iljačija. O čhave so isi olen pohari taro 18 berš na trebela te koristinen jagčhinavibaskoro iljači kori so isi acetilsalicilno kiselina ko primer o hapija Magnecyl, Treo ja pale Albyl.</p>
+    <p type="title" xml:lang="swe">Šaj ka trebel te kontaktirinel pe i ambolanta/klinika</p>
+    <p xml:lang="swe">Angleder sa trebela te proceninel pe sar osetinela pes o čhavo/i čhaj hem palo odova manuš oceninela dali trebela te kontaktirinel pe i ambolanta ja pale na.Te nane manuš sigurno manuš šaj uvek te telefonirinel ko Godidejbe bašo nasvalipaskoro arakhibe ja pale ki ambolanta, specijalno te isi e čhave hem javer pharipa osim kotar i jag.</p>
+    <p xml:lang="swe">Manuš trebela direktno te kontaktirinel e ambolanta ja pale e dežurno te isi e čhave /čhaja jag hem diso kotar akava ja akala pahripa:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Na kontaktirinela sar obično.</p>
+      <p type="listitem" xml:lang="swe">Izgledinela but umorno hem na piela.</p>
+      <p type="listitem" xml:lang="swe">Isi ole/ola jag soj poviše kotar 41 stepenija.</p>
+    </list>
+    <p xml:lang="swe">Manuš trebela uvek te kontaktirinel e ambolanta ja pale e dežurno tej o čhavo/i čhaj</p>
+    <list>
+      <p type="listitem" xml:lang="swe">potikno/potikni kotar trin masek hem isi temperatura poviše taro 38 stepenija</p>
+      <p type="listitem" xml:lang="swe">tej o čhavo/ i čhaj maškar trin hem šov masek a isi jag poviše kotar 39 stepenija.</p>
+    </list>
+    <p xml:lang="swe">Manuš trebela te kontaktirinel e ambolanta te na hulili i jag palo štar divesa, bizo razlika kobor berš isi e čhaven.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Puč bašo godidejbe</p>
+    <p xml:lang="swe">Tu šaj ko bilo kova vreme te vakere jekhe medicikane phenjaja hem te del tut godi. Telefonirin ko 1177. Ola so odgovorinena ko telefoni ola šaj te phenen tuke ki savi ambolanta sian registririmi/registririmo.</p>
+  </body>
+</document>

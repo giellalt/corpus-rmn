@@ -1,0 +1,50 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>228</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/e-upravakere-thana.aspx</origFileName>
+    <parallel_text xml:lang="fin" location="nat-min-hallintoalueet.html"/>
+    <parallel_text xml:lang="sma" location="nat-min-reeremedajvh.html"/>
+    <parallel_text xml:lang="sme" location="nat-min-halddahusguovllut.html"/>
+    <parallel_text xml:lang="smj" location="nat-min-tjuottjudusguovlo.html"/>
+    <parallel_text xml:lang="swe" location="nat-min-forvaltningsomraden.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">E upravakere thana - Länsstyrelsen i Stockholm</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">E upravakere thana</p>
+    <p xml:lang="swe"><em type="italic">O kanuni bašo o nacionalnikane minoritetia hem minoritetikane čhibja značini so o numero (broj) ko upravakere thana e trine minoritetikane čhibjenge – finsko, laponikani hem meänkieli – ja te bajrarelpe taro enja komune ki provincia Norrbotten dži ukupno 68 komune ki Švedia. </em></p>
+    <p xml:lang="swe"><em type="italic">E Finskakoro upravakoro than </em>astarela o komune Borlänge, Borås, Botkyrka, Degerfors, Enköping, Eskilstuna, Fagersta, Finspång, Gällivare, Gävle, Göteborg, Hallstahammar, Haninge, Haparanda, Hofors, Huddinge, Håbo, Hällefors, Kalix, Karlskoga, Kiruna, Köping, Lindesberg, Luleå, Motala, Norrköping, Norrtälje, Pajala, Sandviken, Sigtuna, Skinnskatteberg, Skövde, Solna, Stockholm, Sundbyberg, Sundsvall, Surahammar, Södertälje, Tierp, Trollhättan, Trosa, Uddevalla, Umeå, Upplands Väsby, Upplands-Bro, Uppsala, Västerås, Älvkarleby, Örebro, Österåker, Östhammar och Övertorneå. </p>
+    <p xml:lang="swe"><em type="italic">O laponikano (samiska) upravakoro than </em>astarela o komune Arjeplog, Arvidsjaur, Berg, Dorotea, Gällivare, Härjedalen, Jokkmokk, Kiruna, Krokom, Lycksele, Malå, Sorsele, Storuman, Strömsund, Umeå, Vilhelmina, Åre, Älvdalen hem Östersund. </p>
+    <p xml:lang="swe"><em type="italic">E upravakoro than bašo meänkieli </em>astarela o komune Gällivare, Haparanda, Kalix, Kiruna hem Övertorneå. </p>
+    <p xml:lang="swe">Ke upravakere thana e finsko, laponikane hem meänkieli khuvela isto <em type="italic">i sredsko skupština </em>ko Dalarna, Gävleborg, Jämtland, Norrbotten, Stockholm, Södermansland, Uppland, Västerbotten, Västmanland, Västernorrland, Örebro, Östergötland hem Västa Götalandsregia. </p>
+    <p xml:lang="swe">Javere komunen isto isi olen šaipe <em type="italic">korkoro te roden te khuven ja te pripadinen ko upravakoro than </em>. I radža (vlada) odlučinela bašo asavko priključibe pali i dendi molba tari i komuna. I molba ka valjani te bičhavelpe ko Radžakoro sekretarijati hemkasno 1 aprilo. </p>
+  </body>
+</document>

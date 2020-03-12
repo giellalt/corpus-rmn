@@ -1,0 +1,115 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>2046</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Vad-kostar-lakemedel-pa-recept</origFileName>
+    <parallel_text xml:lang="eng" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="fin" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="fit" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sma" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="sme" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="smj" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text xml:lang="swe" location="vad-kostar-lakemedel-pa-recept.html"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rka"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmu"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="yid"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="vad-kostar-lakemedel-pa-recept.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kobor koštinela o iljači receptaja? / Vad kostar läkemedel på recept? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Kobor koštinela o iljači receptaja?Vad kostar läkemedel på recept?</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So važinela?</p>
+    <p type="title" xml:lang="swe">Učokoštibaskoro arakhibe</p>
+    <p xml:lang="swe">I država subvencirinela, mangela te phenel pe kaj dela ekonomikano dumodejbe, keda manušeske trebela iljačija hem te trebela disave javera buča keda isi ole/ola disave nasvalipa. Buteder kotar o iljačija so dena pe ki recepta ola tane subvencirime. I subvencija tani opisimi ko Zakoni bašo iljačengere beneficie. Odoja zaštita kotar o učekoštiba so dela o zakoni ko sakodivesutno vakeriba vakerela pe oleske učokoštibaskoro arakhiba.</p>
+    <p xml:lang="swe">Palo zakoni važinela akava:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">manuše isi rabati pali jek sar so vakerela pe učekoštibaskiri skala bašo skoro sa o iljačija, pilule hem stomikane buča</p>
+      <p type="listitem" xml:lang="swe">manuš na platinela ništo bašo buča so trošinena pe so trebena kaj te šaj te del pe e teloske iljačija hem te šaj korkori te kontrolirinel manuš plo mediciniribe, ko primer o suvja bašo šekereskoro meribe ko rat</p>
+      <p type="listitem" xml:lang="swe">dela pe jek specijalno zaštita bašo učokoštibaskoro arakhiba bašo disave hajba e čhavenge soj tikneder kotar 16 berša.</p>
+    </list>
+    <p type="title" xml:lang="swe">Cene hem subvencije</p>
+    <p xml:lang="swe">O Dandengoro arakhibe hem o Zavod bašo iljačengere beneficie (Tandvårds- och Läkemedelsförmånsverket, TLV), odova tano o vlasti so odlučinela bašo cene hem o subvencie. Keda akava vlasti anela jek rešenje baši subvencija tegani ola dikhena dali o iljači dela odova šukaripe sprema e subvencijakoro koštibe. O šukaripa šaj te ovel ko primer pošukar sastipa hem pobaro dživdipaskoro vreme. Akava vlasti isto proceninela dali disave iljačeskoro koristibe šaj te tiknjarel e društvoskere računija, ko primer baši operacija, bolovanje ja pale phurengoro arakhiba.</p>
+    <p xml:lang="swe">E iljačengiri firma šaj te birinel korkori te biknel o iljači bizo zaštita kotar o učokoštibe/barokoštibe. Tegani e cenengoro čhijbe tano phravdo/slobodno, mangel te phenel pe kaj e iljačengiri firma čhivela korkrkori cena. Okola iljačija so na ovena učharde kotar i zaštita kotar o učokoštibe tegani manuš korkoro platinela celo cena.</p>
+    <p xml:lang="swe">Disave iljačen šaj te ovel olen ograničimi subvencija. Odova značinela kaj o iljači tano subvencirimo samo jekhe grupa pacientenge ja pale te sastljarel pe kotar disavo specijalno nasvalipa.</p>
+    <p xml:lang="swe">TLV hem o FASS isi olen jek webbthan kori so manuš šaj te dikhel dali jek iljači tano subvencirimo ja pale na.</p>
+    <p type="title" xml:lang="swe">I najeftino menibaskiri alternacija</p>
+    <p xml:lang="swe">Disavo puti isi buteder skoro ista alternacije bašo jek iljači. Bašo odova vakerela pe generikano iljači. Olende isi isto but aktivno substancija ja substancije hem isi olen isto efekti. Ama olende šaj te ovel hari javera buča, ko primer konzerviribaskere buča. Ola šaj te oven kerde kotar javera iljačengere firme hem isi olen javera cene. Akala alternacije šaj te meninen pe ki apoteka. Odova tano o Iljačengoro zavod (Läkemedelsverket) so odlučinela kova iljači šaj te meninel pe javerea.</p>
+    <p xml:lang="swe">Te isi buteder generikane iljačija hem odova so terdžola ki recepta nane o najeftino tegani i apoteka mora te meninel ko odova iljači so isi ole i najeftio cena. Samo i najeftino alternacija soj tani sa subvencirimi.manuš šaj te birinel te kinel odova iljači so terdžola ki recepta ama tegani manuš korkori platinela, odova na khuveka ki zaštita kotar o učokoštiba. Manuš te na manglja te del pe oleske odoja alternacija so dela i apoteka a ni odova so terdžola ki recepta tegani manuš šaj te birinel jek javer generikani alternacija ama tegani manuš platinela sa korkoro. Znači samo odova so terdžola ki recepta hem o najeftino menibaskoro iljači so ovela učhardo kotari subvencija. O razlog bašo odova tano niko te na platinel poviše nego so trebela bašo disavo iljači – keda isi isto iljači ama poviše sorte razne cenencar.</p>
+    <p xml:lang="swe">Manuše te isi medicikane soskipa te koristinel pes taro jek iljači specijalno fabrikatar tegani o doktori šaj te pisinel ki recepta kaj o iljači našti te meninel pe. Tegani manuš na trebela te platinel o ekstra koštibe telo uslov o iljči te ovela učhardo kotar i zaštita bašo učokoštibe. Medicikano soskipe šaj te ovel manuš tej alergično ki bojengiri substancija ko jek hapi ja pale tej manušeske pharo te phravel i pakovka.</p>
+    <p type="title" xml:lang="swe">Periodeskoro šeji</p>
+    <p xml:lang="swe">O TLV odlučinela save cene ka važinen palo odova keda jek iljačengiri firma rodela te meninel pe i cena. Jekhe iljačeskiri cena šaj te meninel pe sakova masek.</p>
+    <p xml:lang="swe">Keda i ko pučibe o generikane iljačija okova iljači so ovela ole najtikni cena oleske vakerela pe periodeskoro šeji. O TLV informirinela e apoteka koja alternacija tani periodeskoro šeji so ola ka meninen. O TLV odlučinela hem bašo duj alternacije keda nane više periodeskoro šeji. Znači odova šaj te varirinel taro masek ko masek ki savi alternacija i apoteka ka meninel.</p>
+    <p xml:lang="swe">O cili e periodeskere šejea tano te šaj o porezeskere love soj tane rezervirime baši iljačengiri subvencija te resel so poviše manušenge so šaj.</p>
+    <p xml:lang="swe">E periodeskoro šeji tano isto ko sa o apoteke. Ama disavo puti šaj te ovel adžahar so disavi apoteka kindža but kotar e periodeskoro šeji. Tegani i apoteka šaj te biknel odova hem ko javer masek. Odova značinela kaj manuš šaj te ovel nudimo te lel e nakhle masekoskoro šei ki jek apoteka a ki javer apoteka šaj te ovel nudimo akale masekoskoro šei. Akale duje šejen šaj te ovel javer cena.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">I zaštita kotar učokoštiba</p>
+    <p type="title" xml:lang="swe">Manuš platinela hembut 2200 krune ko berš</p>
+    <p xml:lang="swe">I zaštita kotar učokoštiba značinela kaj manuš šaj te platinel hembut 2200 krune ko berš. Bašo odova vakerela pe učokoštibaskoro periodi.</p>
+    <p xml:lang="swe">O učokoštibaskoro arakhiba važinela bašo okola iljačija so dela pe manušeske ki recepta hem so o TLV rešindža odova te ovel subvencirimo. Odova važinela hem bašo potrošna buča so dela pe manušeske ki jek adžahar anavjardi pomožibaskir karta.</p>
+    <p xml:lang="swe">Keda i ko pučibe komaj sa o iljačija manuš platinela sakova drom sar so vakerela pe jek ličnotaksa keda lela iljačija ki recepta sa džikote te resel manuš dži ko 2200 krune. Odova važinela hem bašo potrošna buča keda isi manuše stomija.</p>
+    <p xml:lang="swe">Bašo disave iljačija manuš na platinela ličnotaksa. Te isi manuše diabetis hem koristinela insulini tegani manuš na platinela bašo insulini. Te isi manuše disavo nasvalipe so ovela učhardo kotar o zakoni bašo zaraznoarakhibe tegani o landstinget platinela celo suma bašo iljači te šaj te tiknjarel pe i zaraza, ko primer o virusčhinavibaskoro iljači bašo HIV</p>
+    <p xml:lang="swe">Disave landstingia platinena sa ja pale jek kotor kotar i ličnotaksa bašo disave iljačija hem baši disavi pacientengiri grupa, ko primer o pilule bašo terne džuvlja.</p>
+    <p xml:lang="swe">Manuš na platinela bašo potrošna buča soj potrebno e teloske kotar iljačija hem te šaj korkori te kontrolirinel pli medicina. Primer bašo odova šaj te ovel o inekcije hem o posavibaskere buča bašo meribe o šekeri ko rat.</p>
+    <p type="title" xml:lang="swe">I ličnotaksa pali učikoštibaskiri skala</p>
+    <p xml:lang="swe">Keda manuš počminela jekhe učekoštibaskere periodeja bašo jek berš, tegani manuš platinela korkori celo suma bašo iljači hem stomikane buča sa dži kote manuš na platinela 1100 krune. Palo odova lena te tiknjon o ličnotakse sar so terdžola ki adžahar anavjardi učekoštibaskiri skala. Ko sakova nevo kinibe manuš startinela kotar o paluno kinibe hem džala upre ki skala.</p>
+    <p xml:lang="swe">Keda manuš platindža 2200 krune tegani manuš na trebela te platinel poviše dži ko krajo e učekoštibaskere periodeske .Jek predulov bašo odova tano o iljači so lela manuš te ovel učhardo kotar o učokoštibaskoro arakhibe. Keda završinela o učokoštibaskoro periodi tegani manuš počminela neve periodeja keda kinela javer puti, bizo razlika kori tano manuš ki učekoštibaskiri skala.</p>
+    <p type="title" xml:lang="swe">Adžahar funkcirinela e učekoštibaskiri skala</p>
+    <p xml:lang="swe">Sa e iljačeskoro koštibe</p>
+    <p xml:lang="swe">Manuš platinela najviše</p>
+    <p xml:lang="swe">5 400</p>
+    <p xml:lang="swe">2 200</p>
+    <p xml:lang="swe">3 900</p>
+    <p xml:lang="swe">90% rabatt</p>
+    <p xml:lang="swe">2 050</p>
+    <p xml:lang="swe">2 100</p>
+    <p xml:lang="swe">75% rabatt</p>
+    <p xml:lang="swe">1 600</p>
+    <p xml:lang="swe">1 100</p>
+    <p xml:lang="swe">50% rabatt</p>
+    <p xml:lang="swe">1 100</p>
+    <p xml:lang="swe">0% rabatt</p>
+    <p xml:lang="swe">I tabla sikavela sar o učokoštibaskoro arakhibe kerela manuš postepeno te platinel pohari.</p>
+    <p type="title" xml:lang="swe">Specijalna hajba e čhavenge</p>
+    <p xml:lang="swe">Hem o hajba e čhavenge, šaj te oven subvencirime, soj tikneder kotar 16 berš hem so isi olen disave nasvalipa, ko primer ked ana podnesinena gluteni. O hajba pisinena pe ki jek adžahar anavjardo hajbaskoroupustvo hem manuš šaj te lel kotar o jek puti hajbe 90 divesenge. Sakova puti keda lela o hajbe platinela pe 120 krune sar ličnotaksa ama akaja taksa na računinela pe ko učekoštibaskoro arakhiba.</p>
+    <p type="title" xml:lang="swe">Kobor manuš šaj te kinel kotar o jekputi?</p>
+    <p xml:lang="swe">Manuš našti te kinel kobor manuš mangela ko učokoštibaskoro arakhiba. I količina so šaj te kinel pe tani dži ko 90 divesa, mangela te phenel pe komaj trine masekonge. O buča protiv ačhojbe khamni sar soj o pilule ja pale o suvja bašo na ačhojbaske khamni na khuvena ko akava trine masekongoro pravilo.</p>
+    <p xml:lang="swe">Te ljilja manuš receptaja poviše puti tegani šaj manuš pale te lel tek tegani keda ka nakhel duj tretine kotar odova vreme so računinela pe kaj ka resel o iljači kotar o posledno lejbe. Ko primer te ljilja manuš jek iljači so ka resel trine masekonge, tegani trebela te nakhen duj masekija angleder te šaj te lel pe receptaja odova iljači pale.</p>
+    <p xml:lang="swe">Manuš šaj te kinel pobari količina kotar odova so šaj te ikalel pe receptaja ama tegani manuš mora te platinel celo cena bašo sa okova so nakhavela e trine masekongiri upotreba. O doktori te pisindža kaj mora te nakhel jek periodi maškar akala ikaliba tegani mora manuš te adžikerel sar so pisindža o doktori.</p>
+    <p xml:lang="swe">Te isi manuše specijalno soskipa, ko primer kaj manuš ka ovel ko javera phuvja poviše taro trin masek tegani šaj te lel pe iljačija so ka khuven ko učokoštobaskoro arakhiba bašo poviše kotar trin masek. Ama tegani manuš trebela te dokažinel odova, ko primer kartencar.</p>
+    <p type="title" xml:lang="swe">Keda važinela o učokoštibaskoro arakhiba?</p>
+    <p xml:lang="swe">Kaj te šaj te važinel o učokoštibaskoro arakhiba tegani okova so pisinela o iljači, mora te ovel ole/ola plo bučakorothan so ka dičhol sar kodi ki recepta. Tej i recepta tani asavki kori so e iljače isi ograničimi subvencija tegani mora okova so pisinela i recepta te čhivel jek markeri kaj ka važinel o učekoštibaskoro arakhiba.</p>
+    <p xml:lang="swe">E učekoštibaskoro arakhiba važinela okoleske/okolake so bešela ja pale kerela buti ki Švedija ja pale te isi ole/ola evropikani siguribaskirikarta kotar jek javer ETEM phuvja (Evropikane thana bašo ekonomikano maškarbutikeriba) ja pale kotar i Švajcarija. I evropikani siguribaskirikarta ka sikavel pe hem ko doktori hem ki apoteka. E Švedija isi ola dogovor hem javere phuvjencar avri kotar i Evropa: Alžir, Australija, i provincija Kvebek ki Kanada, akava značinela kaj e iljačengere beneficije važinena akale državljanenge te trebindža olenge iljačija keda ka oven ki Švedija.</p>
+    <p xml:lang="swe">Sa o čhave soj potikne kotar 18 berš hem tane taro jek kher, mangela te vakerel pe kaj tane registririme ki isto adresa, olende isi zaedničko učekoštibaskoro arakhibe. Odova značinela kaj e čhavengiri ličnotaksa računinela pe zaedno. Odova značinela kaj o čače phenja-phralja soj registririme ko javera adrese olen isi posebno učekoštibaskoro arakhiba.</p>
+    <p type="title" xml:lang="swe">Učekoštibaskiri databaza</p>
+    <p xml:lang="swe">Manuš na trebela korkori te računinel kobor kindža. Ki adžahar anavjardi učekoštibaskiri databaza, kasaja kerela buti jek državno Ehälsomyndigheten, othe registririnena pe sa o kiniba keda i ko pučibe o učekoštibaskoro arakhiba. Othe o sistemi dikhela hem računinela kobor manuš platindža bašo ličnotaksa hem računinela kobor rabati ovela prema o učekoštibaskoro arakhiba bašo sakova kiniba. Sa o apoteke tane phanle ki akaja databaza, odoleske nane važno ki savi apoteka manuš kinela.</p>
+    <p xml:lang="swe">Odova tano dobrovoljno te uključinel pe ko učikoštibaskiri databaza. Odova so registririnela pe ki databaza tano: anav, personalno broj, kinibaskordatum, ki savi apoteka manuš ljilja pli recepta, kobor manuš platindža i suma so reslja pe bašo učekoštibaskoro arakhiba hem o startno periodi bašo učekoštibaskoro periodi. I informacija so registririnela pe koristinela pe samo te šaj manuš te koristinel plo pravo bašo rabati. Na garavena pe podatke bašo savo iljači manuš ljilja ja pale taro savo doktori tani pisimi i recepta.</p>
+    <p xml:lang="swe">Manuš šaj bilo keda te rodel jek kotor kotar o učekoštibaskiri databaza hem te dikhel pe save podatke isi othe bašo jek manuš hem bašo o čhave so manuš arakhela olen. Odova kerela pe adžahar so manuš pherela hem bičhalela jek formulari dži ko Ehälsomyndigheten, isto akatar poručinela pe hem o formulari.</p>
+    <p type="title" xml:lang="swe">Te birinel pe te ovel pe avri</p>
+    <p xml:lang="swe">Manuš šaj te birinel te na ovel uključimo ko učekoštibaskiri databaza. Tegani keda kinela pe iljačija ki apoteka so ovena učharde kotar o učokoštibaskoro arakhiba dela pe e manušeske jek potvrda, olake vakerela pe učekoštibaskiri potvrda,. Ki učikoštibaskiri potvrda terdžola kobor platindža manuš ličnotaksa. But i važno te šparinel pe i paluni učekoštibaskiri potvrda hem te sikavel pe zaedno e receptaja keda manuš kinela iljačija. I apoteka trebela te džanel ko savo nivo tano manuš keda i ko pučibe i učikoštibaskiri skala te šaj te del pe manušeske točno rabati.</p>
+  </body>
+</document>

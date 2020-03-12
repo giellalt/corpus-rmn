@@ -1,0 +1,99 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1481</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Kontraceptikane-hapija-Hapija-bao-na-ahojbe-khamni</origFileName>
+    <parallel_text xml:lang="fin" location="ehkaisypilleri.html"/>
+    <parallel_text xml:lang="fit" location="p-pilleri.html"/>
+    <parallel_text xml:lang="sma" location="p-pillere.html"/>
+    <parallel_text xml:lang="sme" location="p-pillar.html"/>
+    <parallel_text xml:lang="smj" location="p-tablahtta.html"/>
+    <parallel_text xml:lang="swe" location="p-piller.html"/>
+    <parallel_text location="p-tabus.html" xml:lang="rmu"/>
+    <parallel_text location="p-piller.html" xml:lang="rmf"/>
+    <parallel_text location="p-piller.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="preventivno-drab.html" xml:lang="rmy-rka"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Kontraceptikane hapija/ Hapija bašo na ačhojbe khamni</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Kontraceptikane hapija/ Hapija bašo na ačhojbe khamni</p>
+    <p xml:lang="swe">Akala hapija tane bašo o džuvlja te kontrolirinel pe o bijanibe. Bašo kontraceptikane hapija vakerela pe isto hem kombinirime kontraceptikane hapija. Olende isi duj različno hormonija: ostrogen hem gestageni (taro žutoteloskoro telo), kova so maškar o javera buča kerena te na ovel ovulacija hem tegani i džuvli našti te ačhol khamni.</p>
+    <p xml:lang="swe">Isi pherdo razna kombinirime kontraceptikane hapija, ko disave isi poviše ostrogeni a ko javera isi poviše gestageni. Ola uticinena upro telo ko razna načinija. Odoleske o džuvlja trebela te probinen odova so ka ka pasujnel najšukar olengere teloske. O hapija bašo na ačhojbe khamni so isi olen samo o hormoni gestagen ki tikni doza, olenge vakerela pe minihapija. Isi hem asavke hapija so isi olen bari doza gestagen hem ola isi olen isto funkcija sar o kombinirime hapija te na ačhol pes khamni.</p>
+    <p xml:lang="swe">Savi karta e džuvlja ka ovel zavisinela kotar savi sorta hapija lela. Te ovel e džuvlja jek karta kori so isi hem tablete bizo hormonija šaj te ovel šukar keda e džuvljake tano pharo te setinel pe keda ka počminel pe neve kartaja.</p>
+    <p xml:lang="swe">Ko odova kurko kori so i džuvli piela o hapija bizo hormonija ja pale na lela disave hapija tegani ovela ola diso sar mensturacija. Bašo odova vakerela pe disavo puti hapengiri mensturacija ja pale peravibaskoro ratvariba. Hem te na ljilja i džuvli hapija bašo na ačhojbe khamni ko odova kurko oj ovela panda arakhli kotar o khamnipa.</p>
+    <p type="title" xml:lang="swe">Sar lena pe o hapija bašo na ačhojbe khamni?</p>
+    <p xml:lang="swe">Keda i džuvli lela o hapija bašo na ačhojbe khamni tegani isi ola jek hapengiri karta kori so isi 21 ja pale 28 hapija. Tegani trebela te lel pe jek hapi ko dive skoro ko isto vreme.</p>
+    <p xml:lang="swe">Te isi jek hapengiri karta <em type="italic">21 </em>hapencar tegani keda piena pe sa o hapija kotar i karta palo odova kerela pe jek pauza taro jek kurko. </p>
+    <p xml:lang="swe">Tej i karta <em type="italic">28 tegani ko palune divesa lela pe hapija bizo hormonija </em>. </p>
+    <p xml:lang="swe">Kobot hapija bizo hormonija ka ovel zavisinela kotar odova save hapija i džuvli piela. O hapija so nane olen hormonija, disavo puti olenge vakerela pe šekereskere hapija.</p>
+    <p type="title" xml:lang="swe">Te bisterdža i džuvli o hapija ja pale te čhadlja</p>
+    <p xml:lang="swe">Važno i te len pe hapija otprilike ko isto vreme sakova dive. Manuš te našadža buteder kotar 12 sahatija, znači te nakhlja buteder kotar 36 sahatija maškar duj hapija, tegani isi riziko te na ovel i džuvli arakhli.</p>
+    <p xml:lang="swe">Kobor vreme šaj te nakhel maškar duj hapija zavisinela kotar odova savi sorta hapija piela pe hem kori tani i džuvli ki hapengiri karta. So važinela baš bašo odola hapija so isi e džuvlja terdžola ko hapengoro upustvo. E hapengoro upustvo tano o ljil soj andre ki pakovka keda kinela manuš ple hapija bašo na ačhojbe khamni.</p>
+    <p xml:lang="swe">Manuš šaj hem te kontaktirinel e ambolanta kotar soj lindi i recepta bašo hapija bašo na ačhojbe khamni.</p>
+    <p xml:lang="swe">Te isi riziko e džuvlja te na ovel ola arakhibe kotar khamnipa tegani trebela te kerel pe adžahar:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Le o hapi ja pale o hapija so preskočindžan olen so posigate so šaj.</p>
+      <p type="listitem" xml:lang="swe">Keda manuše isi seksi trebela te koristinel pe ko jek kurko kondomi ja pale diafragma (kontracepcija). Tegani i džuvli ovela pale arakhiba.</p>
+      <p type="listitem" xml:lang="swe">Te sine e džuvlja seksi ko palune pandž divesa angleder te bistrel te lel plo hapi tegani trebela te lel pe jek akutno pilula, odoleske so o spermatozoidija šaj te ačhon dživde ki materica hem ko jarengoro ingariba poviše dive.</p>
+    </list>
+    <p xml:lang="swe">Keda piela pe o hapi hem na nakhela poviše kotar štar sahatija a čhadela pes manuš ja pale te džala manuš avri peste pajnalo tegani nane sigurno kaj o telo reslja te biljavkerel e hormonen. Tegani trebela te lel pe jek nevi tableta kaj te šaj te ovel arakhiba.</p>
+    <p xml:lang="swe">I nevi tableta trebela te lel pe kotar jek nevi hapengiri katra te na falinel diso ki hapengiri karta so koristinela celo vreme. I javer hapengri karta šaj koristinela pe sar rezerva keda ka trebel te lel pe ekstra hapi.</p>
+    <p xml:lang="swe">Te sine manuše prolif ja pale te uli i džuvli nasigurno dali lilja o hapi ja pale na, tegani trebela te arakhel pes kondomeja ja pale dijafragmaja (kontracepciaja) jek celo kurko.</p>
+    <p xml:lang="swe">Manuš te osetinela pes nasigurno tegani šaj te obratinel pe ki jek babica ki ternengiri ambolanta ja pale ki dajengiri centrala.</p>
+    <p type="title" xml:lang="swe">Te meninel pe e mensturacijakoro vreme e hapencar bašo na ačhojbe khamni</p>
+    <p xml:lang="swe">Disavo puti šaj te ovel praktično te meninel pe e mensturacijakoro vreme, ko primer keda manuš ka džal ko drumo. Odova šaj te kerel pe e hapencar bašo na ačhojbe khani. Odova kerela pe adžahar so keda završinela i jekto hapengiri karta tegani lela pe odma i dujto karta. Te lela pe e šekerengere hapija tegani preskočinena pes ola hem lela pe direktno jek nevi hapengiri karta. Odova značinela kaj na kerela pe pauza e hormonengere hapencar sa dži kote i džuvli na mangela te ovel ola mensturacija, ko primer keda ka iranel pes kotar o drumo.</p>
+    <p xml:lang="swe">Te premestinel pe i mensturacija adžahar nane opasno, odova šaj te kerel pe ko poviše masekija.</p>
+    <p xml:lang="swe">Ama so poviše premestinela pe i mensturacija odoborom poviše isi riziko o premestibe te na uspejnel hem tegani i džuvli ratvarela ko sakova slučaj. Odoleske manuš delagodi te mukhel pe te ovel mensturacija ko sakova trinto masek, mangel te phenel pe štar puti ko berš.</p>
+    <p type="title" xml:lang="swe">Tikno riziko baši rateskiri grutka</p>
+    <p xml:lang="swe">O arakhibaskere buča so isi olen ostrogeni barakerena o riziko te ovel rateskiri grutka. Ama odova riziko tano but tikno. Ko primer pobaro riziko isi te ovel rateskiri grutka ko khamnipe nego keda piela pe hapija bašo na ačhojbe khamni.</p>
+    <p xml:lang="swe">O riziko bašo rateskiri grutka ovela pobaro tej manuš thulo, te sine olakere daja ja dade rateskiri grutka ja pale phenjen hem phralen angleder te pheren 50 berš ja pale e džuvlja te sine rateskiri grutka angleder. Tegani obično preporučinela pe e džuvljake te lel arakhibaskere buča protiv khamniba so nane olen ostrogeni, ko primer arakhibaskiri čečkalica ja minihapija.</p>
+    <p type="title" xml:lang="swe">Kori šaj te len pe o hapija bašo na ačhojbe khamni?</p>
+    <p xml:lang="swe">O hapija bašo na ačhojbe khamni lena pe receptaja so dela pe kotar i babica ja pale kotar jek doktori ki ternengiri ambolanta, dajengiri centrala ja pale ko centar bašo seksi hem zaedničko dživdipe. Manuš šaj te obratinel pe hem ki džuvlengiri klinika ja pale ki ambolanta. O tablete lena pe kotar i apoteka.</p>
+    <p type="title" xml:lang="swe">Kobor koštinena o hapija bašo na ačhojbe khamni?</p>
+    <p xml:lang="swe">Kobor koštinena o hapija bašo na ačhojbe khamni zavisinela kotar odova kori manuš bešela hem kobor berš isi manuše. Ama komaj ko but landstingija hem regionija o buča bašo na ačhojbe khamni tane poeftino okolenge soj poterne kotar 20 berš.</p>
+    <p type="title" xml:lang="swe">Kobor tane sigurna o hapija bašo na ačhojbe khamni?</p>
+    <p xml:lang="swe">Te pilja manuš ple hapija sar so trebela tegani o riziko te ačhol pes khamni tano but tikno.</p>
+    <p type="title" xml:lang="swe">Sar čhinavela pe o khamnipa e hapencar bašo na ačhojbe khamni?</p>
+    <p xml:lang="swe">Te manglja manuš te čhinavel o khamnipa e hapencar bašo na ačhojbe khamni tegani manuš trebela te piel celo hapengiri karta so počmindža ola hem palo odova te na lel nevi..</p>
+    <p xml:lang="swe">Nane opasno te čhinavel pe akale hapencar hem keda manuš počmindža te koristinel jek karta, ama tegani isi riziko bašo naredovno ratvariba. Keda isi vaginalno seksi hem te na manglja i džuvli te ačhol khamni tegani but i važno te koristinel pes javera buča bašo na ačhojbe khamni.</p>
+    <p xml:lang="swe">Keda čhinavela pe e hapencar bašo na ačhojbe khamni, kobor sigate ka ovel e džuvlja mensturacija zavisinela tari džuvli ki džuvli. Disave džuvlja ovela olen redovna mensturacija a javerenge šaj te lel masekija bizo mensturacija.</p>
+    <p xml:lang="swe">Te na manglja i džuvli te ačhol khamni tegani but i važno te arakhel pes keda isi ola vaginalno seksi mada nane mensturacija. I ovulacija ovela 14 divesa angleder i mensturacija hem tegani isi najbaro riziko te ačhol pes khamni.</p>
+    <p xml:lang="swe">Te nane e džuvlja mensturacija palo šov masek palo čhinavibe o pijbe akala hapija tegani i džuvli trebela te kontaktirinel džikas ki ternengiri ambolanta, ki babica, ki morčakiri hem spolno organengiri ambolanta ja pale ki obično ambolanta hem te dikhel pe soske odova tano adžahar.</p>
+    <p type="title" xml:lang="swe">Šukar buča (Prednostia)</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Odova tano jek sigurno arakhibe taro khamnipa.</p>
+      <p type="listitem" xml:lang="swe">I mensturacija ovela pohari hem ovela redovno.</p>
+      <p type="listitem" xml:lang="swe">Ovena pohari mensturacijakere dukha.</p>
+      <p type="listitem" xml:lang="swe">O riziko baši inflamacija ko jarengere ingardžie hem bašo rako ko jarengorothan hem ki materica ovela potikno.</p>
+      <p type="listitem" xml:lang="swe">Šaj te premestinel pe e mensturacijakoro vreme ko primer te džala manuš ko drumo.</p>
+    </list>
+    <p type="title" xml:lang="swe">Našukar buča</p>
+    <list>
+      <p type="listitem" xml:lang="swe">O hapija bašo na ačhojbe khamni na arakhena kotar seksualikane nasvalipa.</p>
+      <p type="listitem" xml:lang="swe">O hormonija šaj te keren ko primer te ovel manuše šereskiri dukh, te ovel bubulice ja pale te ovel manuš mazumi. Akala hapija uticinena upro sakova manuš javerčhane odoleske manuš šaj te meninel olen te isi manuše but bilačho dejstvo.</p>
+      <p type="listitem" xml:lang="swe">Te čhadlja pes, manuš te džala avri peste pajnalo ja pale te bisterdža te piel o hapi tegani manuš našti te ovel sigurno kaj našti te ovel khamni.</p>
+    </list>
+  </body>
+</document>

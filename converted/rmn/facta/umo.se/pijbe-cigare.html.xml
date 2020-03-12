@@ -1,0 +1,81 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>873</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Pijbe-cigare</origFileName>
+    <parallel_text xml:lang="fin" location="tupakointi.html"/>
+    <parallel_text xml:lang="fit" location="polttaminen-eli-tupakointi.html"/>
+    <parallel_text xml:lang="sma" location="rievhkestimmie.html"/>
+    <parallel_text xml:lang="sme" location="borgguheapmi.html"/>
+    <parallel_text xml:lang="smj" location="suovastibme.html"/>
+    <parallel_text xml:lang="swe" location="rokning.html"/>
+    <parallel_text location="tyja.html" xml:lang="rmu"/>
+    <parallel_text location="thuviba.html" xml:lang="rmf"/>
+    <parallel_text location="kana-pel-pe-duxano.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="te-phes-duhano.html" xml:lang="rmy-rka"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Pijbe cigare</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Pijbe cigare</p>
+    <p xml:lang="swe">Keda manuš piela cigare tegani manuš cidela ani peste pherdo otrovna buča. O pijbe cigare šaj te keren razna štete hem nasvalipa, komaj sakova dujto manuš so piela cigare merela posigate. Plus odova o dohani tano skupo hem ov šaj te kerel manuše te bubulice, pološno kondicija hem pohari merako bašo seksi. Ama pale manuš lela te piel cigare kaj te šaj te ovel fraeri/fraerka hem zgodno.</p>
+    <p xml:lang="swe">Kaj te šaj te arakhen pe o terne kotar e dohaneskere opasnostija, isi jek zakoni kori so vakerela pe kaj manuš na tromala te kinel dohani tej potikno kotar 18 berš.</p>
+    <p type="title" xml:lang="swe">Dohani</p>
+    <p xml:lang="swe">Manuš šaj te piel dohani sar cigare, thule pure, sane pure, lula hem sar pajnali lula. O cigare tane najobična. Ko cigare nane samo dohani, ke cigarakoro thuv tari jek cigara isi komaj 4000 hemiska substancije. But olendar šaj te keren te ovel manuše rako. O najopasna olendar tane:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Nikotini, jek substancija soj mukhli te ovel samo ko cigare hem ko produktija so ka pomožinen te čhinavel pe o pijbe cigare ja pale o snufi. O nikotini tano odoborom opasno so te khudža nikotini taro štar cigare direktno ko rat tegani manuš merela.</p>
+      <p type="listitem" xml:lang="swe">Cijanpajnali šutalin (HCN), jek otrovno gasi.</p>
+      <p type="listitem" xml:lang="swe">Angaralo monoksidi (CO), jek otrovno gasi so isi maškar o javera buča ko verdangoro mukhibe gasi.</p>
+      <p type="listitem" xml:lang="swe">Katrani, othe isi pherdo substancijere, jek kotor olendar šaj te keren te ovel rako. Osim ko cigare koristinela pe ko asfalti hem ko farbe.</p>
+      <p type="listitem" xml:lang="swe">Primer bašo javera opsna substancije tane: olovo, kadmiumi, amonikao, benzeni hem radioaktivno poloniumi.</p>
+    </list>
+    <p type="title" xml:lang="swe">Sose manuš lela te piel cigara?</p>
+    <p xml:lang="swe">Keda manuš i avri ple amalencar tegani manuš probinela te piel cigara. Manuš mangela te probinel o ukus hem o oset. Šaj manuš mislinela kaj odova tano fraerluko. Skoro sarinenge na svidžinela pe o ukus o prvo puti.</p>
+    <p xml:lang="swe">Džiko tharela cigara kaj te šaj te osetinen pes pobare ja pale samostalna. Džiko mislinela kaj odova kerela te šaj te ovel pe javere manušencar – okola so piena cigare.</p>
+    <p type="title" xml:lang="swe">Buteder manuša džanena kaj odova i opasno</p>
+    <p xml:lang="swe">Buteder manuša džanena kaj i opasno te piel pe cigara. Ama but i lokhe te mislinel pe kaj manuš lično na ka ovel nasvalo kotar odova, ja pale mislinela kaj ka čhinavel o cigare angleder te ovel opasno.</p>
+    <p xml:lang="swe">Te počmindža manuš te piel cigare tegani sigate ka primetinel disave buča, ko primer i kondicija ovela poslabo. Odova zavisinela kotar odova so keda manuš piela cigara o telo tegani lela poslabo oksigeni (O) kotar o luft, hem o nikotini soj ki cigara kerela o vilo te khuvel but posigate.</p>
+    <p xml:lang="swe">So porano manuš ko dživdipe lela te piel cigare odoborom pobare tane o rizikija te ovel zavisno hem te ovel ole šteta hem nasvalipa taro cigare. Angleder o parne bukhe te oven gotova resle ola tane but osetliva prema o thuv. Mada na trebela te ovel lokhe e ternenge so isi olen pohari kotar 18 berš te aven dži ko dohani, but terne manuša lena te pien cigara.</p>
+    <p type="title" xml:lang="swe">Pasivno pijbe cigara</p>
+    <p xml:lang="swe">Keda i manuš paše uzo džiko javer so piela cigara, ko primer ki isto soba, tegani manuš cidela ani peste o gasija so isi ko thuv. Bašo odova vakerela pe pasivno pijbe cigara. O pasivno pijbe cigara tano opasno hem odoleske nane mukhlo pijbe cigara ko restorantija, kafe, ko bučakoro than hem ko javera opšta phanle thana.</p>
+    <p type="title" xml:lang="swe">Te čhinavel pe o pijbe cigara</p>
+    <p xml:lang="swe">But i lokho te ovel pe zavisno kotar o pijbe cigara. Samo palo disave cigare i godi šaj te ovel zavisno kotar o nikotini. Te ovel pe zavisno kotar dohani značinela kaj o telo sikljilo ko nikotini, hem tegani i pharo te na piel pe cigara, bašo odova vakerela pe abstinencija. Ama manuš ovela siklo hem ki navika ovela o pijbe cigara.</p>
+    <p xml:lang="swe">Pharo i te čhinavel pe i cigara, mada manuš mangela odova. Ama pale šaj te čhinavel pe, so posigate manuš čhinavela odova ovela pošukar. Skoro sa o štete hem nasvalipa so ovena tari cigara našavdžovena keda manuš čhinavela o cigare.</p>
+    <p xml:lang="swe">Soske šukar i te na piel pe cigara:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Manuše ovela love javere bučenge, odoleske so skupo i te piel pe cigara.</p>
+      <p type="listitem" xml:lang="swe">Manuše ovela pošukar kondicija keda na piela cigare.</p>
+      <p type="listitem" xml:lang="swe">Manuš i posasto bizo cigate hem akana hem ko budučnost.</p>
+      <p type="listitem" xml:lang="swe">Verovatno manuš živinela poviše te na piela cigara.</p>
+      <p type="listitem" xml:lang="swe">Manuš na holjankerela hem na razočarinela ple daja-dade hem e javeren.</p>
+      <p type="listitem" xml:lang="swe">Manuš na ovela zavisno, na ovela abstinencija bašo dohani, nane telo stres hem tano rahati.</p>
+      <p type="listitem" xml:lang="swe">O šeja na khandena ko thuv.</p>
+      <p type="listitem" xml:lang="swe">Na khandela lošno e manušeskoro duho hem na žutonena o danda.</p>
+      <p type="listitem" xml:lang="swe">Keda isi manuše pohari taro 18 berš tegani isi pošukar buča te kerel pe nego te našavel plo vreme rodindor dohani.</p>
+      <p type="listitem" xml:lang="swe">Manušeskiri mortik na škobavinela pes angleder o vreme.</p>
+      <p type="listitem" xml:lang="swe">O barakeribe dohani meljarela i okolina ko but načinija, hem o manuša so kerena buti dohaneja ovena oštetime kotar e dohaneskere hemiska buča.</p>
+    </list>
+    <p xml:lang="swe">Manuš tej ko dujgodža dali te čhinavel ja pale na , tegani šaj te kerel jek lista kola buča tane šukar a kola nane šukar. Odova šaj te oven tikne hem bare buča keda i ko pučibe plo dživdipa, o javera manuša, i priroda hem javera buča.odola tane lična listia, hem manuš korkori odlučinela ko so manuš ka ikerel pes, hem so mangela te kerel cigaraja.</p>
+  </body>
+</document>

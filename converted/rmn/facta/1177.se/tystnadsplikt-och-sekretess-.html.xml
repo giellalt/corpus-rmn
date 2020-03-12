@@ -1,0 +1,81 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1173</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Tystnadsplikt-och-sekretess-</origFileName>
+    <parallel_text xml:lang="eng" location="professional-secrecy-and-confidentiality.html"/>
+    <parallel_text xml:lang="fin" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="fit" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sma" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="sme" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="smj" location="tystnadplikt-och-sekretess.html"/>
+    <parallel_text xml:lang="swe" location="tystnadsplikt-och-sekretess.html"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rka"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmu"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="yid"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="tystnadsplikt-och-sekretess.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Garavipaskoro dužnost hem sekretesi / Tystnadsplikt och sekretess - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Garavipaskoro dužnost  hem sekretesiTystnadsplikt och sekretess</p>
+    <p xml:lang="swe">Odoleske sarine so kerena buti ko sastipaskoro hem nasvalipaskoro arakhibe isi olen garavipaskoro dužnost. O osnovno principi tano niko kotar o arakhibe te na mukhel disave podatke sa dži kote manuš na dozvolinela odova korkori. Odova šaj te važinel ko primer podatke bašo disavo nasvalipe so isi disave manuše, savo sastljaribe dela pe e manušeske ja pale baši oleskiri/olakiri privatno situacija.</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Keda manuš obratinela pe ko sastipaskoro arakhibe tegani but i važno manuše te ovel poverenje bašo personali. O poverenje tano važno te šaj manuš te osetinel pes sigurno hem te osudinel pes te vakerel phravdo bašo problemija ja pale o simptomija so isi manuše hem te šaj te del pes oleske/olake o arakhibe so trebela. Ko nasvalipaskoro arakhibe važinela isto sekreteseskoro arakhibe sa e pacientenge hem odova bizo razlika dali isi manuše pravo te ovel ki Švedija ja pale na.</p>
+    <p xml:lang="swe">O garavipaskoro dužnost upravinela pe kotar o phravdipaskoro hem sekreteseskoro zakoni odova tano okole manušenge so kerena buti ki država, landsting hem ki komuna, a okola so kerena buti ko jek prifatno arakhibaskoro dejdžija ola trebela te ikeren pe ko regularija bašo garavibaskoro dužnost ko zakoni bašo pacientengoro siguripe. Okova/okoja so phagela o garavipaskoro dužnost šaj te ovel sudimo/sudimi ja pale ko javer način te ovel kaznimo/kaznimi kotar o vlastia so isi olen dužnost te kontrolirinen o arakhiba.</p>
+    <p xml:lang="swe">Maškar o personali ki bolnica ja pale ki ambolanta isi olen garavibaskoro dužnost. Samo okola manuša so kerena kerena buti disave paientea, ola šaj te vakeren maškar peste baši pacienteskiri sastipaskiri situacija ja pale bašo prifatno odnos. Odova značinelakaj ko primer jek doktori šaj te vakerel bašo jekhe pacienteskoro sastljariba jekhe kolegaja te isi olen isto pacienti.</p>
+    <p xml:lang="swe">E garavibaskoro dužnost važinela sa e manušenge so kerena buti ko arakhiba. Bizo razlika dali ola tane ko phravdo ja pale ko prifatno arakhiba hem bizo razlika dali tano odova jek doktori , medicikaniphen, ja pale administratikano personali. O tumačija hem preveduvačija so isi olen dogovor te keren buti ko sastipaskoro hem nasvalipaskoro arakhibe - hem olende isi garavibaskoro dužnost. E garavibaskoro dužnost važinela hem okolenge so kerena buti ki apoteka.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Manuš odlučinela korkori</p>
+    <p xml:lang="swe">Akava zakoni značinela kaj o pacienti te na manglja tegani ni oleskere najpaše manušen nane olen pravo te džanen so ovela ki bolnica. Obično manuš ovela pučlo kotar o personali kaske ola šaj te mukhen disavi informacija. Tegani manuš korkori odlučinela kas ola šaj te informirinen. Ko primer angleder jek operacija manuš šaj te vakerel e personaleske kaj ola šaj te vakeren sar uli i operacija oleskere/olakere paše manušenge angleder oj/ov te džangavdžovel.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">E čhavenge hem e ternenge</p>
+    <p xml:lang="swe">E čhavenge hem e ternenge potikne taro 18 berš važinela odova kaj o stariteli obično isi ole pravo te džanel bašo ple čhaveskoro arakhiba hem so terdžola ko akti/žurnali. Ama o čhave hem o terne soj potikne tro 18 berš šaj te ovel olen pravo korkori te odlučinen hem te phenen bašo arakhibaskoro personali dali ola šaj te mukhen o podatke hem kaske šaj te mukhen. Mangel te phenel pe kaj o stariteli ja pale javer džiko paše manuš e čhaveske, nane olen uvek pravo te džanen so phendža o čhavo e arakhibaskere personaleske ja pale so terdžola ko oleskoro akti.</p>
+    <p xml:lang="swe">Mangela te phenel pe kaj nane disavi beršengiri granica keda o čhavo šaj korkori te odlučinel, odova zavisinela taro manuš ko manuš.</p>
+    <p xml:lang="swe">Ko primer keda o nasvalipaskoro arakhiba ja pale o socijalno arakhiba sumninela kaj o manuš so arakhela e čhave maltreterinela e čhave ja pale našti dela arakhiba e čhave tegani na dena pe oleske/olake o žurnalija.</p>
+    <p xml:lang="swe">Tu so sian potikno taro 18 berš hem te džaja ki jek ternengiri ambolanta othe važinela garavibaskoro dužnost (garavibaskiri tajna) komaj ko sa o slučaja. E personaleskoro sekretesi (garaviba) šaj te phagel pe tu korkori te mukhljan odova hem tej tlo sastipa ko opasnost.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Izuzetko bašo garavibaskoro dužnost</p>
+    <p xml:lang="swe">Mada o sekretesi hem o garavibaskoro zakoni tane but bare hem zorale, ko disave situacije šaj ola phagena pe, tegani o pacienti na trebela te del plo suglasnost. Odova šaj kerela pe ko primer keda</p>
+    <list>
+      <p type="listitem" xml:lang="swe">jek sudo, tužiteli, policija, krunofugde ja pale e porezeskoro vlasti rodela te džanel dali jek manuš sine ko disavo arakhibaskoro than</p>
+      <p type="listitem" xml:lang="swe">e socijalno komisija bašo pravna, socialna hem medicikane pučiba trebela olen podatke ki pli buti</p>
+      <p type="listitem" xml:lang="swe">keda o Transportstyrelsene trebela podatke kaj te šaj te odlučinel bašo džikaskoro sposobnost baši vozačka dozvola, traktoreskiri dozvola ja pale taksilegitimacija</p>
+      <p type="listitem" xml:lang="swe">trebela informacija kaj te šaj te dikhel pe dali jek studenti šaj te ikalel pe kotar i učiškola</p>
+      <p type="listitem" xml:lang="swe">trebela podatke bašo jek pravnomedicinsko istraga.</p>
+    </list>
+    <p xml:lang="swe">Keda isi sumnja bašo disavo phagibe soj tano seriozno hem so šaj te del najhari jek berš phanlipa, tegani isi pravo e arakhibaskere personale te phagel i garavibaskiri dužnost odolea so prijavinela ki policija o phagiba hem odgovorinela ko pučiba tari policija hem kotar o tužibaskere vlastija. Primer bašo asavke phagiba tane: mudariba, silujba hem grubo maltretiriba. Isi isto hem disave saobračajna phagiba kori so e kaznakiri skala nane odoborom bari sar soj ko primer vozibe mato, ama e arakhibaskere personale isi pravo te prijavinen odova.</p>
+    <p type="title" xml:lang="swe">Specijalno izuzetko bašo čhave</p>
+    <p xml:lang="swe">Keda i ko pučibe o čhave tegani kerela pe specijalno izuzetko bašo phagibe e garavipaskoro dužnost o arakhibaskoro personali te sumnindža kaj kerela pe disavo phagibe keda i ko pučibe čhavo. Odova šaj te ovel ko primer maltretiribe ja pale seksualikano koristibe.</p>
+    <p xml:lang="swe">Te sumninela e arakhibaskoro personali kaj jek čhavo ovela maltretrimo tegani o personali trebela te prijavinel odova ko socijalno, palo odova o socijalno kerela jek istraga hem eventualno kerela prijava ki policija. Odova važinela hem keda kerela pe disavi istraga keda i ko pučibe zaštita bašo jek napunoletno čhavo/čhaj. O arakhibaskoro personali tegani tano dužno te mukhel informacija so šaj te ovel važno baši istraga.</p>
+    <p type="title" xml:lang="swe">E Siguribaskiri kasa hem e siguribaskere firme</p>
+    <p xml:lang="swe">Manuš korkori odlučinela dali o sastipaskoro hem nasvalipaskoro arakhibe ka mukhel podatke bašo odova save nasvalipa isi manuše ja save sastljariba dela pe manušeske. Ama keda manuš i nasvalo hem rodela te del pe oleske/olake nasvalipaskere love kotar e Siguribaskiri kasa, tegani e arakhibaskoro personali trebela te mukhel odoja informacija so ka trebel te šaj te proceninel pe dali manuše isi pravo bašo nasvalipaskere love.</p>
+    <p xml:lang="swe">Odova važinela hem keda manuš ovela khuvdo ja pale nasvalo hem mangela te del pe oleske/olake nadoknada kotar oleskoro/olakoro siguribaskiri firma. Tegani isi pravo e siguribaskere firma te lel o podatke so trebela kaj te šaj te proceninel dali manuše isi pravo te lel i nadoknada.</p>
+    <p type="title" xml:lang="swe">Phagibe o garavibaskoro dužnost</p>
+    <p xml:lang="swe">Mada isi disave situacije kori so o arakhibaskoro personali šaj ja pale trebela te phagen o garavibaskoro dužnost – odova tane samo izuzetkija. I osnovno misla tani e garavibaskoro dužnost te štitinel e paciente.</p>
+    <p xml:lang="swe">Manuš sar pacienti te sumninela kaj džiko kotar o arakhibaskoro personali phaglja o garavibaskoro dužnost tegani šaj te prijavinel odova ki policija ja pale ko Socialstyrelsen. Odova šaj te kerel odova manuš te ovel tužimo hem osudimo.</p>
+  </body>
+</document>

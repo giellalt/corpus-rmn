@@ -1,0 +1,100 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1589</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Om-man-inte-ar-nojd-med-varden</origFileName>
+    <parallel_text xml:lang="eng" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fin" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="fit" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sma" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="sme" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="smj" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text xml:lang="swe" location="om-man-inte-ar-nojd-med-varden.html"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rka"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmu"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="yid"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="om-man-inte-ar-nojd-med-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Manuš te nane zadovolno e arakhibaja / Om man inte är nöjd med vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Manuš te nane zadovolno e arakhibajaOm man inte är nöjd med vården</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">So važinela?</p>
+    <p type="title" xml:lang="swe">Manuše isi pravo te rovel pe</p>
+    <p xml:lang="swe">Sar pacienti ko sastipaskoro hem nasvalipaskoro arakhibe manuše isi pravo te ovel dodžakedo respekteja hem del pes olake/oleske haljovdi informacija bašo sastipaskiri situacija hem bašo dikhljariba a isto adžahar bašo sastljariba. Manušeske ka del pe jek šukar arakhibe šukar kvaliteteja.</p>
+    <p xml:lang="swe">Manuš te nane zadovolno e arakhibaja so dindža pe oleske/olake ja pale te nane zadovolno e dožaribaja, tegani manuše isi pravo te rovel pes hem te mukhel ple primedbe. Odova važinela sar bašo tikne problemija adžahar bašo bare kola so šaj te keren te ovel manuše šteta zauvek ja pale so šaj te keren meribe. Manuš šaj te kerel jek prijava kori so o cili tano te kerel pe pošukar i buti.</p>
+    <p xml:lang="swe">Isi poviše thana kori so manuš šaj te rovel pe. Ka ovel šukar te rodel pe pismeno odgovor kaj te šaj te čitinel pe mirno hem rahati o odgovor hem te na ovel nahaljoviba.</p>
+    <p type="title" xml:lang="swe">Rov tut direktno ko arakhibaskoro personali</p>
+    <p xml:lang="swe">Šukar i sar prvo te obratine tut direktno ko okova doktori ja pale javer arakhibaskoro personali so kerdža o dikhljaribe hem sastljaribe. But puti odova šaj o nahaljoviba te tiknjaren pe ko odova način hem na mukhela pe than odova te ovel pale. Manuš šaj uvek te obratinel pe hem ko jek odole odelenjeskoro šefi kori so dindža pe o arakhiba, ko primer butikeribaskoro šefi ki ortopedija</p>
+    <p xml:lang="swe">Keda i ko pučibe o komunalno sastipaskoro hem nasvalipaskoro arakhibe sar soj ko primer o kherutno nasvalibaskoro arakhibe tegani manuš obratinela pe ki odgovorno medicikani phen ki komuna, bašo odova vakerela pe hem MAS.</p>
+    <p xml:lang="swe">Koja tani e landstingeskiri buti a koja e komunakiri odova nane sajek ki sa i phuv. Manuš šaj te pučel ple komuna ja pale landstinge koj odgovorinela bašo save buča. Obično i komuna odgovorinela bašo poednastavna buča ko bašo kherutno nasvalibaskoro arakhiba a o landstinget bašo o popharo.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pacientengiri komisija</p>
+    <p type="title" xml:lang="swe">Lela o roviba (žalbe)</p>
+    <p xml:lang="swe">Jek kotar o thana kori so šaj mukhela pe primedbe tani i pacientengiri komisija, disavo puti olake vakerela pe pačajbaskiri komisija. E pacientengiri komisija trebela te kerelte šaj te ovel jek baropacientengoro siguribe ko sastipaskoro hem nasvalipaskoro arakhibe.</p>
+    <p xml:lang="swe">Akaja komisija trebela te ovel ko sa o landstingija kaj te šaj te mukhen pe o roviba hem o primedbe bašo dodžaribe, diagnoze, mediciniribe, takse, sekreteseskere pučiba hem arakhibaskiri garancija. Ki komisija isi političarija ama o službenikija tane odola so kerena buti e rovibancar. E komisijakere političaren hem e službenikon isi olen garavibaskorodužnost.</p>
+    <p xml:lang="swe">E pacientengiri komisija tani jek nezavisno kotar e sastipaskoro hem nasvalipaskoro arakhibe hem keda obratinela pe manuš odori bašo pučibe ja pale rojbe, odova na koštinela ništo.</p>
+    <p xml:lang="swe">Osim o sastipaskoro hem nasvalipaskoro arakhibe ki pacientengiri komisija khuvela hem e dandengoro arakhibe kova so kerela pe kotar o landstinget hem kotar o privatno ddnegoro arakhibe kova so financirinela pe sa ja pale jek kotor kotar o landstiget.</p>
+    <p xml:lang="swe">Plus odova khuvela o sastipaskoro hem nasvalipaskoro arakhibe kolea kerela buti i komuna, ja pale prema dogovor e komunencar, hem o generalno arakhibe prema o Zakoni baši socijalno buti kova so dela pe manušeske e sastipaskere hem nasvalipaskere arakhibaja.</p>
+    <p xml:lang="swe">Tari pacientengiri komisija šaj manuš te dobinel pomoč bašo</p>
+    <list>
+      <p type="listitem" xml:lang="swe">informacija so trebela manušeske kaj te šaj dikhel plo interesi keda i ko pučiba o sastipaskoro hem nasvalipaskoro arakhiba</p>
+      <p type="listitem" xml:lang="swe">kontakti e arakhibaskere personalea</p>
+      <p type="listitem" xml:lang="swe">te arakhel pe pravo vlasti</p>
+      <p type="listitem" xml:lang="swe">te raportirinel o zabeleške hem o phagiba o pravilia kotar o arakhibadejdžie hem arakhibaskere odelenja.</p>
+    </list>
+    <p type="title" xml:lang="swe">Kerela pe buti hem e pismeno hem e usmeno rojbancar</p>
+    <p xml:lang="swe">Manuš šaj te telefonirinel ki pacientengiri komisija ja pale te bičhalel lilea o rojba. E službenikongiri buti tani te ovel istražimi e rojbaskiri molba ja pale te uključinen pravo vlasti..</p>
+    <p xml:lang="swe">E pacientengiri komisija nane ola zoralipe te odlučinel dali o arkhibaskoro personali kerdža greška ja pale na. Odova tano jek pučiba e manušenge soj odgovorna baši odoja buti ja pale bašo vlastia sar soj o Socialstyrelsen.</p>
+    <p xml:lang="swe">Informacija bašo odova sar kontaktirinela pe e Pacientengiri komisija šaj lea kotar odova than kori so dikhljarea tut ja pale kotar e Landstingeteskoro webbthan.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">IBAD –  I Inspekcija bašo arakhibe hem dikhibe</p>
+    <p type="title" xml:lang="swe">Kontrolirinela o kvaliteti hem siguribe</p>
+    <p xml:lang="swe">I Inspekcija bašo arakhibe hem dikhibe Inspektionen för vård och omsorg, IBAD tano jek kontroliribaskoro vlasti so kontrolirinela maškar o javera buča o sastipaskoro hem nasvalipaskoro arakhiba. Olengiri buti tani te kontrolirinen kaj odova arakhiba so dela pe manušeske tano sigurno, isi ole šukar kvaliteti hem kaj o arakhiba kerela pe palo o zakonija hem o regularija. Angleder akaja buti kerela pe sine kotar o Socialstyrelsen. O odgovornost bašo šukar hem sigurno keribe buti ko arakhiba hem dikhiba pašljola ko butidejdžija hem ko oleskoro aktiviteti. Manuš obratinela pe ko IBAD te kerel prijava te ulo manuš povredimo ko arakhibe ja pale te doživindža disave minusija ko pacienteskoro siguriba keda manuš sine ko dikhiba ja pale te sine manuš dikhljardo ko sastipaskoro hem nasvalipaskoro ja pale dandengoro arakhiba. O IBAD (IVO) ispitinela odova so kerdilo ama na dikhela samo ko sastipa hem nasvalipe arakhibaskoro personaleskiri buti nego dikhela i celina, so sine odova bilačhe hem soske. Ola proceninena soj važno te kerakerel pe te na ovel pale isto greška. Jek prijava šaj te kerel o IBAD te del kritika e ambolantake, e nasvalengere khereske, dandengere ambolantake, e phurengoro kherarakhibaske ja pale e personaleske so kerela buti ko sastipa hem nasvalipa arakhibaske . O IBAD šaj te čhivel uslovija e arakhibadejdžijaske te lel merke kaj te na oven pale asavke buča. Sarine so pripadinena ko sastipa hem nasavalipa arakhibaskoro personali , bizo razlika dali ola kerena buti ki komuna, landstinget ja pale ki prifatno firma - šaj te oven prijavime. I OBAD palo pravilo na kerela buti e bučencar so sine kerde angleder poviše taro duj berš hem keda anela o IBAD jek rešenje tegani manuš našti te rovel pe bašo odova. Hem i prijava hem o rešenje kotar o IBAD tane phravde dokumentija, ko mangela šaj te čitinel (drabarel) olen. Ama o pacientengoro žurnali hem javera asavke dokumentija ola ovena učharde taro sekretesi (garaviba). O prijave so šaj te oven klasificirime sar prekršaj, prijavinena pe ki policija. Ko primer te vakerela pe bašo personali soj optužime (došakerde) bašo seksualno buča ja pale bašo maltretiriba. I IBAD te smatrindža kaj disavo sastipa hem nasvalipa arakhibaskoro personali sikadža pe phravdo kaj na kerela šukar ple zanateskiri buti, tegani kerela pe jek specijalno ispitibe bašo odova. Jek asavko ispitibe šaj te kerel maškar o javera buča i IBAD te rodel kotar Sastipaskiri hem nasvalipaskiri komisija bašo odgovornost te lel palal e personaleskiri bučakiri legitimacija.</p>
+    <p type="title" xml:lang="swe">Pratinela o Lex Maria-prijave</p>
+    <p xml:lang="swe">I IBAD kerela buti hem lex Maria slučajencar kori so o arakhibedejdžija prijavindža slučaja taro kola so šaj te ovel sine seriozna povrede, i IBAD kerela buti isto adžahar lex Sarah slučaencar, mangela te phenel pe raportirime slučaja kori so nane šukar odnosija hem kori so reskirinela pe nepravednostija ki socijalno butikeriba.</p>
+    <p type="title" xml:lang="swe">Sastipaskiri hem nasvalipaskiri komisija bašo odgovornost  (Hälso- och sjukvårdens ansvarsnämnd)</p>
+    <p xml:lang="swe">Akaja komisija tani državno (raštrani), oj dičhola sar jek sudsko vlasti hem kerela buti kompetentno pučibencar bašo legitirime sastipa hem nasavalipa arakhibaskoro personali.</p>
+    <p xml:lang="swe">Odova tano samo i IBAD – IVO, Justicikano ombudsmani, hem o Justicikano kancelari so šaj te keren prijava ki Sastipaskiri hem nasvalipaskiri komisija bašo odgovornost - HSAN. Rodibe baši nevi legitimacija, nevo kompetentnost, nevo probakoro vreme šaj kerela pe kotar e zanateskiri grupa so kerela buti odolea. HSAN šaj ispitinela hem anela rešenje</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Te lel e butikeribaskiri legitimacija taro odova doktori ja medicikani phen so na kerdža pli buti šukar.</p>
+      <p type="listitem" xml:lang="swe">Te del jek nevo probakoro vreme, kova značinela kaj o doktori ja pale medicikani phen šaj te oven pratime ki buti dži ko trin berš, hem odole vremeske šaj te kerel pe jek specijalno plani.</p>
+      <p type="listitem" xml:lang="swe">Te ograničinel pe ja pale te čhinavel pe e doktoreskoro pravo bašo dejbe iljačija.</p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Panda javera načinija bašo rovibe</p>
+    <p type="title" xml:lang="swe">Policija, pacientengere organizacie hem političarija</p>
+    <p xml:lang="swe">Manuš te smatrinela kaj kerdža pe jek prekršaj ko arakhiba tegani manuš šaj te kerel jek prijava ki policija. I prijava šaj te ovel ko primer bašo keribe džiko te merel. Ki Švedija but i retko jek asavki prijava te kerel džiko te ovel optužimo hem osudimo, odoleske so o zakoni bašo phagiba rodela te ovel namera ja pale grubo na arakhiba, kaj te šaj te ovel kaznibe.</p>
+    <p xml:lang="swe">E pacientengere organizacije šaj disavo puti te pomožinen keribaja butik eda i ko pučibe okola slučaja bašo rovibe. Ola šaj te pomožinen hem te vakeren ki savi institucija tano najšukar manuš te bičhalel ple roviba, ola šaj hem te pomožinen te pisinen i prijava.</p>
+    <p xml:lang="swe">Diskriminiribaskoro ombudsmani, o DO, kerela te na ovel diskriminiribe. Manuš te osetindža pe na šukar tretirimo bašo plo genus, genuseskoro identiteti, bašo berša, etniciteti, religija ja pale bašo javer pakjiba, bašo funkciribaskoro čhinavibe hem bašo seksualikano orientiribe,.</p>
+    <p xml:lang="swe">Uvek isi šaipa te rovel pe manuš ko političaria bašo nasvalipaskoro arakhibe kaste so isi o politikano odgovornost ko jek landsting ja pale ki komuna.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pacientengere ombudsmania</p>
+    <p xml:lang="swe">Ko disave landstingia isi speciajalna pacientengere ombudsmania, disavo puti olenge vakerela pepacientikano ombudi ja pale pacientengere vodičia (pacientengere ingardžie).</p>
+    <p xml:lang="swe">Ko primer keda manuš osetinela pe kaj nane šukar dodžakerdo ja pale keda nane zadovolno kotar o arakhibe tegani manuš šaj te kontaktirinel olen. O Pacientengoro ombudsmani šaj te pomožinel odolea so ov/oj upatinela ko pravo than keda manuš nane zadovolno e odgovorea ja pale sar ulo dodžakerdo keda sine ole/ola direktno kontakti e arakhibaskerer personalea.</p>
+  </body>
+</document>
