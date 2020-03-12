@@ -1,0 +1,94 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1282</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Barn-och-foraldrars-rattigheter-i-varden</origFileName>
+    <parallel_text xml:lang="eng" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fin" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="fit" location="barns-och-.html"/>
+    <parallel_text xml:lang="sma" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="sme" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="smj" location="barns-och-foraldrars-rattigheter-i-varden.html"/>
+    <parallel_text xml:lang="swe" location="barns-och-foraldrars-rattigheter-i-varden2.html"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmu"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="yid"/>
+    <parallel_text location="barns-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="barn-och-foraldrars-rattigheter-i-varden.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">E čhavengoro hem e staritelengoro pravo ko sastipaskoro arakhiba / Barn och vårdnadshavares rättigheter i vården - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">E čhavengoro hem e staritelengoro pravo ko sastipaskoro arakhiba Barn och vårdnadshavares rättigheter i vården</p>
+    <p xml:lang="swe">Sar stariteli tut ka le than hem ka uticine bašo tle čhaveskoro arakhiba. Odova značinela kaj tu sar stariteli ka del pe tuke informacija savo arakhiba ka del pe e čhaveske, save sastljaribaskere alternacie isi hem kori šaj te del pe tumenge arakhiba/sastljariba.</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Ama hem o čhavo trebela te lel than bašo plo arakhiba. Odova značinela o arakhibaskoro personali trebela te lel ko obzir odova soj najšukar e čhaveske hem trebela te džanen so mangela o čhavo. E čhave isto isi pravo pravo te odlučinel korkori, hem ov/oj so pobaro ovela odova ovela považno. Taro 18 berš keda ovela pherdoberšengoro (punoletno), tegani o čhavo šaj korkori te odlučinel komaj bašo sa.</p>
+    <p xml:lang="swe">Mangel te phenel pe kaj sar o čhaveske adžahar tuke sar stariteli ka del pe informacija hem ka ovel tumen šaipa te odlučinen ko primer bašo disavo sastljaribaskoro metodi. Odova značinela kaj šaj ka trebel tumenge tumači, te čitinen disavo teksti khere ja pale disavi javer buti kaj te šaj tumen čače te haljoven hem te len than (učestvo).</p>
+    <p xml:lang="swe">Isi poviše zakonija so opisinena savo dužnost isi e arakhiba kaj te šaj te den e čhavenge, e ternenge hem olengere staritelenge odlučibaskoro pravo. Odova tano angleder sa ko Pacientengoro zakoni, ko Sastipaskoro hem nasavlipaskoro arakhibaskoro zakoni. I Švedija potpisindža pe ki Khedime Naciengiri konvencija bašo e čhavengere pravia – Čhavengiri konvencija. Ki olate terdžola maškar o javer abuča kaj e čhaven isi pravo bašo najšukar sastipaskoro hem nasvalipaskoro arakhiba. Ama olende isi pravo hem bašo integriteti hem te phenen odova so mislinena.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pravo baši informacija</p>
+    <p xml:lang="swe">But i važno te lel pe odoja informacija so trebela kaj te šaj manuš te lel učestvo. Ka del pe tumenge informacija ko primer bašo:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Sastipaskiri situacija</p>
+      <p type="listitem" xml:lang="swe">Save metodija isi bašo dikhljariba, arakhiba hem sastljariba</p>
+      <p type="listitem" xml:lang="swe">Save dumodejbaskere buča isi</p>
+      <p type="listitem" xml:lang="swe">Savo rezultati adžikerela pe kotar o sastljariba hem arakhiba</p>
+      <p type="listitem" xml:lang="swe">Save rizikia bašo komplikacie hem bimangle efektia isi</p>
+      <p type="listitem" xml:lang="swe">Save metodia isi kaj te šaj te na ovel nasvalipa ja pale khuvdipa.</p>
+    </list>
+    <p xml:lang="swe">Nane disavi beršengiri granica keda jek šaj te odlučinel baši i arakhibaskiri situacija. E čhaveskoro pravo bašo odlučibe zavisinela kotar odova kobor i o čhavo reslo, nane odova samo o berša so uticinena upro e čhaveskoro resljojba. Ko primer jek čhavo so sine buteder vreme nasvalo ja pale te isi ole disavo funkciribaskoro čhinavibe, odova čhavo šaj te ovel pošukar reslo hem te rešinel bašo plo arakhiba taro okova čhavo soj ko isto berša ama so nane ole asavko iskustvo.</p>
+    <p xml:lang="swe">So pobaro o čhavo ovela, odoborom pobut trebela sar o čhavo adžahar o stariteli te del plo suglasnost, te phenen oja, bašo o arakhiba so nudinela pe. Odola tane o odgovorna bašo arakhiba, obično tuja sar stariteli, so proceninena keda hem sar o čhavo šaj te lel than hem te odlučinel baši jek arakhibaskiri situacia.</p>
+    <p type="title" xml:lang="swe">Informacija bizo e dajengoro-dadengoro lejbethan (učestvo)</p>
+    <p xml:lang="swe">Isi situacie kori so e čhave isi direktno kontaktija e nasvalipaskere arakhibaja bizo te ove tu sar staritelia hemime (mešimo), ama odova šaj te ovel mada tu džanea bašo odova. O čhavo, ko primer isi ole pravo te vakerel korkoro e arakhibaskere personalea bizo te oven othe i daj-dad, hem ola ni na trebena te džanen so vakerdža o čhavo. Ko odova vakeriba te vakerdža diso but seriozno o čhavo keda i ko pučiba e čhaveskoro štitibe ja pale sastipa, tegani isi e arakhibaskere personale dužnost te prijavinel odova ko komunakiri socialno komisija.</p>
+    <p xml:lang="swe">Jek čhavo te šaj rodindža arakhiba ki pli inicijativa, tegani e čhave isi pravo te del pe oleske sastipaskoro godidejbe bizo te ovel othe i daj-dad hem bizo te del pe olenge o rezultati. O terne so džana ki jek ternengiri ambolanta, hem ola korkori odlučinena dali javer džiko ka džanen soske ola gele ki ambolanta ja pale te čitinen (drabaren) o akti.</p>
+    <p xml:lang="swe">E čhave isi pravo te del pe oleske oleskoro ikeribe (podrška), godidejbe hem informacia ko okola situacije so dolela hem e familija. Odova šaj te ovel ko primer džiko ki familija te isi funciribaskoro čhinaviba, jek fizikano ja pale psihikano nasvalipa ja pale te mulo džiko.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">O arakhiba ka kerel pe prema e čhaveskere potrebe</p>
+    <p xml:lang="swe">E čhaveske ka del pe arakhiba ko čhavorikano odelenje (čhavorikano kotoripa) so poviše so šaj. Javera primeria sar o sastipaskoro hem nasvalipaskoro arakhiba ka lel ko obzir e čhaveskere potrebe, tane maškar o javera buča akava</p>
+    <list>
+      <p type="listitem" xml:lang="swe">te ovel ole olea najhari jek pašemanuš te ulo čhivdo ko nasvalengoro kher</p>
+      <p type="listitem" xml:lang="swe">te čhinavel pe o dikhljariba ja pale sastljariba baši jek pauza ja pale te probinel pe pale javer puti</p>
+      <p type="listitem" xml:lang="swe">te učestvinel pe hem te ovel ole pravo bašo rešiba sar ka lel pe o iljačija, ja pale sar ka kerel pe jek dikhljariba keda isi slična alternacije.</p>
+    </list>
+    <p type="title" xml:lang="swe">Keda o čhavo našti te učestvinel (te lel than)</p>
+    <p xml:lang="swe">Isi disave situacie kori so o čhavo hem o terno manuš našti te odlučinen mada ola šaj te uticinen ko disave kotora bašo o rešejne. Odova važinela ko primer keda anela rešenje kori so rodela pe medicikano džaniba. Ni o čhavo ni stariteli našti te phenen na bašo e čhaveskoro arakhiba ov te arakhela pe palo e zarazibaskoro zakoni, o zakoni specialno regularencar bašo arakhibe e ternen (lagen med särskilda bestämmelser om vård av unga), ja pale palo o zakoni bašo zoraja psihikano arakhiba (psykiatrisk tvångsvård).</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Tlo pravo sar stariteli</p>
+    <p xml:lang="swe">Sar stariteli tu šaj te vakere na bašo disavo arakhiba so dela pe tle čhaveske. Mada tu složindžan tut bašo diso, tut isi pravo te predomisline tut.</p>
+    <p xml:lang="swe">O stariteli hem o čhavo, ja pale e čhaveskere poviše staritelia na složinena pe, tegani okova soj odgovorna bašo arakhiba ka odlučinel sar ka rešinel pe i situacia. Disavo var o arakhibe mora te obratinel pe ki socialnokomisija te čhivel pe te ovel džiko sar medicikano stariteli – o staritelia te našti te phanden pumare lafija.</p>
+    <p xml:lang="swe">Tu šaj te phene kaj na mangea te le than ko okola situacie soj tuke phare. Odova šaj te ovel ko primer o arakhibaskoro personali phenela te ikere e čhave hari pozorale keda kerela pe disavo nezgodno dikhljariba ja pale sastljariba. Tu šaj te birine te ove othe paše hem te smirine e čhave angleder hem palo dikhljariba.</p>
+    <p xml:lang="swe">Tu isi pravo te sove paše uzo o čhavo ov te sastljarela pe ko nasvalengoro kher, tegani tuke ka sikavel pe o odelenje (kotoripa) hem ka haljovkerel pe tuke o pravilia ko odova odelenje.</p>
+    <p xml:lang="swe">Tut isi pravo te le jek kopia kotar e čhaveskoro akti, ama so poviše bajrola hem resljola o čhavo ov sa poviše ka pučel pe dali ov odova dozvolinela te mukhel pe oleskoro akti.</p>
+    <p type="title" xml:lang="swe">Bašo so našti te odlučinel o stariteli</p>
+    <p xml:lang="swe">Isi disave situacie kori so e nasvalengoro arakhibaskoro personali nane olen dužnost te len ko obzir so mangela o stariteli. Primeria bašo odova i te mangljan</p>
+    <list>
+      <p type="listitem" xml:lang="swe">te del pe e čhaveske jek sastljariba kova tano protiv naučno hem so nane probimo ko arakhiba</p>
+      <p type="listitem" xml:lang="swe">te na del pe tle čhaveske važno sastljariba bašo oleskoro dživdipa</p>
+      <p type="listitem" xml:lang="swe">te blokirine o podatke ko čhaveskoro akti bašo o javera arakhibadejdžie.</p>
+    </list>
+    <p type="title" xml:lang="swe">Te na sian zadovolno e arakhibaja</p>
+    <p xml:lang="swe">Tu te mislinea kaj tle čhaveske dindža pe pogrešno (bango) arakhiba ja pale sastljariba, te ulo bilačhe dodžakerdo, tegani tu trebela te obratine tut ko odova arakhibaskoro personali ko odova odelenje kori so sastljardža pe o čhavo. Tu šaj te obratine tut hem ki pacientengiri komisija, koja so šaj te del tut dumo te kontaktirine e odgovorno arakhibaskere personale hem te le informacia bašo odova sar šaj te prijavine odova so tu nasian zadovolno.</p>
+  </body>
+</document>

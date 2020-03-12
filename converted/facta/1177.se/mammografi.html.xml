@@ -1,0 +1,113 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1959</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Undersokningar-prover/Mammografi</origFileName>
+    <parallel_text xml:lang="eng" location="mammografi.html"/>
+    <parallel_text xml:lang="fin" location="mammografi.html"/>
+    <parallel_text xml:lang="fit" location="mammografi.html"/>
+    <parallel_text xml:lang="sma" location="mammografi.html"/>
+    <parallel_text xml:lang="sme" location="mammografi.html"/>
+    <parallel_text xml:lang="smj" location="mammografi.html"/>
+    <parallel_text xml:lang="swe" location="mammografi.html"/>
+    <parallel_text location="mammografi.html" xml:lang="rmy-rka"/>
+    <parallel_text location="mammografi.html" xml:lang="rmu"/>
+    <parallel_text location="mammografi.html" xml:lang="yid"/>
+    <parallel_text location="mammografi.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="mammografi.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Mammografija / Mammografi - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">MammografijaMammografi</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Rezime</p>
+    <p type="title" xml:lang="swe">Generalno</p>
+    <p xml:lang="swe">I mamografija tano jek dikhljariba rentgenea kori so dikhela pe o brekha jekhe specijalno rentgenikane tehnikaja so dena but detalirime slike.</p>
+    <p xml:lang="swe">Akale dikhljaribaskoro cili tano te dikhel pe o nasvalipe ko vreme, ov tano jek kotor kotar e sastipaskiri kontrola, kaske so vakerela pe screening, odova šaj kerela pe hem keda i džuvli korkori ja pale keda o doktori dikhela kaj isi disave promene ko brekha.</p>
+    <p xml:lang="swe">I džuvli na trebela te kerel mamografijakoro dikhljaribe sar jek kotor kotar e sastipaskiri kontrola tej i džuvli khamni ja pale o doktori te sumninela kaj isi ola grutka ko brekha.</p>
+    <p type="title" xml:lang="swe">Pripreme</p>
+    <p xml:lang="swe">Manuš na trebela te kerel disave specijalno pripreme.</p>
+    <p type="title" xml:lang="swe">Sar kerela pe o dikhljaribe?</p>
+    <p xml:lang="swe">O dikhljaribe kerela pe obično ko jek mamografijakoro odelenje hem ov šaj te ovel posebno ja pale te ovel jek kotor kotar e rendgeneskoro odelenje ko nasvalengoro kher. I mamografija šaj kerela pe hem ko disave specialna ambolante</p>
+    <p xml:lang="swe">Sar prvo manuš trebela te odgovorinel ko disave pučiba so ovena čhivde kotar i rentgenikani medicikani phen ko primer dali isi manuše pharipa e brekhencar hem dali manuš piela iljačija so isi olen hormonija.</p>
+    <p xml:lang="swe">Palo odova manuš ikalela ple uprune šeja hem tegani i medicikani phen dikhela o brekha hem zabeležinela te isi manuše disave promene so šaj dikhena pe, ko primer disave bijanutne nišanija ja pale rane taro purane operacije. Sa odova šaj dikhela pe rentgeneskere slike hem kerena te ovel pharo e slikengoro procenibe.</p>
+    <p xml:lang="swe">Keda kerela pe akava dikhljaribe tegani manuš terdžola ko pre hem čhivela jek brekh pali javer ki jek ploča so isi ola slikengere detektorija. Tegani bastrinela pe i brekh jekhe javere pločaja adžahar so oj ovela dosta plaskomi. Odova kerela i slika te dičhol šukar bizo koristinela pe but zračibe. Manuš trebela te vazdel upre pli musik hem te dainel pe upro aparati a odole vremeske lela pe duj – trin slike. Keda jek strana tani gotova palo odova kerela pe isto buti e javere brekhaja.</p>
+    <p xml:lang="swe">Keda bastrinela pe i brekh šaj manuš te osetinel pe hari nezgodno hem šaj te dukhal hari.</p>
+    <p type="title" xml:lang="swe">Sar osetinela pe manuš palo odova?</p>
+    <p xml:lang="swe">Palo dikhljaribe manuš osetinela pe sar obično.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Soske trebela te kerel pe akava dikhljaribe?</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Keda manuš tuširinela pe hem keda makhela pes sapuni tegani i lokho i te osetinel pe kaj nane ramno o brekha. Vazde upre tli musik, hem pipin tli brekh hem tli khak bastrindor hari najencar...</p>
+      <p type="listitem" xml:lang="swe">...ker hari krugija tle najencar hem phirav olen ki sa i brekh. Počmin e pupkaja hem završin teli khak.</p>
+    </list>
+    <p type="title" xml:lang="swe">Brekhengoro rentgeni</p>
+    <p xml:lang="swe">Ko jek mamografikano dikhljaribe kerela pe rentgeni bašo brekhe jekhe tehnikaja so dena but detalirime slike.</p>
+    <p xml:lang="swe">I mamografija kerela te šaj te dikhel pe o nasvalipe ko vreme sar jek kotor kotar e sastipaskiri kontrola, kaske so vakerela pe screening, ja pale odoleske so i džuvli korkori ja pale o doktori dikhlja kaj isi grutke ko brekha. Ki Švedija sakova berš kerela pe komaj 500 000 dikhljariba e brekhengere rentgeneja.</p>
+    <p type="title" xml:lang="swe">Jek metodi te dikhel pe e brekhengoro rako rano</p>
+    <p xml:lang="swe">O Socialstyrelsen preporučinela mamografija e džuvlenge taro 40 – 74 berša. O Landstingen nudinena sa e džuvlenge soj tane 50 – 69 berša te keren jek mamografija. Ko but provincie nudinela pe hem panda jek dikhljaribe e džuvlenge taro 40 – 74 berša, ama akava dikhljaribe varirinela keda manuš lela te ovel vikimo hem kobor vreme produžinela. E poterne džuvlenge nudinela pe o dikhljaribe sakova berštekvaš . E phurederenge sakova dujto berš.</p>
+    <p xml:lang="swe">Ko akala kontrole šaj arakhela pe o brekhengoro rako angleder te resel te oven disave simptomija so šaj dikhena pe, ja pale angleder te osetinel pe ko brekha.</p>
+    <p xml:lang="swe">O naučno studie sikavena kaj o džuvlja so kerena akala sastipaskere kontrole mamografijaja olende tiknjarela pe o meribe dži ko 40 procentia.</p>
+    <p xml:lang="swe">Keda manuš harinela arakhibaja o rako tegani isi riziko ov te ovel buvljardo, tegani trebela te keren pe pobare hem pophare satljaribe nego keda arakhela pe rano.</p>
+    <p type="title" xml:lang="swe">Pipin tle brekha redovno</p>
+    <p xml:lang="swe">E džuvljakere brekha nane zorale svegde isto. Odovaj odoleske so isi hem thudeskere žlezde hem khileskere tkivia hem odova kerela te na osetinel pe i brekh ramno. Keda pherena o džuvlja 50 berš tegani e brekengere thudeskere žlezde cidena pe hem ovena poviše khileskere tkivia.</p>
+    <p xml:lang="swe">O brekha ovena telo uticaj kotar e hormonengere promene keda e džuvlja isi mensturacija odoleske odova šaj osetinela pe hari javerčhane keda i džuvli ovela dikhljardi.jek dive palo odova keda završinela i mensturacija, odova šaj te ovel jek šukar dive bašo korkoridikhljaribe o brekha odoleske so tegani o brekha tane naj kovle hem šukar i bašo dikhljaribe.</p>
+    <p xml:lang="swe">Sa o džuvlja trebena korkori redovno te dikhljaren ple brekha. Šukar i manuš te odredine peske jek dive ko masek te šaj te usporedinel hem te dikhel so osetinela pe. Jek šukar prilika tani keda manuš tuširinela pes, odoleske so but polokhe te osetine keda isi tut sapuni ko brekha. Najšukar i te dikhel pe hem keda terdžola manuš hem keda pašljola.</p>
+    <p type="title" xml:lang="swe">Odova i obično te ovel e džuvlen naopasna grutke</p>
+    <p xml:lang="swe">Keda disave džuvlja ovela jek grutka ja pale disavo zoralipe ko tkivo tegani manuš ovela hari teli sekiracija, ama obično odova nane disavi opasno promena, specijalno ko terne džuvlja. Odova šaj te ovel cista, mangela te vakerel pe jek pliko pherdo panjeja ja pale jek naopasno tkivieskoro zoraljojbe.</p>
+    <p type="title" xml:lang="swe">Sa o promene trebela te dikhljaren pe kotar o doktori</p>
+    <p xml:lang="swe">Jek promena ko brekhengere žlezde šaj te oven kerde kotar brekhengoro rako. O brekhengoro rako tano jek najobično rakoskiri forma ko džuvlja. Sakova berš astarena 7000 džuvlja hem murša brekhengoro rako. O riziko te astarel pe akava nasvalipe bajrola e beršencar.</p>
+    <p xml:lang="swe">Jek obično simptomi bašo brekhengoro rako tano keda manuše isi grutke ko brekha ja ko khaka. Jek aver simptomi tano keda i pupka ja i mortik lela te khedel pes andre.</p>
+    <p xml:lang="swe">Jek javer simptomi i keda ovela jek lolipa ja grutka ko brekha so našti te objasninel pe, jek rana so na sasčola, ja pale keda ikljola pani tari pupka mešimo ratea.</p>
+    <p xml:lang="swe">Sa o promene ko brekha trebela te haljoven pe seriozno hem trebela te dikhljaren pe. Manuš šaj te obratinel pek i pli ambolanta, ki džuvlengiri ambolanta ja pale ko disavo specijalno brekhengoro odelenje ki disavo nasvalengoro kher. O doktori tegani dikhljarela šukar o brekha hem odlučinela dali ka trebel te kerel pe mamografija.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Adžahar kerela pe odova</p>
+    <list>
+      <p type="listitem" xml:lang="swe">I džuvli trebela te čhivel pli čuči jek palo javer ki jek ploča kote so isi jek kaseta rentgenikane filmeja. Palo odova bastrinela pe i čuči hem lena pe duj – trin slike.</p>
+    </list>
+    <p type="title" xml:lang="swe">Trebela te ovel jek specialno rengenikano aparati</p>
+    <p xml:lang="swe">I mamografija kerela pe obično ko mamografijakoro odejenje, kova šaj te ovel posebno ja pale sar jek kotor kotar o rentgeneskoro odelenje ko jek nasavalengoro kher. Akava dikhljaribe šaj te kerel pe hem ko specialna brekhengere ambolante.</p>
+    <p xml:lang="swe">E rengeneskoro aparati so koristinela pe, ov i kerdo te šaj te del šukar slike taro brekhengoro tkivo kori so na koristinela pe but rengeneskoro zračibe. Ko disave slučaja šaj arakhena pe rakoskere tumoria kola tane samo disave milimetrija bare.</p>
+    <p type="title" xml:lang="swe">Adžahar džala odova</p>
+    <p xml:lang="swe">Manuš na trebela te pripreminel pes specijalno. Angleder sa manuš trebela te odgovorinel ko disave pučiba hemte phenel dali isi manuše disave pharipa e brekhencar ja pale dali manuš piela disave iljačija so isi olen hormonija. Manuš rebela te ikalela ple uprune šeja hem tegani i medicikani phen dikhela o brekha hem zabeležinela te isi manuše disave promene so šaj dikhena pe, ko primer disave bijanutne nišanija ja pale rane taro purane operacije. Odova šaj dikhela pe ko rentgeneskere slike hem šaj proceninel pe greška hem te tumačinel pes sar tumori mada odova nane.</p>
+    <p xml:lang="swe">Palo odova manuš trebela te džal ko rentgeneskoro aparati hem te terdžol angli oleste. Jek brek pali javer čhivela pe ki jek ploča so isi ola slikengoro detektori. Palo odova i brek bastrinela pe jek javere prozirno pločaja. Manuš šaj vazdela pli musik upre hem te odmorinel ola upro aparati dži kote lela pe duj trin slike. But i važno manuš te terdžol mirno. Palo odova kerela pe isto buti e javere brekhaja. Sa akava dikhljaribe lela taro 15 dži ko 30 minutija, o slikibe lela pandž dži ko deš minutija.</p>
+    <p type="title" xml:lang="swe">Sar osetinela pe i mamografija?</p>
+    <p xml:lang="swe">Šaj te osetinel pe hari nezgodno keda bastrinela pe i brekh. Ama odova mora te kerel pe adžahar, odoleske so tegani o slike ovena po kvalitetna hem tegani o dikhljaribe ovela po sigurno. Plus odova tegani koristinela pe po tikni doza zračibe nego keda na bastrinela pe.</p>
+    <p type="title" xml:lang="swe">Disavo puti manuš trebela te avel pale</p>
+    <p xml:lang="swe">But puti duj rendgeneskere doktorija dikhena o slike kotar i mamografija hem proceninena olen bizo te ovel olen kontakti jek javerea. Odova kerela e procenibaskoro sigurnost te ovel po baro. Ola te smatrindže kaj diso nane sar so trebela tegani vikinena e džuvlja pale ko nevo dikhljaribe. Tegani kerena pe ekstra slike hem manuš ovela dikhjardo ultrazvukoja.</p>
+    <p xml:lang="swe">O doktrori šaj te lel jek ekstra proba hem kotar o than so promenindža pe. Tej odova jek tikni promena hem tano pharo te lel pe proba, tegani i proba lela pe keda kerela pe i mamografija ja pale keda kerela pe ultrazvuk. Tegani lela pe jek sani suv hem cidela pe kotar o šuvlipe proba. I proba bičhalela pe ko jek mikroskopikano dikhljaribe. Sa akava kerela pe kaj te šaj manuš te ovel sigurno dali isi manuše rako ja pale na.</p>
+    <p xml:lang="swe">O odgovor kotar e mamografijakoro dikhljaribe bičhalela pe direkno kote sine manuš vikimo ki jek kontrola. Te sine manuše uput ki mamografija tegani o odgovor kotar o dikhljaribaskoro rezultati ovela bičhaldo kotar o doktori.</p>
+    <p type="title" xml:lang="swe">O sastljaribe hormonencar kerena te ovel po phari o procena</p>
+    <p xml:lang="swe">Disave džuvlenge dela pe sastljaribe jormonencar ko klimakteriumi hem palo klimakteriumi ja pale piena tablete te na ačhon khamnja. Asavko sastljaribe uticinela ko brekhengoro tkivo adžahar so ov ovela po gusto hem odova kerela o slike kotar i mamografija te oven phare bašo procenibe.Odoleske šukar i manuš te vakerel te lela manuš asavke iljačija kori so isi hormonija.</p>
+    <p type="title" xml:lang="swe">O dikhljaribe nane opasno</p>
+    <p xml:lang="swe">O zračibe so ovela ko jek mamografijakoro dikhljaribe tano odoborom tikno so ov na smatrinela pe kaj tano opasno. Plus odova celo vreme ovela jek tehologikano angledžajbe kori so o cili tano te tiknjarel pe panda poviše e zračibaskiri doza. Odoleske manuš ovela vikimo ko mamografijakoro dikhjaribe, ja pale keda dikhela disavi promena ko brekha, na trebela te odbinel.</p>
+    <p xml:lang="swe">I džuvli šaj te dikhljarel pe ki mamografija hem keda isi ola brekhakoro implantati. Nane disavo riziko o implantati te rumindžovel, ama odoleske pale našti te bastrinel pe i brekh sar ko džuvlja so nane olen implantati, tegani šaj ka trebel te ovel jek specijalno posebno dikhljaribe. Obično i mamografija kompletirinela pe adžahar so i brekh osetinela pe hem dikhljarela pe.</p>
+    <p type="title" xml:lang="swe">Ko na trebela te ovel dikhljardo mamografiaja?</p>
+    <p xml:lang="swe">Keda i džuvli tani but terni obično oj ovela dikhljardi ultrazvukoja a na mamografiaja. Odova i odoleske so e brekhengere žlezde tane odoborom but gusta so ovela pharo te tumačinel pe e mamografiaja. Tegani o ultrazvuk dela po sigurno odgovor.</p>
+    <p xml:lang="swe">O doktori te sumninela kaj isi grutke ko brekha tegani manuš izbeginela i mamografija odoleske so tegani dukhala o bastribe ko brekha. Tegani pošukar i manuš te dikhljarel pe ultrazvukoja hem te dikhel pe dali isi pumb so trebela te ikalel pe. Keda ka sastljarel pe i infekcija tegani trebela te kerel pe i mamografija. Odova i but važno tej i džuvli pophuri.</p>
+    <p xml:lang="swe">Tej i džuvli dovogende tegani oj na trebela te kerel akava mamografijakoro dikhljaribe kaske so vakerela pe screening. Ama te dikhlja pe disave promene ko brekha tegani trebela te kontaktirinel pei ambolanta hem sigate te kerel pe jek dikhljaribe mada i džuvli tani dovogende. Tegani počminela pe o dikhljaribe te kerel pe ultrazvukoja hem te trebindža kompletirinela pe mamografiaja.</p>
+  </body>
+</document>

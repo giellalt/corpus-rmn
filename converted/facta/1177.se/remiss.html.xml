@@ -1,0 +1,65 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>828</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Remiss</origFileName>
+    <parallel_text xml:lang="eng" location="remiss.html"/>
+    <parallel_text xml:lang="fin" location="remiss.html"/>
+    <parallel_text xml:lang="sme" location="remiss.html"/>
+    <parallel_text xml:lang="swe" location="remiss.html"/>
+    <parallel_text location="remiss.html" xml:lang="rmy-rlo"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Bičhalin (uput) / Remiss - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Bičhalin (uput)Remiss</p>
+    <p xml:lang="swe">Disavo var (mal, puti) šaj ka trebel tut arakhiba ki disavi javer klinika a na kori so obično džaja. Tegani kaj te šaj te dža othe ka trebel tut jek uput (bičhalin).</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe">Kaj te šj te dža ki jek ambolanta ja pale ko sigdumodejbaskiri klinika (akutno klinika), na trebela tuke uput. Othe kerena pe o prva proceniba bašo o pharipa so isi tut. Te trebindža tegani dela pe tuke jek uput kaj te šaj te dža ko jek specijalisti, ko primer ko morčakoro doktori ja pale ko fizioterapefti.</p>
+    <p xml:lang="swe">Ko uput isi informacija bašo so trebela tuke arakhiba, odova šaj te ovel jek procena, dikhljariba ja sastljariba. Ko uput isi hem informacija sar osetinea tut, save simptomija isi tut hem tle anglune nasvalipa hem pharipa</p>
+    <p xml:lang="swe">Obično odova tano jek doktori so pišinela (hramonela) o uput, ama isi hem javer arakhibaskoro personali so isi olen šaipa te keren odova, ko primer jek medicikani phen ki čhavengiri ambolanta.</p>
+    <p xml:lang="swe">Obično o uput tu na dikhea, ama tu uvek ka džane soske dela pes o uput hem savo arakhiba ka del pe tuke keda ka ove akhardo ki klinika kori soj bičhaldo o uput. Tu ka džane hem kobor vreme ka adžikere angleder te ave ki klinika, odova šaj te ovel ko primer ko jek regionalno nasvalengoro kher.</p>
+    <p xml:lang="swe">Ko disave klinike kaj te šaj te lel pe vreme othe uvek rodela pe jek uput taro jek doktori. Save tane odola klinike so rodena uput nane uvek isto, odoleske ka ovel šukar te interesirine tut angleder sar avela pe ki odoja klinika kori tu so mangea te dža, odova odlučinela sakova landsting hem regioni korkori.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Uput (bičhalin) ko jek javer landsting ja pale regioni</p>
+    <p xml:lang="swe">Disavo puti šaj te del pe jek uput ko specijalisti ko javer landsting ja pale regioni, ko primer te nane odova arakhibe kori so bešea. Tegani o drumo hem o javera troškija platinela (pokinela) tlo landsting ja pale regioni.</p>
+    <p xml:lang="swe">Te dindža pe tuke jek uput bašo phravdo specijalizirimo arakhiba, mangela te phenel pe arakhiba kori so na trebela te ačhove ko nasvalengoro kher, tegani tu korkoro birinea ko savo phuvjakoro than ka ovel odova.</p>
+    <p xml:lang="swe">Tu korkori te birindžan te rode specijalizirimo arakhiba ko javer landsting ja pale regioni, tegani tu trebela te informirine tut save uputeskere regularija važinena baši odoja klinika.</p>
+    <p xml:lang="swe">Te trebindža tuke uput bašo arakhiba ko tlo landsting ja pale regioni tegani ka trebel tuke asavko diso hem ko odova landsting ja regioni kori so mangea te rode arakhibe. Tuke ka trebel uput mada o javer landstin ja regioni na rodela odova.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Pli prijava (Lično prijava)</p>
+    <p xml:lang="swe">Ko but landstingija šaj te poručinel pe vreme direktno ko jek specijalisti doktori bizo uput. Ko asavke situacije disave klinike rodena tu korkori te pišine jek, sar so vakerela pe, lično prijava, bašo akava disavo puti phenela pe pli bičhalin (lično uput) ja pale plo arakhibaskoro rodibe (lično arakhibaskoro rodibe).</p>
+    <p xml:lang="swe">Odova kerela pe adžahar so tu lično pišinea lil dži ki klinika hem mothovea sar sian hem soske rodea arakhiba. Disavo puti isi formularija te šaj te kerel pe lično prijava. Okova so kerela buti tle lično prijavaja te smatrindža kaj trebela tuke dikhljariba tegani bičhalena tuke akharin (pokana) te ave ki klinika.</p>
+    <p xml:lang="swe">Jek lično prijava bašo lejbe arakhiba ko javer landsting ja pale regioni, šaj te pišinel pe te na rodela pe uput bašo odova than so mangea te dža hem te rode arakhiba, odova važinela hem bašo tlo landsting ja pale regioni.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Kobor trebela te adžikere?</p>
+    <p xml:lang="swe">Tut isi pravo te dogovorine tut tle doktorea kori ka ovel tut uput. Ko disave klinike šaj te ovel baro adžikeribaskoro redo. Tegani šaj te rode te ove bičhaldo ki disavi klinika kori so na adžikerela pe odoborom but vreme, plus odova te trebindža tuke sigate arakhiba tegani odova pišinela pe ko uput. Ama odoja tani i klinika so avela olake o uput so odlučinela kobor sigate šaj te del pe tuke vreme.</p>
+    <p type="title" xml:lang="swe">I arakhibaskiri garancija nane sa jek</p>
+    <p xml:lang="swe">Keda dela pe tuke jek uput baši jek klinika ko tlo landsting ja pale regioni tegani važinela i nacionalno arakhibaskiri garancija, odova značinela kaj tuke ka del pe arakhiba palo jek odredimo vreme. Baši jek specijalno klinika tu na ka trebel te adžikere poviše taro enjavardeš divesa bašo jek termini.</p>
+    <p xml:lang="swe">Te dindža pe tuke jek uput hem te birindžan te rode arakhiba ko javer landsting ja pale regioni, tegani na važinela e arakhibaskiri garancija. Tegani uticinela tli medicikani potreba bašo arakhiba kobor vreme ka adžikere.</p>
+    <p xml:lang="swe">I pacientikani taksa baši arakhibaskiri poseta na koštinela svegde isto, odova zavisinela savo arakhiba rodea hem kori bičhalela pe. I taksa računinela pe ko učokoštibaskoro arakhiba.</p>
+    <p xml:lang="swe">Odole vremeske so adžikerea te ave ki klinika kori so sian bičhaldo, okova so pišindža o uput tano odgovorno bašo o arakhiba so trebela tuke. Te ule tle pharipa pobare ko adžikeribaskoro vreme, tegani kontaktirin okole so pišindža o uput.</p>
+  </body>
+</document>

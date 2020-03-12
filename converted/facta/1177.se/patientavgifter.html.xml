@@ -1,0 +1,98 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>1355</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Patientavgifter</origFileName>
+    <parallel_text xml:lang="eng" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fin" location="patientavgifter.html"/>
+    <parallel_text xml:lang="fit" location="patientavgifter.html"/>
+    <parallel_text xml:lang="sma" location="patientavgift.html"/>
+    <parallel_text xml:lang="sme" location="patientavgifter.html"/>
+    <parallel_text xml:lang="smj" location="patientavgifter.html"/>
+    <parallel_text xml:lang="swe" location="patientavgifter.html"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rka"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmu"/>
+    <parallel_text location="patientavgifter.html" xml:lang="yid"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="patientavgifter.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Pacientikani taksa / Patientavgifter - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Pacientikani taksaPatientavgifter</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Soj odova manuš so platinela (pokinela)?</p>
+    <p xml:lang="swe">O Sastipaskoro hem nasvalipaskoro arakhibe (Hälso- och sjukvården) ki Švedija najviše platinela pe kotar e lanstingeskere hem komunengere porezija. Odoja taksa manuš so platinela keda džala ko doktori odova tano samo jek tikno kotor kotar i celo cena.</p>
+    <p xml:lang="swe">Akava na važinela bašo o prifatno dikhljaribe ko primer i plastikani hirurgija odoleske so oj nane medicinsko potreba. Tegani manuš korkori platinela sa o trošako.</p>
+    <p type="title" xml:lang="swe">Razna takse ko razna landstingia hem komune</p>
+    <p xml:lang="swe">O landstingia hem o komune šaj skoro uvek korkori te odlučinen save takse ka platinen pe keda džala pe ko doktori ja pale bašo javer servisi ko sastipaskoro arakhibe. Obično sa o takse tane skoro isto ko sa o landstingija. Keda isi manuše potreba počesto te džal ko doktori/ambolanta tegani isi jek učokoštibaskoro arakhiba, poviše bašo odova ka dikhe ko teksti so avela potele.</p>
+    <p xml:lang="swe">Skoro ko sa o landstingia hem regionija o Sastipaskoro hem nasvalipaskoro arakhibe tano bizo love okolenge so nane olen pherde 20 berša.</p>
+    <p xml:lang="swe">O takse soj tele ola tane otprilike hem važinena ko phravdo arakhibe hem ko prifatno arakhadžije so isi olen dogovor disave landstingea.</p>
+    <p xml:lang="swe">Keda tano manuš čhivdo te pašljol ko nasvalengoro kher tegani platinela pe 100 krune bašo jek dive-rat.</p>
+    <p xml:lang="swe">Keda manuš džala ko plo doktori ki ambolanta tegani platinela taro 100 dži ko 300 krune. Keda džala pe ko ginekologi hem ko čhavengoro doktori tegani i taksa varirinela taro 200 dži ko 350 krune. Keda manuš džala ko doktori hem ovela uputimo te džal ko rentgeni tegani na platinela pe neve takse. Keda manuš džala ko javera specijalistia tegani i taksa šaj te ovel taro 150 dži ko 350 krune. Keda džala pe ko dežurno kotor ko nasvalengoro kher tegani odova šaj te koštinel taro 220 dži ko 380 krune. Keda džala pek i jek medicikani phen ja pale ko gimnastičari othe i taksa šaj te ovel taro 50 dži ko 220 krune.</p>
+    <p xml:lang="swe">Ki mamografija kori so dikhela pe rano dali isi rako ko brekha ja pale bašo celulengoro dikhljaribe tari matericakoro kerlo, kaske so vakerela pe ginekologikani kontrola othe šaj platinela pe dži ko 200 krune.</p>
+    <p xml:lang="swe">Disave landstingia lena taksa bašo transportiribe abulantikane verdaja ja pale helihoptereja.</p>
+    <p xml:lang="swe">Disave landstingija platinena palal i taksa keda manuš adžikerela poviše vreme nego soj dogovorimo. Keda manuš na iranela o dogovorimo vreme keda manušeske na pasujnela ja pale keda manuš našti te avel ko dogovorimo vreme manuš šaj te ovel čhivdo te platinel i taksa bašo odova vreme.</p>
+    <p xml:lang="swe">Manuš te birindža phravdo ja pale phandlo arakhiba ko jek javer landsting a na kori soj registririmo, tegani manuš pokinela (platinela) i pacientikani taksa so važinela ko odova landsting kori so manuš lela arakhiba.</p>
+    <p type="title" xml:lang="swe">O javera arakhibadejdžie šaj te ovel olen javer taksa</p>
+    <p xml:lang="swe">Okole so isi privatno nasvalipaskoro siguripe ja pale siguripe preko pli buti, ole šaj te oven javera uslovija save takse ka platinel.</p>
+    <p xml:lang="swe">Ko komunalno sastipaskoro hem nasvalipaskoro arakhibe, kova so važinela bašo o pophure so isi olen barevremeskere nasvalipa, othe isi razna takse bašo arakhibe kotar o medicikane phenja.</p>
+    <p xml:lang="swe">Ko Švedikane komunengoro hem Landstingengoro (Sveriges Kommuner och Landstings) webbthan isi o adrese bašo komune, landstingia hem regiojna. Olen isi nevi detalirimi informacija bašo ple takse.</p>
+    <p type="title" xml:lang="swe">O takse bašo avrutne manuša (strancia).</p>
+    <p xml:lang="swe">E avrutne manušen isi len pravo te del pe olenge hitno arakhibe ki Švedia.</p>
+    <p xml:lang="swe">Te avela manuš kotar jek javer EU- phuv, EEM-phuv ja pale kotar i Švajcarija tegani manušeske trebela jek evropikani nasvalipaskiri siguribaskiri karta, EU-karta, kolaja sikavela pe kaj manuše isi pravo bašo hitno arakhibe ama platinela pe obično taksa. Keda manuše nane odova tegani platinela pe sa o trošako bašo arakhibe.</p>
+    <p xml:lang="swe">Ama te manglja manuš te del pe oleske/olake arakhibe so nane hitno hem na mangela te platinel više kotar i obično pacientikani taksa tegani manuš trebela te sikavel jek ljil kori so terdžola kaj oleskiri/olakiri phuv ka platinel sa. Te nane manuše asavko ljil tegani manuš platinela sa korkoro.</p>
+    <p xml:lang="swe">Komaj sa o manuša so avena avri kotar i EU, EEM hem Švajcarija, ola platinena sa o trošakija korkori hem keda i ko pučibe o hitno arakhibe.</p>
+    <p type="title" xml:lang="swe">Tu sar švedžan/i /ka te uljan nasval/o/i ko javera phuvja</p>
+    <p xml:lang="swe">I evropikani nasvalipaskiri siguribaskiri karta, koja so šaj te poručinel pe kotar i Siguribaskiri kasa (Försäkringskassan), oj dela e švedikane dizutnenge pravo te koristinen o hitno arakhibe ko javera EU, EEM phuvja hem ki Švajcarija, tegani ola platinena takse sar odole phuvjengere manuša. Ko nordikane phuvja manuš na trebela te sikavel odoja karta.</p>
+    <p xml:lang="swe">Te trebindža manušeske arakhibe avri kotar o EU, EEM – phuvja hem kotar i Švajcarija tegani komaj kotar sa odola phuvja na platinela pe manušeske o trošakija so sine bašo arakhiba, ni kotar i Švedija ni kotar odoja phuv kori so sine manuš. Odoleske važno i te ovel manuše jek prifatno drumoskoro siguribe kova so učharela o trošakija sar soj ko primer o transportiribe. Te isi manuše khereskoro siguribe tegani obično isi ole jek drumoskoro siguribe so učharela jek kotor kotar o troškija.</p>
+    <p xml:lang="swe">Ko Siguribaskoro kasakoro (Försäkringskassans) webbthan isi buteder informacij bašo odova sar šaj lela pe arakhibe keda manuš i ko javera phuvja.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Učokoštibaskoro arakhibe</p>
+    <p xml:lang="swe">Isi jek granica kobor manuš trebela te platinel keda i ko pučibe e sastipaskoro hem nasvalipaskoro arakhiba. Bašo odova vakerela pe učokoštibaskoro arakhiba hem ov i kerdo te ovel jek ko sa o landstingija. Odova važinela hem keda manuš mangela te džal ko doktori ko javer landsting ja pale regioni.</p>
+    <p xml:lang="swe">O učokoštibaskoro arakhiba značinela kaj manuš platinela pacientikani taksa najviše 1100 krune bašo jek periodi kotar jek berš. Odova računinela pe kotar i prvo poseta hem odova bizo razlika keda odova kerela pe ko berš. Keda manuš platinela 1100 krune tegani dela pe jek bilovengiri karta hem oj važinela ko odova vreme so ačhola kotar o 12 masekija. Keda nakhena akala dešuduj masekija tegani pale platinela pe nevi taksa sa džikote resela pe pale dži ko 1100 krune.</p>
+    <p xml:lang="swe">O učokoštibaskoro arakhibe obično na učharela akava</p>
+    <list>
+      <p type="listitem" xml:lang="swe">i taksa so platinela pe bašo divesa keda pašljla ko nasvalengoro kher</p>
+      <p type="listitem" xml:lang="swe">vakcine</p>
+      <p type="listitem" xml:lang="swe">potvrde hem sastipaskere kontrole</p>
+      <p type="listitem" xml:lang="swe">javer dikhljaribe bašo nasvalipaskoro čhinavibe sar soj ko primer i mamografikani kontrola</p>
+      <p type="listitem" xml:lang="swe">bašo nadžajbe ko jek dogovorimi poseta</p>
+      <p type="listitem" xml:lang="swe">troškija bašo žurnaleskiri kopija</p>
+      <p type="listitem" xml:lang="swe">lileskere takse, kola so platinena keda manuš platinela ko krediti ja pale keda bičhalela pe faktura khere.</p>
+    </list>
+    <p xml:lang="swe">Obično ko dandengoro arakhibe na važinela e učekoštibaskoro arakhibe.</p>
+    <p xml:lang="swe">Ama o učokoštibaskoro arakhibe šaj te važinel ko dandengoro arakhibe te isi manuše potreba te dikhljarel ple danda poviše vreme odoleske so trebela manušeske odova ko plo sakodivesutno dživdipa. O učokoštibaskoro arakhiba šaj te važinel isto te isi manuše disavo nasvalipe kori so e dandengoro arakhibe tano jek kotor kotar o medicikano dikhljaribe. Te isi manuše jek nasvalipe so barakerela o riziko baši šteta ko danda ja pale te isi manuše pharipa te kerel ple dandengiri higiena, tegani isto šaj te del pe dandegoro arakhibe kori so i taksa računinela pe bašo bašo učokoštibaskoro arakhibe.</p>
+    <p xml:lang="swe">Bašo iljačija so ovena pisime kotar doktori, medicikani phen ja pale javer ovlastimo manuš taro sastipaskoro hem nasvalipaskoro arakhibe isi jek učokoštibaskoro arakhibe kori so manuš platinela najviše 2200 krune bašo dešudujmasekongoro periodi. O iljačija soj bizo recepta na računinena pe ko akava.</p>
+    <p xml:lang="swe">Plus odova isi učokoštibaskoro arakhiba bašo nasvalengoro drumo hem baš tehnikane pomožibaskere buča, baši olende rešinela pe kotar o landstingija. Odova značinela kaj o pravilia nane sa jek ko sa o landstingija.</p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Bilovengoro sastipaskoro hem nasvalipaskoro arakhibe</p>
+    <p xml:lang="swe">Ko disave landstingija jek kotor kotar o sastipaskoro hem nasvalipaskoro arakhibe šaj te ovel bilovengoro. Ama keda pisinena pe o iljačija ko akala posete – olenge platinela pe.</p>
+    <p xml:lang="swe">I poseta ki dajengiri ambolanta hem ki čhavorikani ambolanta tani bilovengiri ki sa i phuv.</p>
+    <p xml:lang="swe">Ko školakoro sastipaskoro arakhibe na platinela pe bašo posete a o vakcine so dena pe othe tane bilovengoro.</p>
+    <p xml:lang="swe">Ko poviše landstingija o čhave hem o terne dži ko 20 berš na platinena bašo phravdo sastipaskoro hem nasavalipaskoro arakhiba, ko primer keda džana ko ambolante ja pale ko ternengere ambolante.</p>
+    <p xml:lang="swe">Keda trebela arakhiba hem iljačija bašo, sar so vakerela pe, generalno opasna nasvalipa tegani odova da tano bilovengoro – palo Zakoni bašo zarazno arakhiba.</p>
+  </body>
+</document>

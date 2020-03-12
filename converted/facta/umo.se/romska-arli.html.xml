@@ -1,0 +1,117 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1167</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli</origFileName>
+    <parallel_text xml:lang="eng" location="umo-in-english.html"/>
+    <parallel_text xml:lang="fin" location="finska.html"/>
+    <parallel_text xml:lang="fit" location="meankieli.html"/>
+    <parallel_text xml:lang="sma" location="sydsamiska.html"/>
+    <parallel_text xml:lang="sme" location="nordsamiska.html"/>
+    <parallel_text xml:lang="smj" location="lulesamiska.html"/>
+    <parallel_text location="resanderomska.html" xml:lang="rmu"/>
+    <parallel_text location="romska-lovara.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="romska-kale.html" xml:lang="rmf"/>
+    <parallel_text location="romska-kalderash.html" xml:lang="rmy-rka"/>
+    <parallel_text location="jiddisch-latinsk.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Romani čhib arlikane (romska arli)</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Romani čhib arlikane (romska arli)</p>
+    <p xml:lang="swe">UMO – ungdomsmottagningen på nätet/Ternengiri klinika ko Interneti.</p>
+    <p xml:lang="swe"><em type="italic">Odova so kerela o UMO: </em></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Keda manušeske nane šukar</p>
+      <p type="listitem" xml:lang="swe">Zoraja keriba diso hem ladžakeriba</p>
+      <p type="listitem" xml:lang="swe">Alkoholi, dohani, droge</p>
+      <p type="listitem" xml:lang="swe">Me</p>
+      <p type="listitem" xml:lang="swe">Seksi</p>
+      <p type="listitem" xml:lang="swe">Mangipa hem amalipa</p>
+      <p type="listitem" xml:lang="swe">O telo</p>
+    </list>
+    <p xml:lang="swe"><em type="italic">Naslovia: </em></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Prevodija</p>
+      <p type="listitem" xml:lang="swe">Čhibjakiri kontrola</p>
+    </list>
+    <p type="title" xml:lang="swe">Abortiribe/čhinavibe o khamnipa</p>
+    <p xml:lang="swe">O abortiribe značinela te čhinavel pe o khamnipa. Keda manuš mislinela te kerel aborti tegani manušeske šaj avena pherdo pučiba. Manuš uvek šaj te kontaktirinel džikas kaj te šaj te lel odgovoria bašo ple pučiba. Odova važinela okoleske da so kerdža disave džuvlja khamni.</p>
+    <p xml:lang="swe">» Abortiribe/čhinavibe o khamnipa</p>
+    <p type="title" xml:lang="swe">Alkoholi</p>
+    <p xml:lang="swe">E lafea alkoholi mangela te vačerel (vakerel) pe bašo: pivo, mol hem rakija. But manuša piena odola buča odoleske so olenge i šukar odova ja pale mangena te oven telo dejstvo. Ama o alkoholi šaj te ovel opasno ko but načinia. Ov šaj kerela povrede hem šaj kerela nasvalipa, plus odova ov kerela manuš te ovel ko phare hem nezgodna situacije. Džiko keda piela uklela olen disavi dar hem nane olenge šukar.</p>
+    <p xml:lang="swe">» Alkoholi</p>
+    <p type="title" xml:lang="swe">Akutno pipula</p>
+    <p xml:lang="swe">O akutno pilule tane hapija so lena o džuvlja te na ačhon khamne. Odova nane jek obično khamnibaskoro arakhibe, mangel te vakerel pe kaj odova nane diso so lela pes sar arakhibe angleder o seksi ja pale keda manuše isi seksi. O akutno pilule lena pe samo ko hitno situacie a na sar jek redovno sredstvo bašo khamnibaskoro arakhibe.</p>
+    <p xml:lang="swe">» Akutno pipula</p>
+    <p type="title" xml:lang="swe">Baridar</p>
+    <p xml:lang="swe">I baridar tane zorale osečaja kotar o narahtluko hem dar so šaj te osetinel pe ko sa o telo, akava ovela disavo puti skoro sakone manuše. I baridar šaj te ovel neprijatno, ama pale manuš trebela te probinel te kerel odova so mangela hem te na izbeginel okola situacije kola so manuš verujnela ka keren te ovel manuše baridar.</p>
+    <p xml:lang="swe">» Baridar</p>
+    <p type="title" xml:lang="swe">Čumibe</p>
+    <p xml:lang="swe">Te čuminel pes hem te astarel pes jek javere odova but manuša mangena te keren. Te na kerdža manuš odova šaj manuš fantazirinela te kerel odova. Istovremeno manuš i nervozno angleder plo prvo čumibe ja pale astaribe. So kerela pe keda manuš astarela jek javere?</p>
+    <p xml:lang="swe">» Čumibe</p>
+    <p type="title" xml:lang="swe">Kondomi</p>
+    <p xml:lang="swe">Jek kondomi tani jek tikni kesa soj kerdi kotar jek but sano lateksi (guma) so šaj te čhivel pe ko jek penis ja pale javer sekseskoro šei keda manuše ovela seksi.</p>
+    <p xml:lang="swe">» Kondomi</p>
+    <p type="title" xml:lang="swe">Kontraceptikane hapija/ Hapija bašo na ačhojbe khamni</p>
+    <p xml:lang="swe">Akala hapija tane bašo o džuvlja te kontrolirinel pe o bijanibe. Bašo kontraceptikane hapija vakerela pe isto hem kombinirime kontraceptikane hapija. Olende isi duj različno hormonija: ostrogen hem gestageni ( taro žutoteloskoro telo), kova so maškar o javera buča kerena te na ovel ovulacija hem tegani i džuvli našti te ačhol khamni.</p>
+    <p xml:lang="swe">» Kontraceptikane hapija/ Hapija bašo na ačhojbe khamni</p>
+    <p type="title" xml:lang="swe">Korkorioset</p>
+    <p xml:lang="swe">Keda vakerela pe bašo korkorioset tegani mangela te vakerel pe bašo o misle so isi manuše korkori peske hem sar manuš tano sar manuš. Tegani na mislinela pe dali manuš i šukar te kerel disave buča šukar ja pale na, nego vakerela pe manuš te osetinel kaj tano vredno diso sar jek obično manuš. Akava osečaj kaj manuš i vredno diso šaj te trenirinel pe.</p>
+    <p xml:lang="swe">» Korkorioset</p>
+    <p type="title" xml:lang="swe">Mazumipa</p>
+    <p xml:lang="swe">Te osetinel pes disavo puti mazumi, bilošalo/bilošali, sekirimi/sekirimo ja pale te osetine kaj nane nada sa odova tano jek naturikano kotor kotar o dživdipe. Šaj te oven asavke divesa kori so manuše nane zori nisoske, na osetinela pe ništo šukar ja pale kori so manuš mislinela but. Obično asavke osečaja palo disavo vreme našavdžovena. Isi disave buča so manuš šaj te kerel korkori kaj te šaj te osetinel pes pošukar, ama isi hem pomoč javertar -te trebindža manušeske.</p>
+    <p xml:lang="swe">» Mazumipa</p>
+    <p type="title" xml:lang="swe">Mensturacija</p>
+    <p xml:lang="swe">I mensturacija tano ratvaribe kotar i materica so ovela redovno ko čhaja so lela te ovel kotar o puberteti. I mensturacija tani jek nišani kotar o telo kaj tano spremno baši intimno relacija.</p>
+    <p xml:lang="swe">» Mensturacija</p>
+    <p type="title" xml:lang="swe">Manuš te ulo mobimo</p>
+    <p xml:lang="swe">Keds manuš ovela mobimo tegani i but lokhe te ovel manuše nemir hem te na osetinel pes šukar. Disavo puti odova šaj odoborom but te uticinel upro dživdipe so manuš našavela plo verujbe upri peste hem manuš tegani probinela te izbeginel situacie kori so šaj te dikhel pes e manušencar so kerena mobibe. Ama nijek manuš na trebela te garavel pe kotar o manuša so mobinena.</p>
+    <p xml:lang="swe">» Manuš te ulo mobimo</p>
+    <p type="title" xml:lang="swe">Mobibe</p>
+    <p xml:lang="swe">Keda o manuš ovela našukar tretirimo taro manuša trujal peste bašo odova vakerela pe mobibe. Jek obično našukar keribe prema džikaste na računinela pe sar mobibe. Ama te ulo odova poviše puti hem manuš te osetinela pes lošno taro odova tegani odova računinela pe sar mobibe.</p>
+    <p xml:lang="swe">» Mobibe</p>
+    <p type="title" xml:lang="swe">Parnothavdipa</p>
+    <p xml:lang="swe">Parnothavdipa isi normalno ko but manuša. Disavo buti odova ovela hari poviše hem odova šaj te kerel pharipa. Odova tano obično ko džuvlja. Trin kotar štar džuvlja ovela olen disavo puti ko dživdipe pharipa e parnipaja, a butenge odova ovela poviše puti. Hem e muršen šaj te ovel parnipa ko spolno organi. O parnipa ko spolno organi nane opasno ama odova šaj te ovel pharo odoleske so handžola hem tharela.</p>
+    <p xml:lang="swe">» Parnothavdipa</p>
+    <p type="title" xml:lang="swe">Pijbe cigare</p>
+    <p xml:lang="swe">Keda manuš piela cigare tegani manuš cidela ani peste pherdo otrovna buča. O pijbe cigare šaj te keren razna štete hem nasvalipa, komaj sakova dujto manuš so piela cigare merela posigate. Plus odova o dohani tano skupo hem ov šaj te kerel manuše te bubulice, pološno kondicija hem pohari merako bašo seksi. Ama pale manuš lela te piel cigare kaj te šaj te ovel fraeri/fraerka hem zgodno.</p>
+    <p xml:lang="swe">» Pijbe cigare</p>
+    <p type="title" xml:lang="swe">Puberteti</p>
+    <p xml:lang="swe">Keda o čhave lena te pheren taro 10 dži ko 13 berš tegani komaj sarine lena te khuven ko puberteti. Ko puberteti o telo razvinela pes adžahar so o telo mukhela o čhavoripe hem khuvela ko barengoro periodi. Ko primer o glaso lela te meninel pe hem o polno organija, tegani lena te ikljon bubulice hem manuš lela te ovel interesirimo bašo seksi.</p>
+    <p xml:lang="swe">» Puberteti</p>
+    <p type="title" xml:lang="swe">Seksi o prvo puti</p>
+    <p xml:lang="swe">Skoro sarine angleder te ovel olen seksi javerea, ola onanirinena sine. Znači o prvo seksualno doživljaj skoro sarinen isi olen korkori peja. Odova i obično kaj manuše isi pherdo misle hem očekujba bašo odova sar ka ovel keda ka ovel manuše prvo puti seksi javerea/javeraja.</p>
+    <p xml:lang="swe">» Seksi o prvo puti</p>
+    <p type="title" xml:lang="swe">Seksualikano orientiribe – biseksualco, hetero, homoseksualco</p>
+    <p xml:lang="swe">Keda vakerela pe seksualikano orientiribe tegani mislinela pe upro o manuš upri kaste manuš i zaljubimo ja pale nadražimo savo poli isi ole/ola. Manuš šaj te ovel biseksualco/biseksualka, heteroseksualco/heteroseksualka ja pale homoseksualco/homoseksualka.</p>
+    <p xml:lang="swe">» Seksualikano orientiribe – biseksualco, hetero, homoseksualco</p>
+    <p type="title" xml:lang="swe">Testiribe korkori pes</p>
+    <p xml:lang="swe">Te sine manuše biarakhlo seksi tegani šukar i te čerel (kerel) pe testi bašo seksualikane nasvalipa. Sar kerela pes o testi zavisinela kotar odova savo testi manuš kerela. Obično manuš mukhela muter ja pale rat. Te testirindža pes manuš bašo disavo seksualikano nasvalipa so khuvena ko zakoni bašo seksualno zarazibaskoro arakhibe , tegani manuš na platinela diso.</p>
+    <p xml:lang="swe">» Testiribe korkori pes</p>
+    <p type="title" xml:lang="swe">Tipsi bašo pošukar korkorioset</p>
+    <p xml:lang="swe">Isi but buča so šaj te keren pe te šaj te zorakerel pe o korkorioset. Ake disave buča so šaj te probinen pe.</p>
+    <p xml:lang="swe">» Tipsi bašo pošukar korkorioset</p>
+  </body>
+</document>

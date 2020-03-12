@@ -1,0 +1,74 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>963</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/naringsliv-och-foreningar/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fin" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="fit" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sma" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="sme" location="naringsliv-och-foreningar.html"/>
+    <parallel_text xml:lang="swe" location="naringsliv-och-foreningar.html"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmu"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rka"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="rmf"/>
+    <parallel_text location="naringsliv-och-foreningar.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Privreda hem kedipe - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Privreda &amp; kedipe</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Privreda hem kedipe</p>
+    <p xml:lang="swe"><em type="italic">O Länsstyrelsen kerol stimulacia e firmenge hem e klubienge ano razne nachinija te shaj ovol jekh ikerdi ekonomija hem te shaj i produkcia ushtol upre. O länsstyrelsen phenol e firmenge kaj mora te keren buti ano plani e jekhibasko, poshukar miljö hem integracija savo shaj te zoraljol hem dol poshukar rezultatia ano anglunipe. </em></p>
+    <p type="title" xml:lang="swe">Privredako bajaripe</p>
+    <p xml:lang="swe">O Länsstyrelsen kerol stimulacia ani privreda ano razlichite nachinija te shaj kerol jekh ekonomski ikerdo bajaripe hem te shaj aven neve bucha. Amen saradjuina e komunenca, privreda-firmenca hem javer organizacienca te shaj ava dji ko amaro nationalno cilji ano regionalno politikako mislibe te aven but bucha. Odoljea so denpe love sar pomoch o Länsstyrelsen kamol te kerol jekh shukar klima ano firme jekh shukar infrastruktura ani forma te kerenpe drumija, komunikacia, edukacia, istarzivanje hem sar te avolpe dji ko kapitali. Amen podupirina te kerolpe buti ko puchiba e jekhibasko, integracijako, zoralje ikeriba e firmengo te shaj bajrolpe so pobuder.</p>
+    <p type="title" xml:lang="swe">Firmengo pomoch</p>
+    <p xml:lang="swe">Svako bersh aven love ano Länsstyrelsen kotar o regioni te shaj dolpe pomoch e firmenge ano razne nachinija. O pomoch ka pomozinol e regioniske firmen te shaj avol ljen jek poshukar anglunipe hem te bajrol. Te dolpe pomoch e firmenge itano sar jekh variacia mashkar o razne regionija hem save resurshija isi hem so i valda manglja te kerol ano regionija. Amen da pomoch ano love, investiribe, te kerolpe reklame, inovativno bajaripe hem edukacia e tiken hem hari bare firmenge. Isi hem specialno pomoch ano komercialno sluzba ano gava, sar primer pomoch e gavutnenge hem benziske stanicenge.</p>
+    <p type="title" xml:lang="swe">Komkurencia</p>
+    <p xml:lang="swe">I konkurencia kerol jekh poshukar korist ane drzavake resurshija, kerol te aven neve firme ano marketi e buchako. O lenstyrelsen ko jekh thena e Konkurrensverke dol dumo ko jekh efektivno konkurencia ano privatno hem drazvno sektori. Amen ka da informacia kotar e konkurencijako puchiba hem ka mothova o znakia te na pratindjpe o zakonia e konkurencijako. Ker kontakti amneca te osetindja kaj djiko phagol o zakoni sar kerolpe konkurencia.</p>
+    <p type="title" xml:lang="swe">Projektisko pomoch</p>
+    <p xml:lang="swe">O Länsstyrelsen shaj te dol tut ekonomsko pomoch te mothovdja tlo projekto kaj ka dol diso e regioniske te ovol poshukar. Tu shaj te rode ekonomsko pomoch te hine tut jekh shukar idea te kere buti javerenca ano regioni. O projketi shaj te ovol diso nevo savo itano avrial e javer bucha savo ka kerol korist hem javernge.</p>
+    <p type="title" xml:lang="swe">Te thovenpe o love save finasirinolpe o terorismi</p>
+    <p xml:lang="swe">O Länsstyrelsen isilje buti te achavol te dikjla kaj kamolpe te thovenpe love save kamen te dolpe dumo e organizovane teroristienge hem fizichko hem juridikake personenge. O thovde pare itane o pare save aven kotar o zaradibe kriminalne drumoa savo kamen pravde te mothoven kaj keren diso. Teroristikano finaciribe itano kana bichavolpe love e teroristienge ja se javer buchenca.</p>
+    <p type="title" xml:lang="swe">Kedipe (Stiftelser)</p>
+    <p xml:lang="swe">E Länsstyrelsen isi obaveza te dikhol sa o kedipe save itane ano (stiftelser) te shaj registrinol ljen. O stiftelse itano jekh kedipe savo itano kerdo te shaj odluchinol kan valjanol disoske. Jekh syrelse ja se sherutnipe isi obaveza te kerol buti lovenca te shaj zaradinolpe. Ano Länsstyrelsen avdive isi ano kompjuteri jekh baza kaj shaj te dikhe save stiftelser isi ani Shvedska, ljngi buti itani te keren kontakti e manushenca hem te keren javer bucha.</p>
+    <p xml:lang="swe">&gt;&gt; Gå till databasen med stiftelser (svenska)</p>
+    <p type="title" xml:lang="swe">Arakhibe e firmenge</p>
+    <p xml:lang="swe">Jekh organizacia savi dikhol sar djal e firmenge hem ljenge lokalienge, mothovol sar djal ljengi buti pravde javno hem pojedine personenge Sare save keren akija buti mora te ovoljen dozvola te dikhen popashe sar djal e firmenge svi vikinolpe auktorizimo kotar o Lännstyrelsen. Kana kerolpe aktualiziribe amen kama te priznaina sa mansuhen save keren odija buti, hem odoljen save nane strazaria hem te dope shaipe te ovoljen hem djukela save arkhen o lokalia.</p>
+    <p type="title" xml:lang="swe">Arkhibe e machengo ano pani</p>
+    <p xml:lang="swe">O Länsstyrelsen kerol buti te shaj arakhol so shaj poshukar o mache. Länsstyresen itane odola save den dozvola te etablirinolpe o mache, o rakia hem o shkoljke. Amen hem shaj da pomoch ekonomski odoljenge kas isi dozvola te astaren machen, savenge o sälar keren bare probljemia kana phagen ljengo pribor za ribolov. O Länsstyrelsen dol o pomoch savo avol kotar o EU te kerolpe investicia, ano zanti e ribarijengo, panjesko arakhibe, industriako planiribe, edukacia, te bajrenpe neve projektia hem but pobuder. Amen shaj da hem ekonomsko pomoch odoljenge save kamen te bajaren o turizmo firmenca te asternepe mache ano akala thana.</p>
+    <p type="title" xml:lang="swe">Dramengo odpad</p>
+    <p xml:lang="swe">Odoljen saven isi dramengo otpad mora te ovoljen dozvola kotar o Länsstyrelse te shaj keren buti. Amen kera kontrola te dikha dalji o than pherol i norma te na meljarol o miljö, hem te dikha isiljen lji dozvola te keren o kher kaj ka keern buti. O posebne vorda ka mukhenpe ano posebne thana, jekh than savo o producentia phenen. Akala than mora te javinene o producentia save kerdje o vorda.</p>
+    <p type="title" xml:lang="swe">Pantbanke</p>
+    <p xml:lang="swe">Jekh pantbanka itani jekh firma svi shaj te dol tut love te mukhljan diso vredno ke late sar pant-kaucia. Dozvola te keren akija buti ljenge dol o Länsstyrelsen, hem on dikhen sar on keren buti. Odal save mangen te praven jekh pantbanka mora te roden dozvola ko Länsstyrelsen. Jekh panbanka shaj samo te kerol buti ano shvedske akcie firmenca ja se dijekh koatar o drzave ano EES-regioni.</p>
+    <p type="title" xml:lang="swe">Kheljiba hem sport</p>
+    <p xml:lang="swe">Te mangljan te organizuine jekh takmichenje vordenca mora te rode dozvola kotar o Länsstyrelsen ano odova regioni kaj o takmichenje ka ikerolpe. Te mangljan te roganizuine trening ja se takmichenje ano borilashke veshtine mora te ovol tutu jek specialno dozvola savi rodolpe ko Länsstyrelsen ano Örebro regioni. Te mangljan te prave jekh bingo kheljibe ja se loto ano but komunen ano sa jekh regioni mora te rode dozvola kotar o Länsstyrelsen. Te kerdjan jekh loto kheljibe ke jekh klubi savo kerol buti ane komunake organizacie shaj te rodolpe dozvola ki komuna.</p>
+  </body>
+</document>

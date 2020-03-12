@@ -1,0 +1,75 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="swe"/>
+    <wordcount>1110</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Testiribe-korkori-pes</origFileName>
+    <parallel_text xml:lang="fin" location="seksitautitestit.html"/>
+    <parallel_text xml:lang="fit" location="testata-ittea.html"/>
+    <parallel_text xml:lang="sma" location="teestedh.html"/>
+    <parallel_text xml:lang="sme" location="testet-ieas.html"/>
+    <parallel_text xml:lang="smj" location="ietjas-atsadit.html"/>
+    <parallel_text xml:lang="swe" location="att-testa-sig.html"/>
+    <parallel_text location="te-rodepha-siro.html" xml:lang="rmu"/>
+    <parallel_text location="te-lel-frestiba.html" xml:lang="rmf"/>
+    <parallel_text location="te-testulij-pe-o-manu.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="te-probilpe-o-manu.html" xml:lang="rmy-rka"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Testiribe korkori pes</p>
+    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
+    <p type="title" xml:lang="swe">Testiribe korkori pes</p>
+    <p xml:lang="swe">Te sine manuše biarakhlo seksi tegani šukar i te čerel (kerel) pe testi bašo seksualikane nasvalipa. Sar kerela pes o testi zavisinela kotar odova savo testi manuš kerela. Obično manuš mukhela muter ja pale rat. Te testirindža pes manuš bašo disavo seksualikano nasvalipa so khuvena ko zakoni bašo seksualno zarazibaskoro arakhibe , tegani manuš na platinela diso.</p>
+    <p xml:lang="swe">Te ovel manuše seksi odova čače šaj te ovel but šukar. Disavo puti manuš šaj te na mislinel ko odova soj važno. Ko primer te arakhel pes te šaj te tiknjarel o rizikija bašo seksualikane nasvalipa. Tu so čitinea te sian jek kotar odola so na arakhela pes šaj tuke vreme te dža te testirine tut.</p>
+    <p type="title" xml:lang="swe">Soske manuš te testirinel pes bašo seksualikane nasvalipa?</p>
+    <p xml:lang="swe">Manuše te isi biarakhlo seksi tegani šukar i te testirinel pes manuš bašo o seksualikane nasvalipa.Odova važinela hem tegani keda manuš osetinela pes sasto, odoleske so disave seksualikane nasvalipa na sikavena disave nišanija.</p>
+    <p xml:lang="swe">Manuš keda arakhela javere manuše kasaja so mangela te ovel ole zorali relacija hem planirinela te čhinavel o arakhlo seksi, šukar ka ovel angleder odova te keren soldudžene testi.</p>
+    <p xml:lang="swe">Disavo puti šaj te ovel adžahar so keda manuš sine ole/ola seksi džikasaja hem kerdža testi kori so sikadža pes kaj isi seksualikano nasvalipa. Odova nasvalipa te khuvela ko zakoni bašo seksualno zarazibaskoro arakhiba tegani šaj avela manušeske khere jek lil ja pale te ovel kontaktirimo telefonea kotar i ambulanta kori manuš tano registririmo hem phenela pe olake/oleske te džl te kerel jek testi.</p>
+    <p xml:lang="swe">Nemora te značinel kaj manuš astardža disavo seksualikano nasvalipa ama prema o zakoni manuš tano dužno te džal te kerel testi hem te tiknjarel o riziko bašo nasvalipaskoro buvljaripe.</p>
+    <p type="title" xml:lang="swe">Keda manuš trebela te testirinel pes bašo seksualikano nasvalipa?</p>
+    <p xml:lang="swe">Te sine manuše biarakhlo seksi tegani nane nikad kasno te testirine tut bašo seksualikane nasvalipa. Keda i ko pučiba disave nasvalipa olenge trebela disave masekija ja pale berša kaj manuš te šaj te dikhel disave nišanija kotar o nasvalipa.</p>
+    <p xml:lang="swe">Disavo puti šaj te ovel prerano te džal pe te kerel pe o testia. Našti manuš te džal te testirinel pe jek dive palo odova keda sine ole/ola biarakhlo, odoleske so o virusi ja pale i bakterija so kerela te ovel infekcije na reslla te bijanel hem te šaj te dičhol ko laboratorikane probe.</p>
+    <p xml:lang="swe">Ko primer o testi baši klamudija hem gonoreja kerela pes jek kurko palo odova keda manuše sine biarakhlo seksi. Ama bašo disave nasvalipa sar soj i hiv šaj te lel trin masek taro odova dive keda ulo manuš zarazimo te šaj te dikhel pes sigurno ko testi kaj manuše isi odova nasvalipa.</p>
+    <p xml:lang="swe">Savo nasvalipe te ovel te ovel manuše, tej manuš sekirimo ja tej leske/lake pharo mora te džal ki ambulanta. Manuš te džanela kaj isi baro rizik te astarel seksualikano nasvalipa, ko primer manuš te džanela kaj odole manuše/manušnja kasaja so sine seksi isi nasvalipa, tegani šaj lena pes iljačija angleder te oven gotova o laboratorikane probe.</p>
+    <p xml:lang="swe">Te na sine manuše seksi džikasaja tegani manuš našti astarela seksualikane nasvalipa hem na trebela te kerel testi.</p>
+    <p type="title" xml:lang="swe">Kori šaj te kerel pe testi bašo seksualikane nasvalipa?</p>
+    <p xml:lang="swe">Te manglja manuš te kerel jek testi bašo seksualikane nasvalipa tegani šaj te džal ki: ternengiri ambolanta, mortikakiri hem seksualikani ambulanta ja pale ki obično ambulanta. Manuš šaj te džal hem ko RFSU –eskiri ambulanta hem te kerel testi bašo seksualikane nasvalipa.</p>
+    <p xml:lang="swe">O džuvlja šaj džana hem ki dživljani klinika ja pae ko jek ginekologi. O testi baši klamudija šaj poručinela pes ko Internet ja pale te kinel pek i apoteka.</p>
+    <p xml:lang="swe">Kaj te šaj te džanel pes kori manuš šaj te kerel testi tegani manuš šaj te telefonirinel ko sastipearakhibaskoro godidejbe (sjukvårdsrådgivningen) ko telefoni 1177.</p>
+    <p type="title" xml:lang="swe">Sar kerela pe o testi?</p>
+    <p xml:lang="swe">Te kerel pe o testi bašo seksualikane nasvalipa tano lokho hem jednostavno (jekčhanutno). Sar kerela pe o testi zavisinela kotar odova bašo savo nasvalipe kerela pe o testi, savo seksi sine manuše hem sar manuš ulo zarazimo.</p>
+    <p xml:lang="swe">Te sine vaginalno seksi tegani dovolno i te mukhel pes muter. E muršenge so ka testirinen pes baši klamudija obično dovolno i te mukhel pe muter. O Džuvlja isto trebela samo te mukhen jek proba tari vagina so lela pes jekhe pošomale pincetaja so dobinela pe ko testiribe ja pale keda manuš poručinela o testi khere.</p>
+    <p xml:lang="swe">Manuš te džanela kaj trebela te mukhel muter tegani manuš na ka mutrel pes jek ja pale duj sahatija angleder o testi.</p>
+    <p xml:lang="swe">Bašo disave nasvalipe, angleder sa bašo gonore, o testi kerela pe adžahar so lela pes jekhe sane tikne probalejbaskere ranikaja koja tani sar tikni ranik pošomaja. I probalejbaskiri ranik vertinela pes pohari ki sluznica ki vagina, ko mutereskoro kanali, ko kerlo ja pale andre ko thulo poreskoro phavdipe. Kotar ka lel pes i proba zavisinela sar manuše sine seksi. Akava šaj te delujnel kaj tano nezgodno , ama odova obično ovela sigate hem na osetinela pes but.</p>
+    <p xml:lang="swe">Bašo javera nasvalipa manuš mukhela rat. Odova lela pe jekhe sane suvjaja kotar e musijakoro maškar ki ke rateskiri vena.</p>
+    <p xml:lang="swe">Okova so dikhljarela te sumninela kaj isi džikas herpes tegani lela pe proba kotar jek herpeseskoro pliko jekhe pošomale tikne ranikaja.</p>
+    <p xml:lang="swe">Te isi manuše badravice (brazdavice) ko genitalija tegani na trebela te lel pe disave probe, odoleske so okova so dikhljarela dikhela soj o problemi direktno.</p>
+    <p type="title" xml:lang="swe">Keda dela pes odgovor?</p>
+    <p xml:lang="swe">Bašo but probe avela o odgovor jekhe kurkeske. Keda manuš mukhela probe tegani phandela manuš ple lafija ki ambulanta sar ka del pes o odgovor. Odova šaj te ovel telefonea,lilea ja pale manuš šaj te džal ko than.</p>
+    <p xml:lang="swe">Te adžikerel pe o odgovor odova šaj te ovel pharo. Odovaj peske normalno kaj manuš ovela sekirimo hem o adžikeribaskoro vreme osetinela pes but baro. Tej manušeske bilačhe kotar odova tegani manuš šaj te vakerel džikasaja bašo ple misle hem osečaj. Odova šaj manuš te vakerel ple amalea/amalinaja, džikasaja kotar i familija ja pale javere paše manušeja.</p>
+    <p xml:lang="swe">Manuš šaj te kontaktirinel džikas kotar e ternengiri ambolanta. O personali othe šaj te pomožinen okoleske soj i pharo hem ola tane sikle te šunen pučiba hem razmisliba bašo seksualikane nasvalipa.</p>
+    <p type="title" xml:lang="swe">Kobor koštinela te testirinel pe manuš?</p>
+    <p xml:lang="swe">Bašo seksualikane nasvalipa so khuvena ko zakoni bašo zarazibaskoro arakhibe, sar soj i klamudija, gonore hem hiv tegani manuš na platinela ništo bašo testi bizo razlika kobor berš manuše isi hem bilo kori te kerel manuš o testi..</p>
+    <p xml:lang="swe">A keda testirinela pes manuš bašo javera seksualikane nasvalipa šaj te koštinel diso ko zavisnost kori manuš bešela, hem ki savi ambolanta manuš džala. Obično manuš testirinela pes bašo poviše nasvalipa jekhefarestar/jekheputestar. Tegani dovolno i jek nasvalipa te khuvel ko zakoni bašo zarabzibaskoro arakhibe hem tegani manuš na platinela ni bašo o javera nasvalipa.</p>
+  </body>
+</document>

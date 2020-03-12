@@ -1,0 +1,59 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>315</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="fin" location="nat-min-default.html"/>
+    <parallel_text xml:lang="sma" location="nat-min-default.html"/>
+    <parallel_text xml:lang="sme" location="nat-min-default.html"/>
+    <parallel_text xml:lang="smj" location="nat-min-default.html"/>
+    <parallel_text xml:lang="swe" location="nat-min-default.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">E Švediakere nacionalnikane minoritetia - Länsstyrelsen i Stockholm</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">E Švediakere nacionalnikane minoritetia</p>
+    <p xml:lang="swe"><em type="italic">I Sresko uprava ki provincia Stockholm hem o Sameting tane taro o 1 januaro 2010 odgovorno te koordirinen hem te dikhen sar e Švediakiri minoritetikani politika ikerelape ki phuv. </em></p>
+    <p xml:lang="swe">Ko decembro 1999 o parlamenti odlučindža i Švedia(Sverige) te uključinelpe ki konvencia ko Evropakoro godidejbe bašo arakhibe e nacionalnikane minoriteten hem e evropakoro pravilniko bašo phuvjakoro deloskiri - ja minoritetikani čhib. O parlamenti jekajek andža odluka baši jekh minoritetikani politika hem priznavipe o pandž nacionalnikane minoritetia hem olengiri čhib (sa o varitetia).</p>
+    <p type="title" xml:lang="swe">E Švediakere nacionalnikane minoritetia hem minoritetikani čhib</p>
+    <p xml:lang="swe">O pandž priznaime nacionalnikane minoritetia ki Švedia tane o javudie, o roma, o laponcia ((so tane phuranobešlo narodo), švedikane fincia hem tornedalcia. E historiakere minoritetikane čhibja tane jiddisch, romani čhib, laponikani čhib, finsko hem meänkieli.</p>
+    <p xml:lang="swe">Akale minoritetikane grupenge tano barabarikano so ola selindže pes ki Švedia ko puteder berša hem so predstavinena jekh grupa so tane povezime jekhejaveraja. Olende čak isi pli religia, čhibjakiri hem kulturakiri pripadnost hem kefi (volja) te arakhen plo identiteti.</p>
+    <p type="title" xml:lang="swe">E radžakiri (vladakiri) minoritetikani politika</p>
+    <p xml:lang="swe">I minoritetikani politika astarela o pučiba bašo o arakhibe hem potpora e nacionalnikane minoritetenge hem e historiakere minoritetikane čhibja. Te zojrarelpe o arakhiba e nacionalnikane minoriteten tano jekh kotor tari e Švediakiri buti te braninel e manušengere hakia (pravia).</p>
+    <p type="title" xml:lang="swe">Jekh minoritetikani politikani stategia</p>
+    <p xml:lang="swe">Telo 2009 berš i radža prestavindža jekh nevi minoritetikani politikani stategia panda hembuter te zojrarel o nacionalnikane minoritetikanengere hakia (pravia). Sar jekh kotor tari e radžakiri strategia taro o 1 januaro 2010 jekh kanuni (zakoni) bašo nacionalnikane minoritetia hem minoritetikani čhib. I strategia saikerela predlogia praktično te zojrarel o nacionalnikane minoritetikane hakia hem mere či te:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Osigurinel pošukar poštovibe o minoritetikane konvencie ko Evropakoro godidejbe hem produžiba olengere mere</p>
+      <p type="listitem" xml:lang="swe">Te na mukhel diskriminacia prema o nacionalnikane minoritetia</p>
+      <p type="listitem" xml:lang="swe">Te zojrarelpe e nacioanlikane minoritetengiri ličnost hem vlijanibe</p>
+      <p type="listitem" xml:lang="swe">Te šukarkerel o arakhibe e nacioalnengere minoritetikane čhibja</p>
+    </list>
+  </body>
+</document>

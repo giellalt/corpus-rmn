@@ -1,0 +1,69 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="facta"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>724</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Ogoninflammation-hos-barn---vad-kan-man-gora-sjalv</origFileName>
+    <parallel_text xml:lang="eng" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text xml:lang="fin" location="ogoninflammation-hos-barn.html"/>
+    <parallel_text xml:lang="fit" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sma" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="sme" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="smj" location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html"/>
+    <parallel_text xml:lang="swe" location="ogoninflammationer-hos-barn.html"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
+    <parallel_text location="ogoninflammation-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="ogoninflammation-hos-barn-vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Inflamacija/Zapalenje ko jačha - So šaj te kerel manuš korkori? / Ögoninflammation hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+    <p xml:lang="swe"></p>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
+    </list>
+    <p type="title" xml:lang="swe">Inflamacija/Zapalenje ko jačha - So šaj te kerel manuš korkori?Ögoninflammation hos barn - vad kan man göra själv?</p>
+    <p xml:lang="swe"></p>
+    <list>
+      <p type="listitem" xml:lang="swe">Thov i jakh avrialdan taro strane prema o andruno delo ki jakh.</p>
+    </list>
+    <p type="title" xml:lang="swe">But puti nakhela palo jek kurko</p>
+    <p xml:lang="swe">Ko tikne čhave odova i obično te ovel olen zapalenje ko jačha, odova obično ovela keda isi olen virusikani infekcija sar šudardipa. Tegani e jačhengoro parnokotor loljola hem thavdena goza kotar o jačha kola tane but puti sar žuto. Obično o jačha tane hari šuvle. E jačhengiri inflamacija tani but zarazno.</p>
+    <p xml:lang="swe">O čhave šaj te dobinen jačengiri inflamacija hem kotar javera razlogija. Odova šaj te zavisinel tari disavi alergija keda o čhavo khuvela pek i jak ja pale keda džala leske andre diso ki jak. I inflamacija/zapalenje tano e teloskoro način te arakhel pes.</p>
+    <p type="title" xml:lang="swe">Šaj o čhavo/ i čhaj te džal ki angliškola?</p>
+    <p xml:lang="swe">O čhave so isi zapalenje ko jačha hem tej olengere jačha lole hari gozencar hem tej tane hari šudarde, tegani ola na trebena te ačhon khere, ola šaj te džan ki angliškola/vrtič/zabavište te osetinena pes šukar. O čhave so džana ki angliškola trebela te oven zorale kaj te šaj te len than ko sa o aktivitetija. O čhave so isi olen alergijakere pharipa ko jačha ni ola na trebena te ačhom khere.</p>
+    <p type="title" xml:lang="swe">O čhave trebena te ačhon khere te isi olen pumb ko jačha</p>
+    <p xml:lang="swe">Te phanljona e čhaveskere jačha kotar o goza hem te trebela manuš te kosel i pumb poviše puti ko dive tegani odova značinela kaj e čhave isi bari infekcija. Sar prvo solduj jačha tanelole hem thavdela phumb. Tegani o čhavo trebela te ačhol khere, odoleske so sar prvo o čhavo šaj te zarazinel javeren, sar dujto trebela o jačha te thoven pe poviše puti ko dive. O čhavo/ i čhaj šaj te džal pale ki čhavorikani grupa keda i o zapalenje sasčola hem ked ana thavdela više pumb kotar o jačha.</p>
+    <p xml:lang="swe">E jačhengiri inflamacija buvljola najviše maškar o tikne čhave odoleske so ola khelena paše jek javerea. I jačhengiri infekcija zarazinela pe keda o čhave morena ple jačha hem palo odova dolena o khelibaskere buča ja pale javere čhaven. O čhave so džana ki škola nane olen odoborom paše kontakti ama te isi olen but zorali infekcija hem tej o jačha gozale tegani ka trebel te ačhon khere.</p>
+    <p type="title" xml:lang="swe">Thov i jakh panjea</p>
+    <p xml:lang="swe">Te isi e čhave pumb ko jačha tegani trebela te thoven pe o jačha odoborom često kobor so trebela hem odova obično panjea. Le jek kompresi ja pale pošom hem thov i jakh avrialdan taro strane prema o andruno delo ki jakh.</p>
+    <p type="title" xml:lang="swe">Iker šukar e vastengiri higiena</p>
+    <p xml:lang="swe">Te isi pherdo šudarde manuša ki džikaskiri okolina hem te šaj te izbeginel pe jačhengiri infekcija tegani šukar i te ikerel pe bari vastengiri higiena - thovindor o vasta. Ka ovel šukar hem manuš te meninel e vastengere peškirija počesto sar khere adžahar hem ki angliškola.</p>
+    <p type="title" xml:lang="swe">O nevebijande čhave</p>
+    <p xml:lang="swe">Odova i obično e nevebijande čhaven te ovel olen šuta goza ko jačha, odova i adžahar odoleske so olengere kanalija tane po tang nego e pobare čhavengere ja pale e bare manušengere. Thov i jakh avrialdan taro strane prema o andruno delo ki jakh jekhe kompresea ja pale pošomaja soj boldo ko mlako pani ja pale ko keravdo pani lonea.</p>
+    <p type="title" xml:lang="swe">Šaj ka trebel te kontaktirine e ambolanta</p>
+    <p xml:lang="swe">Keda e jačhengiri inflamacija na nakhela jekhe kurkosdke tegani šaj trebela te lel pe antibiotika. Tegani šaj te kontaktirinel pe i ambolanta. Duj dive palo lejbe antibiotika tegani manuš na zarazinela više javeren, tegani o čhavo šaj pale te ki angliškola.</p>
+    <p xml:lang="swe">Manuš trebela te kontaktirinel sigate e ambolanta te isi e čhave zorali infekcija hem te ovela but phumb. Isto na trebela but te adžikerel pe te ovela o čhavo osetlivo ko svetlo ja pale te isi ole javera phare šudardipaskere pharipa. Te isi e čhave problemija samo jekhe jačhaja hem manuš te sumninela kaj o čhavo povredindža peski jakh tegani trebela te kontaktirinel pe i ambolanta.</p>
+    <p xml:lang="swe">Te isi jekhe nevebijande čhave jačhengiri inflamacija tegani manuš trebela odma te kontaktirinel e ambolanta.</p>
+    <p xml:lang="swe">Manuš šaj uvek te telefonirinel ki informacija bašo nasvalipaskoro arakhibe hem te del pe oleske godidejbe.</p>
+  </body>
+</document>

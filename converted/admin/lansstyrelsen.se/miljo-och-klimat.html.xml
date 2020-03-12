@@ -1,0 +1,84 @@
+<document xml:lang="rmn" id="no_id">
+  <header>
+    <title/>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <wordcount>642</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
+    <multilingual>
+      <language xml:lang="swe"/>
+      <language xml:lang="rmn"/>
+    </multilingual>
+    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/miljo-och-klimat/Pages/default.aspx</origFileName>
+    <parallel_text xml:lang="eng" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fin" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="fit" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="sma" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="sme" location="miljo-och-klimat.html"/>
+    <parallel_text xml:lang="swe" location="miljo-och-klimat.html"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmu"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rka"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmy-rlo"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="rmf"/>
+    <parallel_text location="miljo-och-klimat.html" xml:lang="yid"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
+  </header>
+  <body>
+    <p xml:lang="swe">Miljö hem klima - Länsstyrelsen Skåne</p>
+    <list>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe">Miljö &amp; klima</p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+      <p type="listitem" xml:lang="swe"></p>
+    </list>
+    <p xml:lang="swe"></p>
+    <p type="title" xml:lang="swe">Miljö hem klima</p>
+    <p xml:lang="swe"><em type="italic">O Länsstyrelsen kheljol jekh vazno olaga kana vakera katar o miljö hem e klimaki buti ano regioni. Amen organizina e buti sar te arakholpe o miljö hem buvljara o djanibe hem i buti sar te ava dji ko cilji djiko odova sar te arakholpeo miljö hem dji ko odova so shaj te lacharol o miljö. </em></p>
+    <p type="title" xml:lang="swe">O Miljösko cilji</p>
+    <p xml:lang="swe">O parlamenti andja odluka sar te ovol jekh shukar miljö politika savi ka ikerolpe akate ani Svedska. O cilji itano te e javer generacia kana ka ljen ano po vas akav puchibe mora te ovol gotovo zavrshimo o plani. E Länsstyrelsen isi obaveza te organizinol e buti sar ka arkaholpe o miljö ke jekh kvalitetno Svedsko cilji.</p>
+    <p xml:lang="swe">Svedsko kvalitetno cilji te arakholpe o miljö:</p>
+    <list>
+      <p type="listitem" xml:lang="swe">Ogrananicano sar te promenine i klima</p>
+      <p type="listitem" xml:lang="swe">Chisto vazduh</p>
+      <p type="listitem" xml:lang="swe">Samo prirodno buti</p>
+      <p type="listitem" xml:lang="swe">Na otrovno miljö</p>
+      <p type="listitem" xml:lang="swe">Zashtitimo ozonsko dikhibe</p>
+      <p type="listitem" xml:lang="swe">Sigurno zrachno miljö</p>
+      <p type="listitem" xml:lang="swe">Bizo otrovne thana</p>
+      <p type="listitem" xml:lang="swe">Djivde jezeria hem panaj Levande</p>
+      <p type="listitem" xml:lang="swe">Izvorno pani shukar kvalitetia</p>
+      <p type="listitem" xml:lang="swe">Balansi ano mare hem djivde panjeske thana uzalo more</p>
+      <p type="listitem" xml:lang="swe">Saste phuvjake thana uchrde panjenca</p>
+      <p type="listitem" xml:lang="swe">Djvde vesha</p>
+      <p type="listitem" xml:lang="swe">Jekh bravalo thna sadibaske</p>
+      <p type="listitem" xml:lang="swe">But shukar palninengo miljö Storslagen</p>
+      <p type="listitem" xml:lang="swe">Shukar kerdo than kaj kerenpe khera</p>
+      <p type="listitem" xml:lang="swe">Jekh bravalo than e biljkenge hem zivotinjenge</p>
+    </list>
+    <p type="title" xml:lang="swe">Sastipasko arakhibe</p>
+    <p xml:lang="swe">O Länsstyresen kerol buti te shaj lacharol hem cidol e sastipasko riziko ano khera hem avrial o khera.E sastipasko arakhiba kerol te nebi o manusha nasvaljona. Amen dikah kaj isi but bilache zvukia, vibracie, kaj isi zagadimo vazduh hem zrachenje. Ano palni e buchako save isi o Länsstyrelse si vi te dikhol sar o komune keren buti ko arkhibe e sastipasko hem doljen savet. E komunaki odluka e sastipaski shaj te zaljinolpe ano Länsstyrelsen.</p>
+    <p type="title" xml:lang="swe">Klima hem energia</p>
+    <p xml:lang="swe">O Länsstyrelsen organizinol regionalno saradnja sar te achavolpe o zagadjenje e naturako katar o otrovne gasia. O Länsstyrelsen ko jekh than e komuna, e firmenca kerdja jekh plani ko energiajko dikhibe te ovol promena. Amen kera buti hem o te siakava e manushen te navikninenpe ki promena klime, mora te djanen kaj o more bajrol hem kerol te avol but poplave odljeske mora te pripreminape.</p>
+    <p type="title" xml:lang="swe">Dozvola ano miljö</p>
+    <p xml:lang="swe">O Länsstyrelse organizinol popashe dikhibe ano regioni so ovol ano miljö. Te kerolpe stalno kontrola savi itani i situacia ano miljö savi itani jekh katr o naj vazne bucha saven amen isi. Mora te pratina savo itano o risko ani klima hem sar odova utechinol ano mansuha ja se odija itani samo jekh naturaki normalo promena hem variacia.</p>
+    <p type="title" xml:lang="swe">O Pani hem sar koristina</p>
+    <p xml:lang="swe">E panjeske izvoria mora te arakhenpe te shaj ovolamen ano anglunipe chisto pibasko pani amare potrebenge. I Shvedsk itani delimi ano pandj panjeske distriktia. Jekh kotar o Länsstyrelsen itano birimo ano distrikti te ljol odgovornost te avol amen kvalitetno pibasko pani. Sa so kerolpe te arakhenpe o panja valjanol te dolpe dozvola sar so vikinolpe panjeski buti. Na primer ani buti e panjea so keren struja, hem sar regulinenpe o brane, ano razlichite khera hem ko panja telal o mostia hem tuneljia, ko than kaj ikljolpe o pani bibaske hem o thana save itane ucharde panjea ano mochvare.</p>
+    <p type="title" xml:lang="swe">Organizacie hem i promena ano miljö</p>
+    <p xml:lang="swe">O Länsstyrelsen isilje jekh delagacia savi kerol probe hem dol dozvole e buchnege save shaj te aven opasne ano miljö.</p>
+    <p xml:lang="swe">Na primer odola bucha save itane opasne ano miljo itane o fabrike save keren buti kiselna, thana kaj kernepe ljil, balvaki energia, termoelektrane hem javer than kaj proizvodinolpe energia, ano pilane, ano kanalizacie, kaj fordenepe o bunishte, hem ano rudnikia.</p>
+    <p xml:lang="swe">Ano sa o komune isi jekh organizacia so ano lokalno levelo ljol odgovornost ano miljö puchiba te na ruminolpe e natura hem o miljö. Amen da dumo e komumake te shaj dikhen popashe sar o bucha keren buti hem sar te pratinen ljengi buti. Hem o Länsstyrelsen kerol buti te dikhol generaciako kobor rumindjol e natura hem so valjano te kerolpe te lacharolpe odova.</p>
+  </body>
+</document>
