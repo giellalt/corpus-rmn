@@ -1,86 +1,49 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>535</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_romaniarli.pdf</origFileName>
-    <parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/>
-    <parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/>
-    <parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/>
-    <parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/>
-    <parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/>
-    <parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/>
-    <parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/>
-    <parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe"><em type="bold">O KANUNI DELA </em></p>
-    <p xml:lang="swe"><em type="bold">MINORITETIA KI ŠVEDIA</em> </p>
-    <p xml:lang="swe"><em type="bold">E themeskoro/vladakoro cili e minoritetikane politikaja tani te del zaštita/te arakhel e nacionalnikane minoriteten, te zojrarel olengoro šaipe te utičinen hem te podržinel o historikane minoritetikane čhibja či te šaj te ikerenpe </em></p>
-    <p xml:lang="swe"><em type="bold">HAKO/PRAVO E NACIONALNIKANE MINORITETEN KOTORENGORO CILI </em></p>
-    <p xml:lang="swe"><em type="bold">E NACIONALNIKANE MINORITETENGE NACIONALNIKANE </em></p>
-    <p xml:lang="swe"><em type="bold"> DISKRIMINACIA HEM IZLOŽIBE</em> </p>
-    <p xml:lang="swe"><em type="bold">I Švedia sekova far sine butečhibjengiri hem butekulturengiri phuv. Leponcia, fincia, tornedalcia, roma hem jaudie bešle beršencar ki akaja phuv. Olengiri čhib hem kultura tani jekh kotor tari e švediakiri zaednica hem amaro zaedničko kulturakoro mirazi. </em></p>
-    <p xml:lang="swe">Diskriminacia, izložibe hem bipravedno postupiba prema o manuša so pripadinena ko nacionalnikane minoritetia ka suprostavinelpe. Olende ka ovel isto hako sar sa e narodo te šaj te učestvuinen ko dživdipaskoro društvo.</p>
-    <p xml:lang="swe"><em type="bold"> </em>Keda ka valjani e Organ upravakiri adminis</p>
-    <p xml:lang="swe">tracia ko jekh pogodno čani ka informirinel e nacionalnikane minoriteten bašo olengere hakia prema akava kanuni.</p>
-    <p xml:lang="swe">LAPONCIA: Isi 20 000 – 35 000 leponcia ki Švedia</p>
-    <p xml:lang="swe">so kerena buteder variteti tari laponikani čhib. O laponcia tane drevno narodo.</p>
-    <p xml:lang="swe"><em type="bold"> UTIČIBE HEM DELATNOST</em> </p>
-    <p xml:lang="swe">E nacionalnikane minoritetengoro šaipe ko utičibe hem delatnost ka zojrarelpe, ko asavko misal so e Organ uprava ka dogovorinelpe olencar.E minoritetenge ka delpe baro utičibe ko asavko pučiba keda kerelape olengoro lafi.</p>
-    <p xml:lang="swe">Ko kanuni e čhibjake (2009:600) vakerelape</p>
-    <p xml:lang="swe">so opšto isi posebno odgovornost te arakhel hem te šukarkerel e nacionalnikaneminorite</p>
-    <p xml:lang="swe"><em type="bold"> ČHIB HEM KULTURAKORO IDENTITETI</em> </p>
-    <p xml:lang="swe">E nacionalnikane minoritetengiri čhib hem kulture ka arakhenpe/zaštitinelpe hem ka unapredinenpe. O manuša so pripadinena ko nacionalnikane minoritetia ka prisvoinen hem ka kuladinen ple dajakiri čhib hem ka buvljaren plo lično kulturakoro identiteti. I nacionalnikani minoritetikani čhib ka ovel jekh dživdi čhib ki Švedia.</p>
-    <p xml:lang="swe">Organ upravakere administracie ka del e nacionalnikane minoritetenge šaipe te utičinen ko keribe lafi baši olende hem kobor šaj te</p>
-    <p xml:lang="swe">ŠVEDIKANE FINCIA::Isi 450 000 – 600 000 švedikane fincia ki Švedia. Buteder bešena ko Stockholm –Mä</p>
-    <p xml:lang="swe">lardalen. I minoritetikani čhib tani finsko.</p>
-    <p xml:lang="swe">TORNEDALCIA: Isi cirka 50 000 tornedalcia ki Švedia so hembut bešena ko Norrbotten. I Minoritetikani</p>
-    <p xml:lang="swe">čhib akharelape meänkieli.</p>
-    <p xml:lang="swe">ROMA::Isi 50 000 – 100 000 roma ki Švedia so bešena ki soro phuv. I minoritetikani čhib tani razno</p>
-    <p xml:lang="swe">varietetia tari i romani čhib.</p>
-    <p xml:lang="swe">JAUDIE:<em type="bold"> </em>Isi 20 000 – 25 000 jaudie ki Švedia. I mino-ritetikani čhib tani jaudikane. </p>
-    <p xml:lang="swe"><em type="bold">JEKH INFORMACIAKORO FOLDERI TARO</em> </p>
-    <p xml:lang="swe"><em type="bold">NORVEŠKA</em> </p>
-    <p xml:lang="swe"><em type="bold">ŠVEDIA</em> </p>
-    <p xml:lang="swe"> Kvänskanikane  Romane  Laponikane</p>
-    <p xml:lang="swe"> Laponikane  Finsko  Meänkielikane  Romane  Jaudikane</p>
-    <p xml:lang="swe"><em type="bold">BARI BRITANIA </em></p>
-    <p xml:lang="swe"><em type="bold">FINSKA</em> </p>
-    <p xml:lang="swe"> Romane  Rusko  Laponikane  švedikane  Tatarskikane  Jaudikane  Karelskanikane</p>
-    <p xml:lang="swe"><em type="bold">GERMANIA</em> </p>
-    <p xml:lang="swe"> Dansko  Telunigermanikani  Telunisorbikane  Severnofrisiskane  Romane  Saterfrisiskane  Učisorbiskane<em type="bold">DANSKA</em>  Gemanikane/Nemačko </p>
-    <p xml:lang="swe"> Kornikani  Iriskani  Manx  Teluni škotskani  Škotskani gaeliskani  Ulsterscotskani  Kimriskani (walesiskani)</p>
-    <p xml:lang="swe"><em type="bold">MADŽARSKA</em> </p>
-    <p xml:lang="swe"> Armeniskane  Beasiskane  Bulgarsko  Hrvatsko  Germanikane  Grčko  Polskanikane</p>
-    <p xml:lang="swe"><em type="bold">HOLANDIA</em> Frisiskane </p>
-    <p xml:lang="swe">Limburgiskane  Telunisaksikane  Romane  Jaudikane</p>
-    <p xml:lang="swe"> Madžrsko  Romane  Rusikane /Rutenikane  Srpsko  Slovakiskane  Slovenskanikane  Ukrainskane</p>
-    <p xml:lang="swe"><em type="bold">RUMUNIA</em> </p>
-    <p xml:lang="swe"><em type="bold">ŠPANIA </em></p>
-    <p xml:lang="swe"> Arabikane  Aragonikane  Aranesiskane  Asturiskane/</p>
-    <p xml:lang="swe">Bable</p>
-    <p xml:lang="swe"> Baskiskane  Berberikane  Katalanskanikane  Galiciskane  Portugisiskane  Valencianskane</p>
-    <p xml:lang="swe"> Albanikane  Armenikane  Bulgarikane  Hrvatikane  čekiskane  Germanikane  Grčko  Madžarsko  Italiensko  Makedonikane  Polskanikane  Romane  Rusikane  Rusinsko/Rutensko  Srpskanikane  Slovakiskane  Tatarskikane  Khorane  Ukrainskane  Jaudikane</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>535</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/SiteCollectionDocuments/Sv/manniska-och-samhalle/nationella-minoriteter/Folder_grundskyddet_romaniarli.pdf</origFileName><parallel_text xml:lang="eng" location="folder_grundskyddet_engelska.pdf"/><parallel_text xml:lang="fin" location="folder_grundskyddet_finska.pdf"/><parallel_text xml:lang="fit" location="folder_grundskyddet_meankieli.pdf"/><parallel_text xml:lang="sma" location="folder_grundskyddet_sydsamiska.pdf"/><parallel_text xml:lang="sme" location="folder_grundskyddet_nordsamiska.pdf"/><parallel_text xml:lang="smj" location="folder_grundskyddet-lulesamiska.pdf"/><parallel_text xml:lang="swe" location="folder_med_loggor_ny_strecket_cf.pdf"/><parallel_text location="folder_grundskyddet_romanikelderash.pdf" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe"><em type="bold">O KANUNI DELA </em></p>
+<p><em type="bold">MINORITETIA KI ŠVEDIA</em> </p>
+<p xml:lang="swe"><em type="bold">E themeskoro/vladakoro cili e minoritetikane politikaja tani te del zaštita/te arakhel e nacionalnikane minoriteten, te zojrarel olengoro šaipe te utičinen hem te podržinel o historikane minoritetikane čhibja či te šaj te ikerenpe </em></p>
+<p xml:lang="swe"><em type="bold">HAKO/PRAVO E NACIONALNIKANE MINORITETEN KOTORENGORO CILI </em></p>
+<p xml:lang="swe"><em type="bold">E NACIONALNIKANE MINORITETENGE NACIONALNIKANE </em></p>
+<p><em type="bold"> DISKRIMINACIA HEM IZLOŽIBE</em> </p>
+<p><em type="bold">I Švedia sekova far sine butečhibjengiri hem butekulturengiri phuv. Leponcia, fincia, tornedalcia, roma hem jaudie bešle beršencar ki akaja phuv. Olengiri čhib hem kultura tani jekh kotor tari e švediakiri zaednica hem amaro zaedničko kulturakoro mirazi. </em></p>
+<p>Diskriminacia, izložibe hem bipravedno postupiba prema o manuša so pripadinena ko nacionalnikane minoritetia ka suprostavinelpe. Olende ka ovel isto hako sar sa e narodo te šaj te učestvuinen ko dživdipaskoro društvo.</p>
+<p><em type="bold"> </em>Keda ka valjani e Organ upravakiri adminis</p>
+<p>tracia ko jekh pogodno čani ka informirinel e nacionalnikane minoriteten bašo olengere hakia prema akava kanuni.</p>
+<p>LAPONCIA: Isi 20 000 – 35 000 leponcia ki Švedia</p>
+<p>so kerena buteder variteti tari laponikani čhib. O laponcia tane drevno narodo.</p>
+<p><em type="bold"> UTIČIBE HEM DELATNOST</em> </p>
+<p>E nacionalnikane minoritetengoro šaipe ko utičibe hem delatnost ka zojrarelpe, ko asavko misal so e Organ uprava ka dogovorinelpe olencar.E minoritetenge ka delpe baro utičibe ko asavko pučiba keda kerelape olengoro lafi.</p>
+<p>Ko kanuni e čhibjake (2009:600) vakerelape</p>
+<p>so opšto isi posebno odgovornost te arakhel hem te šukarkerel e nacionalnikaneminorite</p>
+<p><em type="bold"> ČHIB HEM KULTURAKORO IDENTITETI</em> </p>
+<p>E nacionalnikane minoritetengiri čhib hem kulture ka arakhenpe/zaštitinelpe hem ka unapredinenpe. O manuša so pripadinena ko nacionalnikane minoritetia ka prisvoinen hem ka kuladinen ple dajakiri čhib hem ka buvljaren plo lično kulturakoro identiteti. I nacionalnikani minoritetikani čhib ka ovel jekh dživdi čhib ki Švedia.</p>
+<p>Organ upravakere administracie ka del e nacionalnikane minoritetenge šaipe te utičinen ko keribe lafi baši olende hem kobor šaj te</p>
+<p>ŠVEDIKANE FINCIA::Isi 450 000 – 600 000 švedikane fincia ki Švedia. Buteder bešena ko Stockholm –Mä</p>
+<p>lardalen. I minoritetikani čhib tani finsko.</p>
+<p>TORNEDALCIA: Isi cirka 50 000 tornedalcia ki Švedia so hembut bešena ko Norrbotten. I Minoritetikani</p>
+<p>čhib akharelape meänkieli.</p>
+<p>ROMA::Isi 50 000 – 100 000 roma ki Švedia so bešena ki soro phuv. I minoritetikani čhib tani razno</p>
+<p>varietetia tari i romani čhib.</p>
+<p>JAUDIE:<em type="bold"> </em>Isi 20 000 – 25 000 jaudie ki Švedia. I mino-ritetikani čhib tani jaudikane. </p>
+<p><em type="bold">JEKH INFORMACIAKORO FOLDERI TARO</em> </p>
+<p><em type="bold">NORVEŠKA</em> </p>
+<p xml:lang="swe"><em type="bold">ŠVEDIA</em> </p>
+<p> Kvänskanikane  Romane  Laponikane</p>
+<p> Laponikane  Finsko  Meänkielikane  Romane  Jaudikane</p>
+<p><em type="bold">BARI BRITANIA </em></p>
+<p><em type="bold">FINSKA</em> </p>
+<p> Romane  Rusko  Laponikane  švedikane  Tatarskikane  Jaudikane  Karelskanikane</p>
+<p xml:lang="swe"><em type="bold">GERMANIA</em> </p>
+<p xml:lang="swe"> Dansko  Telunigermanikani  Telunisorbikane  Severnofrisiskane  Romane  Saterfrisiskane  Učisorbiskane<em type="bold">DANSKA</em>  Gemanikane/Nemačko </p>
+<p xml:lang="swe"> Kornikani  Iriskani  Manx  Teluni škotskani  Škotskani gaeliskani  Ulsterscotskani  Kimriskani (walesiskani)</p>
+<p xml:lang="swe"><em type="bold">MADŽARSKA</em> </p>
+<p> Armeniskane  Beasiskane  Bulgarsko  Hrvatsko  Germanikane  Grčko  Polskanikane</p>
+<p><em type="bold">HOLANDIA</em> Frisiskane </p>
+<p>Limburgiskane  Telunisaksikane  Romane  Jaudikane</p>
+<p> Madžrsko  Romane  Rusikane /Rutenikane  Srpsko  Slovakiskane  Slovenskanikane  Ukrainskane</p>
+<p><em type="bold">RUMUNIA</em> </p>
+<p><em type="bold">ŠPANIA </em></p>
+<p xml:lang="swe"> Arabikane  Aragonikane  Aranesiskane  Asturiskane/</p>
+<p xml:lang="swe">Bable</p>
+<p> Baskiskane  Berberikane  Katalanskanikane  Galiciskane  Portugisiskane  Valencianskane</p>
+<p> Albanikane  Armenikane  Bulgarikane  Hrvatikane  čekiskane  Germanikane  Grčko  Madžarsko  Italiensko  Makedonikane  Polskanikane  Romane  Rusikane  Rusinsko/Rutensko  Srpskanikane  Slovakiskane  Tatarskikane  Khorane  Ukrainskane  Jaudikane</p>
+</body></document>

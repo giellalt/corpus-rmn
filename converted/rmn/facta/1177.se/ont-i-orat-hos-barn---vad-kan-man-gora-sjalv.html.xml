@@ -1,68 +1,25 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>639</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/>
-    <parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="d.html"/>
-    <parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="l1.html"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Kaneskiri dukh ko čhave - so šaj manuš te kerel korkori? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Kaneskiri dukh ko čhave - so šaj manuš te kerel korkori?Ont i örat hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">Te pašlilo o čhavo ko uče jastukija tegani o šuvlipe ko kan ovela potikno hem tegani na dukhala but o kan. Jek način te kere te ovel pouče e čhaveske i te čhive šeranda telo kreveti kotar e šereskiri strana.</p>
-    </list>
-    <p type="title" xml:lang="swe">But puti dukh račate</p>
-    <p xml:lang="swe">O čhave soj šudarde šaj te ovel olen dukh ko kan odoleske so i sluznica (sapanimortik) ko kan tani šuvli. Olende šaj te ovel dukh hem kotar jek kan so isi ole phumb hem inflamacija, kaneskiri inflamacija. Hem o šudardipa hem i kanengiri inflamacija tane infektiribaskoro nasvalipa ko čhave. Obično o čhave džangavdžovena račate kotar dukh odoleske so o šuvlipa ko kan ovela pobaro keda manuš pašljola. Ovela polokho sojbaske keda manuše isi ekstra šeranda .</p>
-    <p xml:lang="swe">Javera pharipa so šaj te keren dukh ko kan tani inflamacija ko šunibaskoro kanali so džala andre koro e kaneskoro davuli, odova ovela kotar e kaneskiri mom ja pale keda isi manuše problemija e vilicencar.</p>
-    <p type="title" xml:lang="swe">I kanengiri inflamacija kerela te dukhal o maškaruno kan</p>
-    <p xml:lang="swe">Keda isi manuše kaneskiri inflamacija ko maškaruno kan tegani odova lela te ovel kotar jekputi hem nakhela palo kratko vreme. Osim kotar i dukh o čhavo šaj te osetinel kaj isi ole sar kapako ko kan hem na šunela šukar. Tegani obično manuše ovela hem jag/temperatura. Disavo puti šaj te phajrol e kaneskoro davuli hem ikljola pani kotar e kaneskoro kanali. Palo odova i dukh ovela potikni. E čhaven šaj te ovel kaneskiri inflamacija bizo te osetinen disavi dukh.</p>
-    <p type="title" xml:lang="swe">Dukhčhinavibaskere iljačija</p>
-    <p xml:lang="swe">Te džanela manuš kaj e čhave isi inflamacija ko kana tegani manuš šaj te del dukhčhinavibaskere iljačija so isi olen paracetamoli, ko primer Alvedon ja Panodil ja pale iljačija so isi olen ibuprofeni, ko primer Ipren hem Ibumetin. Akala iljačija isi ko razna forme,: panjale, sar kerpičia hem sar hapija. Ki pakovka isi detalirimo upustvo.</p>
-    <p xml:lang="swe">Keda i ko pučibe čhave soj potikne taro šov masek, manuš na trebela te del olen iljači bizo te vakerel pe e medicikane penjaja ja pale e doktoreja.</p>
-    <p xml:lang="swe">O čhave soj potikne taro 18 berš ola na trebena te koristinen dukhčhinavibaskere iljačija so isi olen acetilsalicilno kiselina (aspirini), ko primer Magnecyl, treo ja pale Albyl minor, ola šaj te pien te dindža olen o doktori.</p>
-    <p type="title" xml:lang="swe">Nakheskoro sprej</p>
-    <p xml:lang="swe">Isi nakh phrajbaskere spreja so tiknjarena e nakheskoro phanlipa hem tegani o čhave dišinena polokhe. Dali akava spreji tano šukar protiv kanengiri inflamacija nane nisavo dokaz.</p>
-    <p type="title" xml:lang="swe">Kanengoro problemi hem o nandžojbe</p>
-    <p xml:lang="swe">Keda phajrola e kaneskoro davuli tegani manuš trebela te adžikerel nandžojbaja sa dži kote te čhinavel te thavdel kotar kaneskoro kanali. Keda sasčola e kaneskoro davuli , odova obično ovela sigate, tegani manuš šaj te nandžol sar obično. Te isi manuše jek cevka ko kan/a ja pale te isi jek kanengiri inflamacija tegani manuš na trebela te čhivel plo šero telo pani.</p>
-    <p type="title" xml:lang="swe">Šaj ka trebel te kontaktirinel pe i ambolanta/klinika</p>
-    <p xml:lang="swe">Disavo puti šaj e čhaven te dukhan o kana kotar obično šudardipa. Ama te na nakhlja i dukh duje – trine divenge, mada dela pe dukhčhinavibaskere iljačija hem mada manuš čhivela uče šeranda telo šero, tegani manuš trebela te kontaktirinele ambolanta ja pale e akutno klinika.</p>
-    <p xml:lang="swe">Tej o čhavo umorno, na mangela te khelel hem na piela, ja pale tej o čhavo pohari taro šov masek, tegani trebela te kontaktirinel pe i ambolanta/klinika direktno.</p>
-    <p xml:lang="swe">Manuš trebela te kontaktirinel e ambolanta hem keda thavdela kotar e čhaveskoro kanengoro kanali- bizo razlika dali isi e čhave dukh ja na.</p>
-    <p xml:lang="swe">Manuš šaj uvek te javinel pe ko godidejbe bašo nasvalipaskoroarakhiba /sjukvårdsrådgivningen .</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>630</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Ont-i-orat-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fin" location="ont-i-orat-hos-barn.html"/><parallel_text xml:lang="fit" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="d.html"/><parallel_text xml:lang="sme" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="l1.html"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="ont-i-orat-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="ont-i-orat-hos-barn---egenvard.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Kaneskiri dukh ko čhave - so šaj manuš te kerel korkori? / Ont i örat hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title" xml:lang="swe">Kaneskiri dukh ko čhave - so šaj manuš te kerel korkori?Ont i örat hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">Te pašlilo o čhavo ko uče jastukija tegani o šuvlipe ko kan ovela potikno hem tegani na dukhala but o kan. Jek način te kere te ovel pouče e čhaveske i te čhive šeranda telo kreveti kotar e šereskiri strana.</p>
+</list><p type="title">But puti dukh račate</p>
+<p>O čhave soj šudarde šaj te ovel olen dukh ko kan odoleske so i sluznica (sapanimortik) ko kan tani šuvli. Olende šaj te ovel dukh hem kotar jek kan so isi ole phumb hem inflamacija, kaneskiri inflamacija. Hem o šudardipa hem i kanengiri inflamacija tane infektiribaskoro nasvalipa ko čhave. Obično o čhave džangavdžovena račate kotar dukh odoleske so o šuvlipa ko kan ovela pobaro keda manuš pašljola. Ovela polokho sojbaske keda manuše isi ekstra šeranda .</p>
+<p>Javera pharipa so šaj te keren dukh ko kan tani inflamacija ko šunibaskoro kanali so džala andre koro e kaneskoro davuli, odova ovela kotar e kaneskiri mom ja pale keda isi manuše problemija e vilicencar.</p>
+<p type="title">I kanengiri inflamacija kerela te dukhal o maškaruno kan</p>
+<p>Keda isi manuše kaneskiri inflamacija ko maškaruno kan tegani odova lela te ovel kotar jekputi hem nakhela palo kratko vreme. Osim kotar i dukh o čhavo šaj te osetinel kaj isi ole sar kapako ko kan hem na šunela šukar. Tegani obično manuše ovela hem jag/temperatura. Disavo puti šaj te phajrol e kaneskoro davuli hem ikljola pani kotar e kaneskoro kanali. Palo odova i dukh ovela potikni. E čhaven šaj te ovel kaneskiri inflamacija bizo te osetinen disavi dukh.</p>
+<p type="title">Dukhčhinavibaskere iljačija</p>
+<p>Te džanela manuš kaj e čhave isi inflamacija ko kana tegani manuš šaj te del dukhčhinavibaskere iljačija so isi olen paracetamoli, ko primer Alvedon ja Panodil ja pale iljačija so isi olen ibuprofeni, ko primer Ipren hem Ibumetin. Akala iljačija isi ko razna forme,: panjale, sar kerpičia hem sar hapija. Ki pakovka isi detalirimo upustvo.</p>
+<p>Keda i ko pučibe čhave soj potikne taro šov masek, manuš na trebela te del olen iljači bizo te vakerel pe e medicikane penjaja ja pale e doktoreja.</p>
+<p>O čhave soj potikne taro 18 berš ola na trebena te koristinen dukhčhinavibaskere iljačija so isi olen acetilsalicilno kiselina (aspirini), ko primer Magnecyl, treo ja pale Albyl minor, ola šaj te pien te dindža olen o doktori.</p>
+<p type="title">Nakheskoro sprej</p>
+<p>Isi nakh phrajbaskere spreja so tiknjarena e nakheskoro phanlipa hem tegani o čhave dišinena polokhe. Dali akava spreji tano šukar protiv kanengiri inflamacija nane nisavo dokaz.</p>
+<p type="title">Kanengoro problemi hem o nandžojbe</p>
+<p>Keda phajrola e kaneskoro davuli tegani manuš trebela te adžikerel nandžojbaja sa dži kote te čhinavel te thavdel kotar kaneskoro kanali. Keda sasčola e kaneskoro davuli , odova obično ovela sigate, tegani manuš šaj te nandžol sar obično. Te isi manuše jek cevka ko kan/a ja pale te isi jek kanengiri inflamacija tegani manuš na trebela te čhivel plo šero telo pani.</p>
+<p type="title">Šaj ka trebel te kontaktirinel pe i ambolanta/klinika</p>
+<p>Disavo puti šaj e čhaven te dukhan o kana kotar obično šudardipa. Ama te na nakhlja i dukh duje – trine divenge, mada dela pe dukhčhinavibaskere iljačija hem mada manuš čhivela uče šeranda telo šero, tegani manuš trebela te kontaktirinele ambolanta ja pale e akutno klinika.</p>
+<p>Tej o čhavo umorno, na mangela te khelel hem na piela, ja pale tej o čhavo pohari taro šov masek, tegani trebela te kontaktirinel pe i ambolanta/klinika direktno.</p>
+<p>Manuš trebela te kontaktirinel e ambolanta hem keda thavdela kotar e čhaveskoro kanengoro kanali- bizo razlika dali isi e čhave dukh ja na.</p>
+<p>Manuš šaj uvek te javinel pe ko godidejbe bašo nasvalipaskoroarakhiba /sjukvårdsrådgivningen .</p>
+</body></document>

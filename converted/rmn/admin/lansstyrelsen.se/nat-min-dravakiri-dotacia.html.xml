@@ -1,62 +1,28 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>218</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/dr%c5%beavakiri-dotacia.aspx</origFileName>
-    <parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/>
-    <parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/>
-    <parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/>
-    <parallel_text xml:lang="smj" location="nat-min-stahtadoarrja.html"/>
-    <parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Državakiri dotacia - Länsstyrelsen i Stockholm</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Državakiri dotacia</p>
-    <p xml:lang="swe"><em type="italic">Taro o totalnikano budžeti ko 97 milionja krune so i radža odvoidža e minoritetikane politikake 2014, 70 milionja krune džana e komunenge hem e sresko skupštinenge e državakere dotaciaja. </em></p>
-    <p type="title" xml:lang="swe">Ko so o love ka kulandinenpe?</p>
-    <p xml:lang="swe">E državakiri dotacia ka kulandinelpe barabar e minoritetencar hem e troškonge keda alo e minoritetengoro kanuni, na bašo odova so angleder sine dužnost te kerelpe, ko misal te anelpe tumači hem te delinelpe redovno dotacia e khedipaske (klubia). Šajutne (mogučno) kulandipaskere thana tane:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Dialogo hem dogovor e minoritetencar</p>
-      <p type="listitem" xml:lang="swe">Preučibe</p>
-      <p type="listitem" xml:lang="swe">Informaciakoro uložibe hem nakhavibe (prevodiba)</p>
-      <p type="listitem" xml:lang="swe">Organizaciakiri temelnikani kontrola hem promene</p>
-      <p type="listitem" xml:lang="swe">Kultura – hem čhibjakoro uložibe</p>
-      <p type="listitem" xml:lang="swe">Te dikhenpe o minoritetia hem olengiri čhib, ko misal keriba izložba</p>
-      <p type="listitem" xml:lang="swe">Inicialnikano mobiliziribaskoro učestvuiba, ko misal kjinibe literatura, pedagogikano materiali</p>
-      <p type="listitem" xml:lang="swe">Kotor bašo e personaleskere trošakia</p>
-      <p type="listitem" xml:lang="swe">Bučakoro plani</p>
-    </list>
-    <p type="title" xml:lang="swe">Odobor lena o komune</p>
-    <p xml:lang="swe">I osnovno baza jekh komunake tani 660 000 krune ko berš. I komuna pohari taro 50 000 manuša (stanovnikia) lena 1 osnovno baza dži ko 80 000 manuša lena 1,5 osnovno baza dži ko 100 000 manuša lena 2 osnovno baze dži ko 400 000 manuša lena 3 osnovno baze 400 000 manuša ja buteder lena 4 osnovno baze</p>
-    <p xml:lang="swe">O komune so pripadinena ko buteder taro jekh upravakoro than lena 500 000 krune dodatko.</p>
-    <p xml:lang="swe">Sresko skupština/regie lena 250 000 krune.</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>218</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/dr%c5%beavakiri-dotacia.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-valtiontuki.html"/><parallel_text xml:lang="sma" location="nat-min-staatedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-stahtadoarjja.html"/><parallel_text xml:lang="smj" location="nat-min-stahtadoarrja.html"/><parallel_text xml:lang="swe" location="nat-min-statsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Državakiri dotacia - Länsstyrelsen i Stockholm</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Državakiri dotacia</p>
+<p xml:lang="swe"><em type="italic">Taro o totalnikano budžeti ko 97 milionja krune so i radža odvoidža e minoritetikane politikake 2014, 70 milionja krune džana e komunenge hem e sresko skupštinenge e državakere dotaciaja. </em></p>
+<p type="title">Ko so o love ka kulandinenpe?</p>
+<p>E državakiri dotacia ka kulandinelpe barabar e minoritetencar hem e troškonge keda alo e minoritetengoro kanuni, na bašo odova so angleder sine dužnost te kerelpe, ko misal te anelpe tumači hem te delinelpe redovno dotacia e khedipaske (klubia). Šajutne (mogučno) kulandipaskere thana tane:</p>
+<list><p type="listitem">Dialogo hem dogovor e minoritetencar</p>
+<p type="listitem">Preučibe</p>
+<p type="listitem">Informaciakoro uložibe hem nakhavibe (prevodiba)</p>
+<p type="listitem">Organizaciakiri temelnikani kontrola hem promene</p>
+<p type="listitem">Kultura – hem čhibjakoro uložibe</p>
+<p type="listitem">Te dikhenpe o minoritetia hem olengiri čhib, ko misal keriba izložba</p>
+<p type="listitem">Inicialnikano mobiliziribaskoro učestvuiba, ko misal kjinibe literatura, pedagogikano materiali</p>
+<p type="listitem">Kotor bašo e personaleskere trošakia</p>
+<p type="listitem">Bučakoro plani</p>
+</list><p type="title">Odobor lena o komune</p>
+<p>I osnovno baza jekh komunake tani 660 000 krune ko berš. I komuna pohari taro 50 000 manuša (stanovnikia) lena 1 osnovno baza dži ko 80 000 manuša lena 1,5 osnovno baza dži ko 100 000 manuša lena 2 osnovno baze dži ko 400 000 manuša lena 3 osnovno baze 400 000 manuša ja buteder lena 4 osnovno baze</p>
+<p>O komune so pripadinena ko buteder taro jekh upravakoro than lena 500 000 krune dodatko.</p>
+<p>Sresko skupština/regie lena 250 000 krune.</p>
+</body></document>
