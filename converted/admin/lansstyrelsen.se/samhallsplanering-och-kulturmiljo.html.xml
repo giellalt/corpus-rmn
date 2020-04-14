@@ -1,69 +1,31 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="admin"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>900</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.lansstyrelsen.se/skane/rom-ag/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName>
-    <parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/>
-    <parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Drushtveno palneribe hem kulturako miljö - Länsstyrelsen Skåne</p>
-    <list>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe"></p>
-      <p type="listitem" xml:lang="swe">Drushtveno palneribe &amp; kulturako miljö</p>
-      <p type="listitem" xml:lang="swe"></p>
-    </list>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Drushtveno palneribe hem kulturako miljö</p>
-    <p xml:lang="swe"><em type="italic">O Länsstyrelsen kerol buti sar te planirinolpe ano drustvo, te ovol jekh sigurno hem posukar mogucnost te djivdinolpe ano anglunipe hem ano lungo vreme ano regioni sa e dizutnenge hem odoljenge save kamen te aven sar gostia. O kulturako miljö itano jekh kotar o kotor e dustvosko ani historia, oj dol kontinuiteti hem te shaj hacharenpe o manusha ano than kja djivdinen. </em></p>
-    <p type="title" xml:lang="swe">Infrastruktura hem IT</p>
-    <p xml:lang="swe">O Länstyrelsen kerol buti te shaj ovol poshukar komunikacia ano regioni hem zoralje kamen te delinen pea javerenge te shaj ovol jekh sukar miljö. Jekh shukar komunikacia hem IT-infrastruktura savi kerol te shaj o manusha o firme hem o organizacie pobuder bajaren pe bucha. O länsstyrelsen dikhol popashe o intersi ani sa i drzava hem o intersi ano o komune save itane ano regioni sar te kerolpe shukar palni ani infrastrukturake projektia.</p>
-    <p type="title" xml:lang="swe">Energia</p>
-    <p xml:lang="swe">O länsstyrelsen organizinol i saradnja e buchaki ano regioni savo ka ikerolpe ano dugo vreme te shaj kerolpe dosta energia (struja). Ko jekh than e regionia hem javer aktorienca kerdjam jekh klima hem energiaki strategia sar shaj te ikerol shukar klima ani Svedska. O Länsstyrerle kerdja but projektia te shaj ikerol o bajaripe hem te shaj den dumo e komunen ke ljengo energiako plani. Isi but tipia sar shaj te pomozinolpe ekonomski lovenca kotar i vlada kana vakera sar shaj te efktirizinolpe e energiako plani, te shaj arakhenpe neve metode pe akva isto odlucinol o Länsstyrelsen. Ano Länsstyrelsen isi jekh probaki delegacia savi dikhol popashe hem anol odluke te denpe dozvole ane bare energiake thana sar e balvalaki energia hem o ano centralno grejanje.</p>
-    <p type="title" xml:lang="swe">Khera kaj djivdine</p>
-    <p xml:lang="swe">O länsstyrelsen dikhol popashe o drzavno pomoc sar ka kerenpe khera e phurenge hem te kerenpe sigurne khera, dikholpe dalji te kerolpe sanering kotar o radon ko tikne khera hem dikhen popoashe dalji ka den pomoc lovenca e energiake ko khera hem lokalia. O Länsstyrelsen kerol raporti ki informacia hem analiza kobor stania isi ano regioni hem dol dumo e komunake te kerenpe neve stania te valjnadja.</p>
-    <p type="title" xml:lang="swe">Planiske puchiba</p>
-    <p xml:lang="swe">O Länsstyrelsen kerol osnovne palnia ano regioni savo motvol soj itano vazno te kerolpe sar na primer gradnja hem sar koristinenpe o thana. O cilji itano te kerolpe jekh shukar hem sigurno djivdipe ano dugo hem ikeribasko plani. O planiribe itano ko nationalno cilji hem drzavno interesi, na primer kana vakera kotar e energiajaki produkcia, prirodako arakhibe, slobodno vreme ja se komunikacia. Amen kera hem kontrol ane komunake plania sar on dikhen ke manushengo sastipe hem sigurnost, ko nationalno korist, ko miljö te ikerenpe o norme hem ko plazengo arakhibe. Te hinana bi chalo sar i komuna palniridja te kerol di jekh kher shaj te de ti zalba ke amnede.</p>
-    <p type="title" xml:lang="swe">Te arakhenpe o purane khera</p>
-    <p xml:lang="swe">O Länsstyrelsen shaj te anol odluka kotar e kulturake hem historijake khera, crkve (kahngiri), parkija miljö, bashte hem but javer te arakhenpe sar diso so ka setinamen so ulo odothe. O Länsstyrelsen anol odluka sar hem so shaj te arkholpe, hem on den dozvole te manglje te lacharen o phurane thana sar o ckve (khangiri), hem o grobija.</p>
-    <p type="title" xml:lang="swe">Kherengo arakhibe</p>
-    <p xml:lang="swe">E kherengo arakhibe itano jekh deo kotar i buti save isi e Länsstyrelsen ano anglunipe, te arakholpe o kulturako miljö ano regioni. Te shaj te arkholpe sa akava mora te ikerenpe e kulturake historiajke khera adobokha kaj valjanol hem kobor valjanol. Odoljeske hem valjnol te koristinolpe matrila hem shukar metode save ka arkhen akala phurane thana. Tu sar privatno personi ja se sar firma shaj te rode love te mangljan te arakhe diso soj kulturno historisko, akal love dol i drzava hem vikinolpe ”byggnadsvårdsbidrag.</p>
-    <p type="title" xml:lang="swe">Arkeologia hem fornlämningar</p>
-    <p xml:lang="swe">Fornlämningar itane tragia palo phurane thana kaj o manusha kerena buti diso, na primer kaj djivdinena, thana kaj honena, purane phage khera, kulturake purane thana kotar o srednje doba. O Länsstyrelsen ki pi buti kerol te arakhol hem ikerol akala thana te shaj avdiveske generacie hem anglunipaske generacie shaj te osetinen hem hacharen e kultura e historia savi hinen anglal. Prekolo zakoni e kulturako savo andjape, na tromal niko te promeninol ja se ruminol o than saven isi kulturno historisko bogastvo, shaj samo o Länsstyrelsen te dol dozvola te mangljen te kere diso pe akava puchibe.</p>
-    <p type="title" xml:lang="swe">Kulturake rezervatia</p>
-    <p xml:lang="swe">O Länsstyrelsen hem i komuna shaj te odluchinen save thana shaj te arakhenpe sar bogstvo ano kulturaki priroda te oven zashtitime sar kulturake rezervatia. Odava hem astarol o phurane khera, than ani priroda, djaniba so kerdjape hem tradicie. O kulturako rezervati shaj te avol kotar o jekh karaktreno poljuprivredno than ja se dji ko jekh industrijako iteresantno than, sa diso so kerdjape vazno but bersha popalal. Kana o Länsstyrelsen andja odluka te ovol jekh than kulturno rezervati zanachinol hem kaj on ljen odgovornost sar arakholpe o than hem so isi ano ljeste.</p>
-    <p type="title" xml:lang="swe">Regionalno arakhibe</p>
-    <p xml:lang="swe">O Länsstyrelsen kerol buti sar te arakhol o thana ano regioni hem te motholv ljengo vaznost. Te mangljan te arakhe jekh kulturno regionalno bogastvo savo vakerol sar hine i historia ano regioni shaj te dobine lovengo pomoch kotar o Länsstyrelsen. Odova shaj te ovol vakeribe kotar o phurane khera, biljke hem zivotinje O Länsstyrelsen dol hem lovengo pomoch e drushtvoske, firmenge hem privatne personenge save kamen te keren buti ko jekh than e prirodno arakhibaske projektoa (LONA). Te kamljan te keren ljneca buti ano (LONA) shaj te prijavine tut ani komuna hem ano Länsstyrelsen.</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>900</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/skane/rom-ag/samhallsplanering-och-kulturmiljo/Pages/default.aspx</origFileName><parallel_text xml:lang="eng" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fin" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="fit" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sma" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="sme" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text xml:lang="swe" location="samhallsplanering-och-kulturmiljo.html"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmu"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rka"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmy-rlo"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="rmf"/><parallel_text location="samhallsplanering-och-kulturmiljo.html" xml:lang="yid"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Drushtveno palneribe hem kulturako miljö - Länsstyrelsen Skåne</p>
+<list><p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe"></p>
+<p type="listitem" xml:lang="swe">Drushtveno palneribe &amp; kulturako miljö</p>
+<p type="listitem" xml:lang="swe"></p>
+</list><p xml:lang="swe"></p>
+<p type="title">Drushtveno palneribe hem kulturako miljö</p>
+<p><em type="italic">O Länsstyrelsen kerol buti sar te planirinolpe ano drustvo, te ovol jekh sigurno hem posukar mogucnost te djivdinolpe ano anglunipe hem ano lungo vreme ano regioni sa e dizutnenge hem odoljenge save kamen te aven sar gostia. O kulturako miljö itano jekh kotar o kotor e dustvosko ani historia, oj dol kontinuiteti hem te shaj hacharenpe o manusha ano than kja djivdinen. </em></p>
+<p type="title" xml:lang="swe">Infrastruktura hem IT</p>
+<p>O Länstyrelsen kerol buti te shaj ovol poshukar komunikacia ano regioni hem zoralje kamen te delinen pea javerenge te shaj ovol jekh sukar miljö. Jekh shukar komunikacia hem IT-infrastruktura savi kerol te shaj o manusha o firme hem o organizacie pobuder bajaren pe bucha. O länsstyrelsen dikhol popashe o intersi ani sa i drzava hem o intersi ano o komune save itane ano regioni sar te kerolpe shukar palni ani infrastrukturake projektia.</p>
+<p type="title">Energia</p>
+<p>O länsstyrelsen organizinol i saradnja e buchaki ano regioni savo ka ikerolpe ano dugo vreme te shaj kerolpe dosta energia (struja). Ko jekh than e regionia hem javer aktorienca kerdjam jekh klima hem energiaki strategia sar shaj te ikerol shukar klima ani Svedska. O Länsstyrerle kerdja but projektia te shaj ikerol o bajaripe hem te shaj den dumo e komunen ke ljengo energiako plani. Isi but tipia sar shaj te pomozinolpe ekonomski lovenca kotar i vlada kana vakera sar shaj te efktirizinolpe e energiako plani, te shaj arakhenpe neve metode pe akva isto odlucinol o Länsstyrelsen. Ano Länsstyrelsen isi jekh probaki delegacia savi dikhol popashe hem anol odluke te denpe dozvole ane bare energiake thana sar e balvalaki energia hem o ano centralno grejanje.</p>
+<p type="title">Khera kaj djivdine</p>
+<p>O länsstyrelsen dikhol popashe o drzavno pomoc sar ka kerenpe khera e phurenge hem te kerenpe sigurne khera, dikholpe dalji te kerolpe sanering kotar o radon ko tikne khera hem dikhen popoashe dalji ka den pomoc lovenca e energiake ko khera hem lokalia. O Länsstyrelsen kerol raporti ki informacia hem analiza kobor stania isi ano regioni hem dol dumo e komunake te kerenpe neve stania te valjnadja.</p>
+<p type="title">Planiske puchiba</p>
+<p>O Länsstyrelsen kerol osnovne palnia ano regioni savo motvol soj itano vazno te kerolpe sar na primer gradnja hem sar koristinenpe o thana. O cilji itano te kerolpe jekh shukar hem sigurno djivdipe ano dugo hem ikeribasko plani. O planiribe itano ko nationalno cilji hem drzavno interesi, na primer kana vakera kotar e energiajaki produkcia, prirodako arakhibe, slobodno vreme ja se komunikacia. Amen kera hem kontrol ane komunake plania sar on dikhen ke manushengo sastipe hem sigurnost, ko nationalno korist, ko miljö te ikerenpe o norme hem ko plazengo arakhibe. Te hinana bi chalo sar i komuna palniridja te kerol di jekh kher shaj te de ti zalba ke amnede.</p>
+<p type="title">Te arakhenpe o purane khera</p>
+<p>O Länsstyrelsen shaj te anol odluka kotar e kulturake hem historijake khera, crkve (kahngiri), parkija miljö, bashte hem but javer te arakhenpe sar diso so ka setinamen so ulo odothe. O Länsstyrelsen anol odluka sar hem so shaj te arkholpe, hem on den dozvole te manglje te lacharen o phurane thana sar o ckve (khangiri), hem o grobija.</p>
+<p type="title">Kherengo arakhibe</p>
+<p>E kherengo arakhibe itano jekh deo kotar i buti save isi e Länsstyrelsen ano anglunipe, te arakholpe o kulturako miljö ano regioni. Te shaj te arkholpe sa akava mora te ikerenpe e kulturake historiajke khera adobokha kaj valjanol hem kobor valjanol. Odoljeske hem valjnol te koristinolpe matrila hem shukar metode save ka arkhen akala phurane thana. Tu sar privatno personi ja se sar firma shaj te rode love te mangljan te arakhe diso soj kulturno historisko, akal love dol i drzava hem vikinolpe ”byggnadsvårdsbidrag.</p>
+<p type="title">Arkeologia hem fornlämningar</p>
+<p>Fornlämningar itane tragia palo phurane thana kaj o manusha kerena buti diso, na primer kaj djivdinena, thana kaj honena, purane phage khera, kulturake purane thana kotar o srednje doba. O Länsstyrelsen ki pi buti kerol te arakhol hem ikerol akala thana te shaj avdiveske generacie hem anglunipaske generacie shaj te osetinen hem hacharen e kultura e historia savi hinen anglal. Prekolo zakoni e kulturako savo andjape, na tromal niko te promeninol ja se ruminol o than saven isi kulturno historisko bogastvo, shaj samo o Länsstyrelsen te dol dozvola te mangljen te kere diso pe akava puchibe.</p>
+<p type="title">Kulturake rezervatia</p>
+<p>O Länsstyrelsen hem i komuna shaj te odluchinen save thana shaj te arakhenpe sar bogstvo ano kulturaki priroda te oven zashtitime sar kulturake rezervatia. Odava hem astarol o phurane khera, than ani priroda, djaniba so kerdjape hem tradicie. O kulturako rezervati shaj te avol kotar o jekh karaktreno poljuprivredno than ja se dji ko jekh industrijako iteresantno than, sa diso so kerdjape vazno but bersha popalal. Kana o Länsstyrelsen andja odluka te ovol jekh than kulturno rezervati zanachinol hem kaj on ljen odgovornost sar arakholpe o than hem so isi ano ljeste.</p>
+<p type="title">Regionalno arakhibe</p>
+<p>O Länsstyrelsen kerol buti sar te arakhol o thana ano regioni hem te motholv ljengo vaznost. Te mangljan te arakhe jekh kulturno regionalno bogastvo savo vakerol sar hine i historia ano regioni shaj te dobine lovengo pomoch kotar o Länsstyrelsen. Odova shaj te ovol vakeribe kotar o phurane khera, biljke hem zivotinje O Länsstyrelsen dol hem lovengo pomoch e drushtvoske, firmenge hem privatne personenge save kamen te keren buti ko jekh than e prirodno arakhibaske projektoa (LONA). Te kamljan te keren ljneca buti ano (LONA) shaj te prijavine tut ani komuna hem ano Länsstyrelsen.</p>
+</body></document>

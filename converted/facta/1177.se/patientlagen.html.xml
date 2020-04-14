@@ -1,87 +1,46 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>936</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Patientlagen</origFileName>
-    <parallel_text xml:lang="eng" location="patientlagen.html"/>
-    <parallel_text xml:lang="fin" location="patientlagen.html"/>
-    <parallel_text xml:lang="fit" location="patientlagen.html"/>
-    <parallel_text xml:lang="sma" location="patientlagen.html"/>
-    <parallel_text xml:lang="sme" location="patientlagen.html"/>
-    <parallel_text xml:lang="smj" location="patientlagen.html"/>
-    <parallel_text xml:lang="swe" location="patientlagen.html"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmf"/>
-    <parallel_text location="patientlagen.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Pacientengoro zakoni (kanuni) / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Pacientengoro zakoni (kanuni)Patientlagen</p>
-    <p xml:lang="swe">O pacientengoro zakoni kerdža pe te ovel ko šukaripe tuke sar pacienti. Othe terdžola kaj tuke ka del pe informacija bašo tlo nasvalipa hem save sastljariba šaj te oven.Tegani tu šaj te učestvine hem te odlučine bašo tlo arakhiba. Tuke isto ka del pe informacija kori šaj te birine o arakhibe so trebela tuke.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Informacia</p>
-    <p xml:lang="swe">Bizo razlika ko sian hem savo palunipa (pozadina) isi tut, o arakhibaskoro personali ka del tut odoja informacija so trebela tut. Mangela te phenel pe, ko primer šaj te trebel tut jek tumači ja pale pismeno (hramomi) informcija te šaj te haljove sar ka kerel pe o dikhljariba</p>
-    <p xml:lang="swe">I informacija ka ovel kerdi baši tli situacija hem bašo tle šaipa. But i važno tu te šaj te haljove hem te učestvine ko tlo arakhiba. Tu birinea korkori kobor ka ove aktivno, ama tut uvek isi šaipa te vakere so tu mangea.</p>
-    <p xml:lang="swe">Keda ka osetine kaj tu haljovea save alternacie hem save šaipa isi, tegani šaj te de tlo složibe, ja pale ko disavo čhani (način) te phene oja. Tu te mangljan šaj hem te phene na. Tu šaj te phene na hem bašo odova arakhiba so nudinela pe tuke. Tu te složindžan tut bašo disavo arakhiba , tu šaj pale te vakere na bašo odova.</p>
-    <p xml:lang="swe">Hem e čhaven ka ovel šaipa te vakeren so ola mislinena. Tej o čhave but tikne tegani odova šaj te ovel barabar (zaedno) e staritelea, ama so pobare o čhave ovena odoborom považno ovela ola te učestvinen ko plo arakhiba. Kaj te šaj te ovel pe aktivno ko arakhiba hem te anel pe rešenje, tegani but i važno o čhave te haljoven i informacia.</p>
-    <p type="title" xml:lang="swe">Bašo so šaj te vakerel pe i informacia?</p>
-    <p xml:lang="swe">Tuke ka del pe informacia baš/i/o</p>
-    <list>
-      <p type="listitem" xml:lang="swe">tli sastipaskiri situacia</p>
-      <p type="listitem" xml:lang="swe">save metodija isi bašo dikhljariba, arakhiba hem sastljariba</p>
-      <p type="listitem" xml:lang="swe">save dumodejbaskere buča isi</p>
-      <p type="listitem" xml:lang="swe">keda šaj te adžikere te del pe tuke arakhiba</p>
-      <p type="listitem" xml:lang="swe">savo rezultati adžikerela pe taro sastljariba hem arakhiba</p>
-      <p type="listitem" xml:lang="swe">save rizikia bašo komplikacie hem bimangle efektia isi</p>
-      <p type="listitem" xml:lang="swe">sar ka kerel pe o dikhibe so ka trebel tuke palo ikljojbe kotar o nasvalengoro kher</p>
-      <p type="listitem" xml:lang="swe">save metodia isi te šaj te izbeginen pe nasvalipa ja pale khuvdipa (povrede)</p>
-      <p type="listitem" xml:lang="swe">savo šaipa isi te rodel pe kotar i Siguribaskiri kasa (Försäkringskassan) te džanel pe hari poviše sar šaj te rodel pe te del pe arakhiba ki jek Evropikani Ekonomikani maškarbutikerutni phuv (EEM) ja pale ki Švajcarija.</p>
-    </list>
-    <p xml:lang="swe">Disavo puti šaj ka trebel informacija tle pašutnenge bašo tlo arakhiba. O zakoni bašo sekretesi mukhela te del pe informacija tle paše manušenge keda tu sian olencar ki poseta ja pale tu te dindžan dozvola.</p>
-    <p xml:lang="swe">Ko phare situacie, ko primer te sian ko nesvest hem našti te de tlo suglasnost, tej tlo dživdipe ko opasnost tegani tuke pale dela pe arakhiba.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Biriba phravdo arakhiba ki sa i phuv</p>
-    <p xml:lang="swe">Tuke ka del pe informacija bašo savo arakhiba šaj nudinela tuke tlo landsting hem dali šaj te del pe tuke o arakhiba ko javer landsting.</p>
-    <p xml:lang="swe">Ama tu šaj hem te birine phravdo arakhiba ki sa i Švedia. Mangel te phenel pe kaj kaj tu šaj te birine ambolante ja pale phravde specijalno arakhibaskere klinike bašo kontrole ja pale dikhljariba. Primer bašo phravdo specialno arakhiba tano katarakti operacia.</p>
-    <p xml:lang="swe">Nane važno dali o arakhibaskere firme tane državna ja pale prifatna, važno i o arakhiba te ovel financirimo kotar o landstinget.</p>
-    <p xml:lang="swe">Te birine ki savi ambolanta ka dža - bašo odova vakerela pe listibe. Ama tut pale isi šaipa te dža ki bilo savi ambolanta ki sa i Švedia. Ki jek ambolanta tu šaj te birine te ovel tut jek doktoreskorokontakti so na ka meninel pe.</p>
-    <p xml:lang="swe">Tu šaj hem te birine jek učo specializirimo phravdo arakhiba ko jek regionalno nasvalengoro kher ko jek javer landsting, ko primer te pratinel pe e rakoskoro sastljariba.</p>
-    <p type="title" xml:lang="swe">Tle medicikane potrebe odlučinena</p>
-    <p xml:lang="swe">Keda rodea arakhiba ko javer landsting tegani odova tane tle medicikane potrebe so odlučinena keda ka del pe tuke arakhiba. Tle medicikane potrebe proceninena pe kotar o doktori. Tuke ka del pe phravdo arakhiba telo isto uslovia sar sarine o javera soj registririme ko odova landsting. Mangela te phenel pe kaj tu platinea (pokinea) odoborom but pacientikani taksa sar sarine o javera so rodena phravdo arakhiba. Te birindžan te le arakhiba ko javer landsting, tegani tu korkori platinea o drumo , o hajbe hem o sojbe.</p>
-    <p xml:lang="swe">Tu so avea kotar javer landsting, na ovea doldo tari arakhibaskiri garancia ko odova landsting so birindžan te ave.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Nevo medicikano procenibe</p>
-    <p xml:lang="swe">Te isi tut jek opasno nasvalipa ja pale je specijalno seriozno nasvalipa ja pale khuvdipa (povreda) hem terdžovea anglo jek pharo medicikano rešibe, tegani tu šaj te rode jek nevo medicikano procenibe. Odova dela pe kotar jek javer doktori na kotar tlo, odova kerela pe ja ko tlo landsting ja pale ko javer landsting.</p>
-    <p xml:lang="swe">O koštiba bašo nevo medicikano proceniba platinela tlo landsting ama o drumo.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Odova šaj te ovel javerčhane te trebela tuke uput (bičhalin)</p>
-    <p xml:lang="swe">Te rodela pe uput bašo o phravdo specialno arakhiba ko tlo landsting ja pale ko okova landsting so rodea arakhiba, tegani odova trebela te del pe tuke tari tli ambolanta.</p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Te na sian zadovolno</p>
-    <p xml:lang="swe">Ko sakova landsting isi pacientengiri komisia (patientnämnd) so šaj te del tut dumo tu te haljovea kaj nane tut but učestvo ko tlo arakhiba ja pale javerčhane te na sian zadovolno e arakhibaja.</p>
-    <p xml:lang="swe">E pacientengiri komisija šaj ko primer te del tut dumo te ave ko kontakti e odgovorno manušea bašo arakhibaskoro personali hem te del pe tuke informacia sar šaj te raportirine odova so ulo tuja.</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>927</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Patientlagen</origFileName><parallel_text xml:lang="eng" location="patientlagen.html"/><parallel_text xml:lang="fin" location="patientlagen.html"/><parallel_text xml:lang="fit" location="patientlagen.html"/><parallel_text xml:lang="sma" location="patientlagen.html"/><parallel_text xml:lang="sme" location="patientlagen.html"/><parallel_text xml:lang="smj" location="patientlagen.html"/><parallel_text xml:lang="swe" location="patientlagen.html"/><parallel_text location="patientlagen.html" xml:lang="rmy-rlo"/><parallel_text location="patientlagen.html" xml:lang="rmf"/><parallel_text location="patientlagen.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Pacientengoro zakoni (kanuni) / Patientlagen - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Pacientengoro zakoni (kanuni)Patientlagen</p>
+<p>O pacientengoro zakoni kerdža pe te ovel ko šukaripe tuke sar pacienti. Othe terdžola kaj tuke ka del pe informacija bašo tlo nasvalipa hem save sastljariba šaj te oven.Tegani tu šaj te učestvine hem te odlučine bašo tlo arakhiba. Tuke isto ka del pe informacija kori šaj te birine o arakhibe so trebela tuke.</p>
+<p xml:lang="swe"></p>
+<p type="title">Informacia</p>
+<p>Bizo razlika ko sian hem savo palunipa (pozadina) isi tut, o arakhibaskoro personali ka del tut odoja informacija so trebela tut. Mangela te phenel pe, ko primer šaj te trebel tut jek tumači ja pale pismeno (hramomi) informcija te šaj te haljove sar ka kerel pe o dikhljariba</p>
+<p>I informacija ka ovel kerdi baši tli situacija hem bašo tle šaipa. But i važno tu te šaj te haljove hem te učestvine ko tlo arakhiba. Tu birinea korkori kobor ka ove aktivno, ama tut uvek isi šaipa te vakere so tu mangea.</p>
+<p>Keda ka osetine kaj tu haljovea save alternacie hem save šaipa isi, tegani šaj te de tlo složibe, ja pale ko disavo čhani (način) te phene oja. Tu te mangljan šaj hem te phene na. Tu šaj te phene na hem bašo odova arakhiba so nudinela pe tuke. Tu te složindžan tut bašo disavo arakhiba , tu šaj pale te vakere na bašo odova.</p>
+<p>Hem e čhaven ka ovel šaipa te vakeren so ola mislinena. Tej o čhave but tikne tegani odova šaj te ovel barabar (zaedno) e staritelea, ama so pobare o čhave ovena odoborom považno ovela ola te učestvinen ko plo arakhiba. Kaj te šaj te ovel pe aktivno ko arakhiba hem te anel pe rešenje, tegani but i važno o čhave te haljoven i informacia.</p>
+<p type="title">Bašo so šaj te vakerel pe i informacia?</p>
+<p>Tuke ka del pe informacia baš/i/o</p>
+<list><p type="listitem">tli sastipaskiri situacia</p>
+<p type="listitem">save metodija isi bašo dikhljariba, arakhiba hem sastljariba</p>
+<p type="listitem">save dumodejbaskere buča isi</p>
+<p type="listitem">keda šaj te adžikere te del pe tuke arakhiba</p>
+<p type="listitem">savo rezultati adžikerela pe taro sastljariba hem arakhiba</p>
+<p type="listitem">save rizikia bašo komplikacie hem bimangle efektia isi</p>
+<p type="listitem">sar ka kerel pe o dikhibe so ka trebel tuke palo ikljojbe kotar o nasvalengoro kher</p>
+<p type="listitem">save metodia isi te šaj te izbeginen pe nasvalipa ja pale khuvdipa (povrede)</p>
+<p type="listitem">savo šaipa isi te rodel pe kotar i Siguribaskiri kasa (Försäkringskassan) te džanel pe hari poviše sar šaj te rodel pe te del pe arakhiba ki jek Evropikani Ekonomikani maškarbutikerutni phuv (EEM) ja pale ki Švajcarija.</p>
+</list><p>Disavo puti šaj ka trebel informacija tle pašutnenge bašo tlo arakhiba. O zakoni bašo sekretesi mukhela te del pe informacija tle paše manušenge keda tu sian olencar ki poseta ja pale tu te dindžan dozvola.</p>
+<p>Ko phare situacie, ko primer te sian ko nesvest hem našti te de tlo suglasnost, tej tlo dživdipe ko opasnost tegani tuke pale dela pe arakhiba.</p>
+<p xml:lang="swe"></p>
+<p type="title">Biriba phravdo arakhiba ki sa i phuv</p>
+<p>Tuke ka del pe informacija bašo savo arakhiba šaj nudinela tuke tlo landsting hem dali šaj te del pe tuke o arakhiba ko javer landsting.</p>
+<p>Ama tu šaj hem te birine phravdo arakhiba ki sa i Švedia. Mangel te phenel pe kaj kaj tu šaj te birine ambolante ja pale phravde specijalno arakhibaskere klinike bašo kontrole ja pale dikhljariba. Primer bašo phravdo specialno arakhiba tano katarakti operacia.</p>
+<p>Nane važno dali o arakhibaskere firme tane državna ja pale prifatna, važno i o arakhiba te ovel financirimo kotar o landstinget.</p>
+<p>Te birine ki savi ambolanta ka dža - bašo odova vakerela pe listibe. Ama tut pale isi šaipa te dža ki bilo savi ambolanta ki sa i Švedia. Ki jek ambolanta tu šaj te birine te ovel tut jek doktoreskorokontakti so na ka meninel pe.</p>
+<p>Tu šaj hem te birine jek učo specializirimo phravdo arakhiba ko jek regionalno nasvalengoro kher ko jek javer landsting, ko primer te pratinel pe e rakoskoro sastljariba.</p>
+<p type="title">Tle medicikane potrebe odlučinena</p>
+<p>Keda rodea arakhiba ko javer landsting tegani odova tane tle medicikane potrebe so odlučinena keda ka del pe tuke arakhiba. Tle medicikane potrebe proceninena pe kotar o doktori. Tuke ka del pe phravdo arakhiba telo isto uslovia sar sarine o javera soj registririme ko odova landsting. Mangela te phenel pe kaj tu platinea (pokinea) odoborom but pacientikani taksa sar sarine o javera so rodena phravdo arakhiba. Te birindžan te le arakhiba ko javer landsting, tegani tu korkori platinea o drumo , o hajbe hem o sojbe.</p>
+<p>Tu so avea kotar javer landsting, na ovea doldo tari arakhibaskiri garancia ko odova landsting so birindžan te ave.</p>
+<p xml:lang="swe"></p>
+<p type="title">Nevo medicikano procenibe</p>
+<p>Te isi tut jek opasno nasvalipa ja pale je specijalno seriozno nasvalipa ja pale khuvdipa (povreda) hem terdžovea anglo jek pharo medicikano rešibe, tegani tu šaj te rode jek nevo medicikano procenibe. Odova dela pe kotar jek javer doktori na kotar tlo, odova kerela pe ja ko tlo landsting ja pale ko javer landsting.</p>
+<p>O koštiba bašo nevo medicikano proceniba platinela tlo landsting ama o drumo.</p>
+<p xml:lang="swe"></p>
+<p type="title">Odova šaj te ovel javerčhane te trebela tuke uput (bičhalin)</p>
+<p>Te rodela pe uput bašo o phravdo specialno arakhiba ko tlo landsting ja pale ko okova landsting so rodea arakhiba, tegani odova trebela te del pe tuke tari tli ambolanta.</p>
+<p xml:lang="swe"></p>
+<p type="title">Te na sian zadovolno</p>
+<p>Ko sakova landsting isi pacientengiri komisia (patientnämnd) so šaj te del tut dumo tu te haljovea kaj nane tut but učestvo ko tlo arakhiba ja pale javerčhane te na sian zadovolno e arakhibaja.</p>
+<p>E pacientengiri komisija šaj ko primer te del tut dumo te ave ko kontakti e odgovorno manušea bašo arakhibaskoro personali hem te del pe tuke informacia sar šaj te raportirine odova so ulo tuja.</p>
+</body></document>

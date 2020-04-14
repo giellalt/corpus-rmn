@@ -1,67 +1,25 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>714</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Manu-te-ulo-mobimo</origFileName>
-    <parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/>
-    <parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/>
-    <parallel_text xml:lang="sma" location="jis-irhkesavva.html"/>
-    <parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/>
-    <parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/>
-    <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
-    <parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/>
-    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
-    <parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Manuš te ulo mobimo</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Manuš te ulo mobimo</p>
-    <p xml:lang="swe">Keds manuš ovela mobimo tegani i but lokhe te ovel manuše nemir hem te na osetinel pes šukar. Disavo puti odova šaj odoborom but te uticinel upro dživdipe so manuš našavela plo verujbe upri peste hem manuš tegani probinela te izbeginel situacie kori so šaj te dikhel pes e manušencar so kerena mobibe. Ama nijek manuš na trebela te garavel pe kotar o manuša so mobinena.</p>
-    <p xml:lang="swe">Disave manuša so ovena mobime ola lena te pačan kaj ola korkori tane došale (kriva). Ola šaj lena te mislinen kaj trebela te meninen diso ki peste či te na oven mobime. Ama manuš na trebela te meninel plo interesi, save šea ka uravel pes samo odoleske so o javera tane bilačhe. Manuše uvek isi pravo te na ovel mobimo.</p>
-    <p type="title" xml:lang="swe">Keda ovela o mobibe?</p>
-    <p xml:lang="swe">Mobibe tano keda buteder puti manuš ovela zadimo, daravkerdo, lindo ko mujmaribe, khuvdo ladžakerdo. O mobibe šaj te ovel vakeribe ko kan, o dikhiba, asajba, guriba, khujba hem džungale lafija. Mobibe tano hem odova keda manuš na ovela mukhlo/mukhli te ovel ko diso e javerencar ja pale keda vakerela pe buča palo dumo.</p>
-    <p xml:lang="swe">Odova šj te ovel hem keda manuš bičhalela džikaske bilačhe sms ja aple meil, keda pisinena pebilačhe komentaria ko facebook, ko disavo blogi ja pale javerte ko Internet. Mobibe tano hem keda čhivena pe ladžakerutne slike džikastar ko Internet.</p>
-    <p xml:lang="swe">Keda vakerela džiko našukar lafija bašo džikaskoro uravibe ja pale ko sar dičhola (izgledinela), ja pale keda vakerela pe diso bašo sakatibe sa odova tamo mobibe. Keda manuš ovela ki asavki situacija hem na osetinela pes šukar taro odova, tegani šaj trebela manušeske pomoč te šaj odova te čhinavel pe.</p>
-    <p type="title" xml:lang="swe">Vakerba bašo mobibe</p>
-    <p xml:lang="swe">Odova šaj te ovel hari pharo te vakerel pe javereske kaj manuš tamo mobimo. Manuš šaj pačala kaj te vakerdža džikaske tegani šaj te ovel panda popharo.. manuš šaj ladžala soj tano/tani avri kotar o sa. Ama nane i greška (doš) okoleskiri so ovela mobimo!</p>
-    <p xml:lang="swe">Keda manuš ovela mobimo tegani pošukar i te vakerel pes bašo odova či te šaj te dobinel pe pomoč hem te čhinavel pe o mobibe. Odova šaj te vakerel pe ko primer bašo učiteli, školakoro koratori ja pale školakiri medicikani phen.</p>
-    <p xml:lang="swe">Ka ovel šukar te počminel pe te vakerel pe bašo mobibe disave bare manušeske upri kaste so manuš verujnela, ko primer džiko ki familija, hem oleskere pomočea tegani vakerela pe odova džikaske ki škola.</p>
-    <p xml:lang="swe">Keda šunela i škola kaj disavo učeniko (sikljovno) ovela mobimo, tegani mora odma te dikhel soj odova so ulo. Ola mora isto te keren sa so šaj odova te na ovel pale. O bare manuša ki škola tane dužna te dikhen te šaj ni jek učeniko te na ovel mobimo ja pale pretimok i škola. Ko školakoro zakoni terdžola kaj i škola tani odgovorno te dikhel niko te na ovel mobimo.</p>
-    <p type="title" xml:lang="swe">Keda manuš ovela mobimo šukar i te mislinel pe ko akava:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Keda manuš ovela mobimo, na trebela te okrivinel korkori peste.</p>
-      <p type="listitem" xml:lang="swe">Isi zakonija kori so terdžola kaj manuš na sminela te ovel mobimo ko primer ki škola ja pale ko bučakoro than.</p>
-      <p type="listitem" xml:lang="swe">Hem keda manuš pretinea džikaske odovada tano prekršaj, naprimer keda pretinela maribaja ja pretinela kaj ka buvljrel slike ko Internet.</p>
-      <p type="listitem" xml:lang="swe">O Škole hem o rabotodavcija (bitidejdžie) tane dužna te probinen te keren sa so šaj te šaj sarine te osetinen pe sigurna.</p>
-      <p type="listitem" xml:lang="swe">Manuš trebela te kontaktirinel bare manuše upri kaste so verujnela, ko primer i daj ja o dad ja pale džiko javer kas manuš so pendžarela.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te kontaktirinel hem jekhe školakere koratore, ja pale te džal pe ki jek ternengiri ambolanta kori so šaj te vakerel pe, te lel pe sovet hem podrška.</p>
-      <p type="listitem" xml:lang="swe">Keda i škola džanela kaj disavo sikljovno ovela mobimo tegani i škola tani dužno odova te čhinavel pe.</p>
-      <p type="listitem" xml:lang="swe">Keda manuš ovela mobimo ki škola hem na dela pe pomoč kotar i škola tegani manuš šaj odova te prijavinel ko Barn- och elevombudet.</p>
-      <p type="listitem" xml:lang="swe">Džiko te buvljarela tle slike bizi tli dozvola tegani tu šaj te kontaktirine e policija. Odoleske so odova tano prekršaj prema o zakoni baši personalno informacija. Te ladžakerel pe džiko ja te ovel mobimo ko internet odova tano isto nezakonski sar keda kerela pe odova ki školakiri avlin, ki ulica ja ki frita.</p>
-    </list>
-    <p xml:lang="swe">» Mobibe</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>709</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Manu-te-ulo-mobimo</origFileName><parallel_text xml:lang="fin" location="kiusatuksi-joutuminen.html"/><parallel_text xml:lang="fit" location="jos-kokkee-mobbausta.html"/><parallel_text xml:lang="sma" location="jis-irhkesavva.html"/><parallel_text xml:lang="sme" location="jus-givssiduvvo.html"/><parallel_text xml:lang="smj" location="jus-nuppastuvva.html"/><parallel_text xml:lang="swe" location="om-man-mobbas.html"/><parallel_text location="baschi-diro-bliddrar-miakt-kerrad.html" xml:lang="rmu"/><parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/><parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/><parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Manuš te ulo mobimo</p>
+<p type="title">Manuš te ulo mobimo</p>
+<p>Keds manuš ovela mobimo tegani i but lokhe te ovel manuše nemir hem te na osetinel pes šukar. Disavo puti odova šaj odoborom but te uticinel upro dživdipe so manuš našavela plo verujbe upri peste hem manuš tegani probinela te izbeginel situacie kori so šaj te dikhel pes e manušencar so kerena mobibe. Ama nijek manuš na trebela te garavel pe kotar o manuša so mobinena.</p>
+<p>Disave manuša so ovena mobime ola lena te pačan kaj ola korkori tane došale (kriva). Ola šaj lena te mislinen kaj trebela te meninen diso ki peste či te na oven mobime. Ama manuš na trebela te meninel plo interesi, save šea ka uravel pes samo odoleske so o javera tane bilačhe. Manuše uvek isi pravo te na ovel mobimo.</p>
+<p type="title">Keda ovela o mobibe?</p>
+<p>Mobibe tano keda buteder puti manuš ovela zadimo, daravkerdo, lindo ko mujmaribe, khuvdo ladžakerdo. O mobibe šaj te ovel vakeribe ko kan, o dikhiba, asajba, guriba, khujba hem džungale lafija. Mobibe tano hem odova keda manuš na ovela mukhlo/mukhli te ovel ko diso e javerencar ja pale keda vakerela pe buča palo dumo.</p>
+<p>Odova šj te ovel hem keda manuš bičhalela džikaske bilačhe sms ja aple meil, keda pisinena pebilačhe komentaria ko facebook, ko disavo blogi ja pale javerte ko Internet. Mobibe tano hem keda čhivena pe ladžakerutne slike džikastar ko Internet.</p>
+<p>Keda vakerela džiko našukar lafija bašo džikaskoro uravibe ja pale ko sar dičhola (izgledinela), ja pale keda vakerela pe diso bašo sakatibe sa odova tamo mobibe. Keda manuš ovela ki asavki situacija hem na osetinela pes šukar taro odova, tegani šaj trebela manušeske pomoč te šaj odova te čhinavel pe.</p>
+<p type="title">Vakerba bašo mobibe</p>
+<p>Odova šaj te ovel hari pharo te vakerel pe javereske kaj manuš tamo mobimo. Manuš šaj pačala kaj te vakerdža džikaske tegani šaj te ovel panda popharo.. manuš šaj ladžala soj tano/tani avri kotar o sa. Ama nane i greška (doš) okoleskiri so ovela mobimo!</p>
+<p>Keda manuš ovela mobimo tegani pošukar i te vakerel pes bašo odova či te šaj te dobinel pe pomoč hem te čhinavel pe o mobibe. Odova šaj te vakerel pe ko primer bašo učiteli, školakoro koratori ja pale školakiri medicikani phen.</p>
+<p>Ka ovel šukar te počminel pe te vakerel pe bašo mobibe disave bare manušeske upri kaste so manuš verujnela, ko primer džiko ki familija, hem oleskere pomočea tegani vakerela pe odova džikaske ki škola.</p>
+<p>Keda šunela i škola kaj disavo učeniko (sikljovno) ovela mobimo, tegani mora odma te dikhel soj odova so ulo. Ola mora isto te keren sa so šaj odova te na ovel pale. O bare manuša ki škola tane dužna te dikhen te šaj ni jek učeniko te na ovel mobimo ja pale pretimok i škola. Ko školakoro zakoni terdžola kaj i škola tani odgovorno te dikhel niko te na ovel mobimo.</p>
+<p type="title">Keda manuš ovela mobimo šukar i te mislinel pe ko akava:</p>
+<list><p type="listitem">Keda manuš ovela mobimo, na trebela te okrivinel korkori peste.</p>
+<p type="listitem">Isi zakonija kori so terdžola kaj manuš na sminela te ovel mobimo ko primer ki škola ja pale ko bučakoro than.</p>
+<p type="listitem">Hem keda manuš pretinea džikaske odovada tano prekršaj, naprimer keda pretinela maribaja ja pretinela kaj ka buvljrel slike ko Internet.</p>
+<p type="listitem">O Škole hem o rabotodavcija (bitidejdžie) tane dužna te probinen te keren sa so šaj te šaj sarine te osetinen pe sigurna.</p>
+<p type="listitem">Manuš trebela te kontaktirinel bare manuše upri kaste so verujnela, ko primer i daj ja o dad ja pale džiko javer kas manuš so pendžarela.</p>
+<p type="listitem">Manuš šaj te kontaktirinel hem jekhe školakere koratore, ja pale te džal pe ki jek ternengiri ambolanta kori so šaj te vakerel pe, te lel pe sovet hem podrška.</p>
+<p type="listitem">Keda i škola džanela kaj disavo sikljovno ovela mobimo tegani i škola tani dužno odova te čhinavel pe.</p>
+<p type="listitem">Keda manuš ovela mobimo ki škola hem na dela pe pomoč kotar i škola tegani manuš šaj odova te prijavinel ko Barn- och elevombudet.</p>
+<p type="listitem">Džiko te buvljarela tle slike bizi tli dozvola tegani tu šaj te kontaktirine e policija. Odoleske so odova tano prekršaj prema o zakoni baši personalno informacija. Te ladžakerel pe džiko ja te ovel mobimo ko internet odova tano isto nezakonski sar keda kerela pe odova ki školakiri avlin, ki ulica ja ki frita.</p>
+</list><p xml:lang="swe">» Mobibe</p>
+</body></document>

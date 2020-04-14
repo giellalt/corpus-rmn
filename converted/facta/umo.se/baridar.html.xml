@@ -1,82 +1,40 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>1225</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Baridar</origFileName>
-    <parallel_text xml:lang="fin" location="ahdistus.html"/>
-    <parallel_text xml:lang="fit" location="ahistus.html"/>
-    <parallel_text xml:lang="sma" location="asve.html"/>
-    <parallel_text xml:lang="sme" location="aestus.html"/>
-    <parallel_text xml:lang="smj" location="goavgge.html"/>
-    <parallel_text xml:lang="swe" location="angest.html"/>
-    <parallel_text location="nervolo.html" xml:lang="rmu"/>
-    <parallel_text location="dar.html" xml:lang="rmf"/>
-    <parallel_text location="ongesto.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="dar.html" xml:lang="rmy-rka"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Baridar</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Baridar</p>
-    <p xml:lang="swe">I baridar tane zorale osečaja kotar o narahtluko hem dar so šaj te osetinel pe ko sa o telo, akava ovela disavo puti skoro sakone manuše. I baridar šaj te ovel neprijatno, ama pale manuš trebela te probinel te kerel odova so mangela hem te na izbeginel okola situacije kola so manuš verujnela ka keren te ovel manuše baridar.</p>
-    <p xml:lang="swe">I baridar tani e nervnosistemeskere reakcije kola so manuš našti te upravinel korkori. Šukar i te džanel pe kaj i baridar nane opasno hem oj palo disavo vreme nakhela korkori pestar.</p>
-    <p type="title" xml:lang="swe">Šaj te osetinel pe ko celo telo</p>
-    <p xml:lang="swe">Keda manuše isi bari dar tegani manuš osetinela narahati hem dar. Odova tano baro osečaj so osetinela pe ko celo telo. Keda manuš tano narahati tegani o vilo khuvela posigate hem pozorale, o dišibe ovela sigate hem o muskulija khedena pe. Manuš šaj te lel te terlinel/znoinel pes, šaj te vertinel pes džikaskiri godi, šaj te tinanel manuš ja pale te perel lošnipa, ja pale te osetinel pe kaj diso bastrinela ko kolin, sar te phene ovela pharo te dišinel pe.</p>
-    <p xml:lang="swe">Prvo ovela o osečaj sa pozoralo hem pozoralo ama palo disavo vreme ov čhinavela te ovel pozoralo. Tegani manuš le late mukhljol hem i bari dar ovela potikni.</p>
-    <p xml:lang="swe">I baridar šaj te ovel but strašno. Ama uvek palo disavo vreme manuš lela te osetinel pes porahati hem odova nane opasno.</p>
-    <p xml:lang="swe">I baridar šaj osetinela pe sakova puti javerčhane. Hem manuš našti uvek te džanel kaj odova so osetinela pe ko telo tani baridar.</p>
-    <p xml:lang="swe">Disavo puti keda manušeske i pharo tegani koristinela pe o lafi baridar. Manuš vakerela kaj isi ole/ola baridar ko primer keda isi jek testi ki škola ja pale keda isi manuše but keribaske buti. Ama i baridar tani diso but pobari kotar o sakodivesutno narahatluko, kova šaj te ovel jek obično stresi.</p>
-    <p type="title" xml:lang="swe">Manuš na džanela sakova puti soske ovela manuše baridar</p>
-    <p xml:lang="swe">Skoro sarinen ovela disavo puti baridar, ama odova na ovela uvek isto bari hem često. Džikas ovela odova samo jek puti. Averende ovela odova dosta zoralo hem iranela pe olenge često ja pale i bari dar ikerela olen dosta vreme. Manuše šaj te uklel kratko baredarakere napadia hem ola nakhena sigate.</p>
-    <p xml:lang="swe">Disavo puti manuš džanela soske isi ole/ola baridar. Oj šaj avela keda manušeske i pharo, keda džanela kaj disavo pendžarutno ka merel. Manuš šaj te dobinel baridar manuš te ovela seksualno koristimo. Ja pale džiko tej lošno oleja/olaja ko Internet, ja pale džiko te probindža te hovavel ja koristinel ole/ola.</p>
-    <p xml:lang="swe">Džikas uklela baridar angleder jek testi ja pale keda isi džikas bučakoro intervju. Ja pale keda trebela te kerel diso a džanela kaj odova nane šukar.Odova šaj te ovel but pharo ama barem manuš džanela soske isi manuše bari dar. Odova šaj te kerel manuš te nakhavel la polokhe.</p>
-    <p xml:lang="swe">Manuše šaj te ovel baridar keda manuš piela alkoholi ja pale keda lela droge.</p>
-    <p xml:lang="swe">Manuše šaj te ovel baridar bizo te džanel soske, ja pale manuše šaj te ovel baridar taro o buča so ni na mislinela kaj šaj te keren oleske problemija. Odova šaj te kerel i baridar te ovel pophari hem te daravel poviše e manuše.</p>
-    <p xml:lang="swe">Nane jek jasno granica maškar akale baredarakere forme. Disavo puti manuš šaj te džanel soske isi manuše baridar, ama pale šaj te osetinel pe but zorali, ko primer keda manušeskoro vilo khuvela but sigate, keda vertinela pe i godi hem keda manuš znoinela pes angleder disavo testi ja pale pismeno zadača.</p>
-    <p type="title" xml:lang="swe">Uticinela upro sojbe hem o osečaja</p>
-    <p xml:lang="swe">I baridar šaj te kerel manušeske te ovel pharo te mukhljol hem te na sovel šukar. Manuš šaj te džangavdžovel račate hem adžahar te ovel smetimo o sojbe, ja pale te sovel hari. I baridar šaj te kerel hem manuš te ovel nemirno, neistrplivo, lokhoholjankerdo, ja pale šaj manuš te ovel lokho mazumi hem te lel te rovel.</p>
-    <p type="title" xml:lang="swe">Baridar kotar i baridar</p>
-    <p xml:lang="swe">I baridar šaj kerela te ovel manuše odoborom bare osečaja hem reakcije ko telo adžahar so manuš šaj te lel te verujnel kaj manuš ka merel ja pale lela te ovel dilino/didlini. Odova šaj te ovel odoborom pharo so manuš kerela sa so šaj samo te izbeginel te na ovel pale odova. Tegani manuš šaj astarela baridar tari dar te na astarel baridar. Bašo odova vakerela pe adžikerdi baridar.</p>
-    <p xml:lang="swe">Manuš šaj te ovel nemirno te na uklel ole/ola baridar angli javerende, hem tegani ovela manušeske pharo te vakerel bašo odova. Odova šaj te kerel manuš te izbeginel te dikhel pe javerencar mada manuš mangela te dikhel pe javerencar hem te kerel razna buča olencar. I dar te na ovel manuše baridar kerela manuš te ovel ograničimo ko plo sakodivesutno dživdipa.</p>
-    <p xml:lang="swe">Te izbeginel pe te kerel pe buča odoleske so manuš verujnela kaj odolestar šaj te ovel manuše baridar – odova nane šukar, odoleske so odova šaj kerela i baridar te ovel pološno. Odoleske manuš trebela te rodel pomoč rano. Isi šukar pomoč bašo odova.</p>
-    <p type="title" xml:lang="swe">So šaj manuš te kerel korkori?</p>
-    <p xml:lang="swe">Manuš šaj te cidel pestar i baridar. Obično manuš šaj te arakhel ple načinia te kerel buti ple baredaraja. Ake disave tipsija.</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Obično pomožinela te vakerel manuš džikaske baši pli baridar – okolea/okolaja kasaja manuš osetinela pes sigurno. Te šaj manuš te vakerel baše ple phare osečaja odova šaj kerela manuš te mislinel polokhe hem te haljovel olen.</p>
-      <p type="listitem" xml:lang="swe">Butenge pomožinela keda ola pisinena bašo o phare osečaja, ja pale keda ola makhena ja pale keda kerena diso ko javer način.</p>
-      <p type="listitem" xml:lang="swe">O stresi šaj te barakerel i baridar, odoleske tej manuš telo stresi tegani ka ovel šukar te mislinel sar šaj te tiknjarel pe o stresi, tegani tiknjarela pe hem i baridar.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te kerel vežbe bašo mukhljojba. Odola vežbe šaj huljarena pe ko Internet ja pale te kinen pe ko cd ki apoteka.</p>
-      <p type="listitem" xml:lang="swe">I baridar obično kerela manuš te na sovel šukar. Ama te uspendža manuš te sovel tegani oj ovela tikneder. Odoleske but i važno te sovel pe šukar.</p>
-      <p type="listitem" xml:lang="swe">I baridar šaj tiknjarela pe keda manuš dvižinela pes, ko primer treniribaja ja pale phiribaja.</p>
-      <p type="listitem" xml:lang="swe">Manuš te piela cigara, snus, te piela alkoholi ja pale kafa tegani manuš šaj te probinel te tiknjarel odova hem te dikhel dali odova ka pomožinel. But nikotini hem kofeini šaj kerela te ovel pobari i baridar hem manuš te sovel pološno.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te čitinel baši baridar ja pale te lel tipsi javerendar, ko primer ko Internet. Isi klubija kori so manuš šaj te ovel člani hem ola šaj te pomožinen tipsencar hem godidejbaja (savetncar).</p>
-      <p type="listitem" xml:lang="swe">Manuš te manglja te vakerel džikasaja tegani šaj telefonirinela pe ko odola dežurno telefonsko broja so isi.</p>
-    </list>
-    <p xml:lang="swe">Manuš na trebela te piel alkoholi ja pale te lel disave javera droge te šaj te tiknjarel i baridar. Odova šaj te mislinel pe kaj pomožinela ko momenti, ama i baridar pale avela palal hem tegani šaj te ovel panda pološno.</p>
-    <p type="title" xml:lang="swe">Savo pomoč šaj te lel pe?</p>
-    <p xml:lang="swe">Manušeske šaj hem te pomožinel pe te arakhel neve načinija te sasčol kotar i baridar. I obično terapija tani vakeribaskiri terapija, iljačija ja pale mukhljojbe.</p>
-    <p xml:lang="swe">Odova so funkcirinela jekheske šaj na funkcirinela javereske. Odoleske važno i te lelpe asavko pomoč so ka ovel kerdo prema sakoskiri potreba.</p>
-    <p xml:lang="swe">Manuš šaj te kontaktirinel jek ternengiri ambolanta, sikljovnengiri medicikani phen ja pale jek obično ambolanta. Te trebindža odova manuš kasaja so dikhela pe, šaj te pomožinel te kontaktirinel pe ko primer jek psihologi ja pale doktori.</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>1220</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Baridar</origFileName><parallel_text xml:lang="fin" location="ahdistus.html"/><parallel_text xml:lang="fit" location="ahistus.html"/><parallel_text xml:lang="sma" location="asve.html"/><parallel_text xml:lang="sme" location="aestus.html"/><parallel_text xml:lang="smj" location="goavgge.html"/><parallel_text xml:lang="swe" location="angest.html"/><parallel_text location="nervolo.html" xml:lang="rmu"/><parallel_text location="dar.html" xml:lang="rmf"/><parallel_text location="ongesto.html" xml:lang="rmy-rlo"/><parallel_text location="dar.html" xml:lang="rmy-rka"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Baridar</p>
+<p type="title" xml:lang="swe">Baridar</p>
+<p>I baridar tane zorale osečaja kotar o narahtluko hem dar so šaj te osetinel pe ko sa o telo, akava ovela disavo puti skoro sakone manuše. I baridar šaj te ovel neprijatno, ama pale manuš trebela te probinel te kerel odova so mangela hem te na izbeginel okola situacije kola so manuš verujnela ka keren te ovel manuše baridar.</p>
+<p>I baridar tani e nervnosistemeskere reakcije kola so manuš našti te upravinel korkori. Šukar i te džanel pe kaj i baridar nane opasno hem oj palo disavo vreme nakhela korkori pestar.</p>
+<p type="title">Šaj te osetinel pe ko celo telo</p>
+<p>Keda manuše isi bari dar tegani manuš osetinela narahati hem dar. Odova tano baro osečaj so osetinela pe ko celo telo. Keda manuš tano narahati tegani o vilo khuvela posigate hem pozorale, o dišibe ovela sigate hem o muskulija khedena pe. Manuš šaj te lel te terlinel/znoinel pes, šaj te vertinel pes džikaskiri godi, šaj te tinanel manuš ja pale te perel lošnipa, ja pale te osetinel pe kaj diso bastrinela ko kolin, sar te phene ovela pharo te dišinel pe.</p>
+<p>Prvo ovela o osečaj sa pozoralo hem pozoralo ama palo disavo vreme ov čhinavela te ovel pozoralo. Tegani manuš le late mukhljol hem i bari dar ovela potikni.</p>
+<p>I baridar šaj te ovel but strašno. Ama uvek palo disavo vreme manuš lela te osetinel pes porahati hem odova nane opasno.</p>
+<p>I baridar šaj osetinela pe sakova puti javerčhane. Hem manuš našti uvek te džanel kaj odova so osetinela pe ko telo tani baridar.</p>
+<p>Disavo puti keda manušeske i pharo tegani koristinela pe o lafi baridar. Manuš vakerela kaj isi ole/ola baridar ko primer keda isi jek testi ki škola ja pale keda isi manuše but keribaske buti. Ama i baridar tani diso but pobari kotar o sakodivesutno narahatluko, kova šaj te ovel jek obično stresi.</p>
+<p type="title">Manuš na džanela sakova puti soske ovela manuše baridar</p>
+<p>Skoro sarinen ovela disavo puti baridar, ama odova na ovela uvek isto bari hem često. Džikas ovela odova samo jek puti. Averende ovela odova dosta zoralo hem iranela pe olenge često ja pale i bari dar ikerela olen dosta vreme. Manuše šaj te uklel kratko baredarakere napadia hem ola nakhena sigate.</p>
+<p>Disavo puti manuš džanela soske isi ole/ola baridar. Oj šaj avela keda manušeske i pharo, keda džanela kaj disavo pendžarutno ka merel. Manuš šaj te dobinel baridar manuš te ovela seksualno koristimo. Ja pale džiko tej lošno oleja/olaja ko Internet, ja pale džiko te probindža te hovavel ja koristinel ole/ola.</p>
+<p>Džikas uklela baridar angleder jek testi ja pale keda isi džikas bučakoro intervju. Ja pale keda trebela te kerel diso a džanela kaj odova nane šukar.Odova šaj te ovel but pharo ama barem manuš džanela soske isi manuše bari dar. Odova šaj te kerel manuš te nakhavel la polokhe.</p>
+<p>Manuše šaj te ovel baridar keda manuš piela alkoholi ja pale keda lela droge.</p>
+<p>Manuše šaj te ovel baridar bizo te džanel soske, ja pale manuše šaj te ovel baridar taro o buča so ni na mislinela kaj šaj te keren oleske problemija. Odova šaj te kerel i baridar te ovel pophari hem te daravel poviše e manuše.</p>
+<p>Nane jek jasno granica maškar akale baredarakere forme. Disavo puti manuš šaj te džanel soske isi manuše baridar, ama pale šaj te osetinel pe but zorali, ko primer keda manušeskoro vilo khuvela but sigate, keda vertinela pe i godi hem keda manuš znoinela pes angleder disavo testi ja pale pismeno zadača.</p>
+<p type="title">Uticinela upro sojbe hem o osečaja</p>
+<p>I baridar šaj te kerel manušeske te ovel pharo te mukhljol hem te na sovel šukar. Manuš šaj te džangavdžovel račate hem adžahar te ovel smetimo o sojbe, ja pale te sovel hari. I baridar šaj te kerel hem manuš te ovel nemirno, neistrplivo, lokhoholjankerdo, ja pale šaj manuš te ovel lokho mazumi hem te lel te rovel.</p>
+<p type="title">Baridar kotar i baridar</p>
+<p>I baridar šaj kerela te ovel manuše odoborom bare osečaja hem reakcije ko telo adžahar so manuš šaj te lel te verujnel kaj manuš ka merel ja pale lela te ovel dilino/didlini. Odova šaj te ovel odoborom pharo so manuš kerela sa so šaj samo te izbeginel te na ovel pale odova. Tegani manuš šaj astarela baridar tari dar te na astarel baridar. Bašo odova vakerela pe adžikerdi baridar.</p>
+<p>Manuš šaj te ovel nemirno te na uklel ole/ola baridar angli javerende, hem tegani ovela manušeske pharo te vakerel bašo odova. Odova šaj te kerel manuš te izbeginel te dikhel pe javerencar mada manuš mangela te dikhel pe javerencar hem te kerel razna buča olencar. I dar te na ovel manuše baridar kerela manuš te ovel ograničimo ko plo sakodivesutno dživdipa.</p>
+<p>Te izbeginel pe te kerel pe buča odoleske so manuš verujnela kaj odolestar šaj te ovel manuše baridar – odova nane šukar, odoleske so odova šaj kerela i baridar te ovel pološno. Odoleske manuš trebela te rodel pomoč rano. Isi šukar pomoč bašo odova.</p>
+<p type="title">So šaj manuš te kerel korkori?</p>
+<p>Manuš šaj te cidel pestar i baridar. Obično manuš šaj te arakhel ple načinia te kerel buti ple baredaraja. Ake disave tipsija.</p>
+<list><p type="listitem">Obično pomožinela te vakerel manuš džikaske baši pli baridar – okolea/okolaja kasaja manuš osetinela pes sigurno. Te šaj manuš te vakerel baše ple phare osečaja odova šaj kerela manuš te mislinel polokhe hem te haljovel olen.</p>
+<p type="listitem">Butenge pomožinela keda ola pisinena bašo o phare osečaja, ja pale keda ola makhena ja pale keda kerena diso ko javer način.</p>
+<p type="listitem">O stresi šaj te barakerel i baridar, odoleske tej manuš telo stresi tegani ka ovel šukar te mislinel sar šaj te tiknjarel pe o stresi, tegani tiknjarela pe hem i baridar.</p>
+<p type="listitem">Manuš šaj te kerel vežbe bašo mukhljojba. Odola vežbe šaj huljarena pe ko Internet ja pale te kinen pe ko cd ki apoteka.</p>
+<p type="listitem">I baridar obično kerela manuš te na sovel šukar. Ama te uspendža manuš te sovel tegani oj ovela tikneder. Odoleske but i važno te sovel pe šukar.</p>
+<p type="listitem">I baridar šaj tiknjarela pe keda manuš dvižinela pes, ko primer treniribaja ja pale phiribaja.</p>
+<p type="listitem">Manuš te piela cigara, snus, te piela alkoholi ja pale kafa tegani manuš šaj te probinel te tiknjarel odova hem te dikhel dali odova ka pomožinel. But nikotini hem kofeini šaj kerela te ovel pobari i baridar hem manuš te sovel pološno.</p>
+<p type="listitem">Manuš šaj te čitinel baši baridar ja pale te lel tipsi javerendar, ko primer ko Internet. Isi klubija kori so manuš šaj te ovel člani hem ola šaj te pomožinen tipsencar hem godidejbaja (savetncar).</p>
+<p type="listitem">Manuš te manglja te vakerel džikasaja tegani šaj telefonirinela pe ko odola dežurno telefonsko broja so isi.</p>
+</list><p>Manuš na trebela te piel alkoholi ja pale te lel disave javera droge te šaj te tiknjarel i baridar. Odova šaj te mislinel pe kaj pomožinela ko momenti, ama i baridar pale avela palal hem tegani šaj te ovel panda pološno.</p>
+<p type="title">Savo pomoč šaj te lel pe?</p>
+<p>Manušeske šaj hem te pomožinel pe te arakhel neve načinija te sasčol kotar i baridar. I obično terapija tani vakeribaskiri terapija, iljačija ja pale mukhljojbe.</p>
+<p>Odova so funkcirinela jekheske šaj na funkcirinela javereske. Odoleske važno i te lelpe asavko pomoč so ka ovel kerdo prema sakoskiri potreba.</p>
+<p>Manuš šaj te kontaktirinel jek ternengiri ambolanta, sikljovnengiri medicikani phen ja pale jek obično ambolanta. Te trebindža odova manuš kasaja so dikhela pe, šaj te pomožinel te kontaktirinel pe ko primer jek psihologi ja pale doktori.</p>
+</body></document>

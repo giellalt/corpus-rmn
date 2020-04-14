@@ -1,76 +1,33 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <wordcount>1131</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName>
-    <parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/>
-    <parallel_text xml:lang="swe" location="f12.html"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/>
-    <parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Vogeskoro nasvalipa ko tikne čhave – so šaj manuš te kerel korkori? / Magsjuka hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-    <p xml:lang="swe"></p>
-    <p xml:lang="swe"></p>
-    <p type="title" xml:lang="swe">Romani čhib arlikaneRomska arli</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Tillbaka till startsidan för temat</p>
-    </list>
-    <p type="title" xml:lang="swe">Vogeskoro nasvalipa ko tikne čhave – so šaj manuš te kerel korkori?Magsjuka hos barn - vad kan man göra själv?</p>
-    <p xml:lang="swe"></p>
-    <list>
-      <p type="listitem" xml:lang="swe">E čhaveske trebela tečnost. Disavo puti šaj te del pe polokhe pijbe rojaja hem odova pohari pohari ama često.</p>
-    </list>
-    <p type="title" xml:lang="swe">O pharipa avena sigate</p>
-    <p xml:lang="swe">Keda isi e čhaven vogeskeskoro nasvalipa tegani obično ola čhadena hem džana avri peste pajnalo/prolif. Olen šaj te dukhal o vogi hem te ovel olen jag/temperatura. O vogeskoro nasvalipa avela obično kotar infekcie so ovela kotar disavo virus. Keda vakerela pe tikne čhave ko akava teksti tegani mislinela pe upro čhave soj pandže ja šove beršengere.</p>
-    <p xml:lang="swe">O pharipa lena te oven duj dive pali zaraza hem odova ovela but sigate. Obično ovena poviše džene zarazime ja pale ki angliškola. Obično akaja infekcija nakhela palo disave divesa. O čhadiba lena te čhinaven palo bišuštar sahatija, ama o džajbe avri peste pajnalo šaj te ovel jek kurko.</p>
-    <p type="title" xml:lang="swe">O čhave tane osetliva ko tečnosteskoro (panjalipaskoro) našavipa</p>
-    <p xml:lang="swe">Keda manuš čhadela hem džala pavri peste panjalo/prolif tegani našavela pe o tečnost (panjalipa) hem o lon. O tikne čhave tane but osetliva ko tečnosteskoro našaviba nego o bare manuša. Jek tikno čhavo te našadža poviše tečnost nego so piela tegani but sigate ovela oleske pharo. I bari jag/temperatura kerela o čhavo te našavel poviše tečnost kotar o telo. Odoleske but i važno te del pe pijbe panda kotar o početko keda nasvaljovena o čhave. O najtikne čhave tane ekstra osetliva keda nane olen dovolno tečnost.</p>
-    <p type="title" xml:lang="swe">Te dela pe čuči e čhavenge ja pale te dela pe olenge flaša</p>
-    <p xml:lang="swe">Te dela pe e čhaveske čuči tegani trebela te produžinel pe odoleja. Manuš trebela te del ole poviše čuči tegani nego obično. Mada o čhavo čhadela manuš trebela te produžinel te del ole/ola čuči. Isto važinela te dela manuš flaša. Tej pharo e čhaveske/čhajake te cidel i čuči tegani trebela te probinel pe te cedinel pe i čuči ja pale te pumpinel pe hem te del pe e čhaveske thud ki roj. Manuš šaj te ikalel o thud kotar i čuči vastea ja pale pumpaja. Šukar pumpe šaj kinena pe ki apoteka.</p>
-    <p xml:lang="swe">Te isi e čhave baro prolif tegani nane dovolno samo e dajakorot hud, tegani trebela te del pe e čhaveske hem pajnalipaskiri zamena.</p>
-    <p type="title" xml:lang="swe">Pajnalipaskiri zamena/Tečnosteskiri zamena</p>
-    <p xml:lang="swe">O čhavoro te čhadela but tegani šukar i te del pe tečnosteskiri zamena. Tečnosteskiri zamena čhavenge šaj kinela pe ki apoteka. Ki tečnosteskiri zamena isi lon hem odova kerela te ovel pale jek šukar tečnosteskoro balansi (panjalipaskoro balansi) ko telo.</p>
-    <p xml:lang="swe">Te čhadela o čhavo but tegani manuš trebela te del duj tikne roja taro akava pani sakova pandžto minuti. Ko prvo bišuštar sahatija trebela but tečnost nego manuš so verujnela, ko primer jek jekheberšeskere čhaveske trebela komaj jek litro.</p>
-    <p xml:lang="swe">Disavoputi šaj e čhaveske ovela polokho te piel aver diso. Tegani manuš trebla te probinel odole pibaja, odoleske so but i važno te ovel e čhave disavo tečnost ani peste. Ama manuš trebela te izbeginel but gudle buča ko primer gazirime buča hem sokija odoleske so but šekeri šaj te kerel te džan o čhave avri peste panjalo poviše. Ma de ni lokhe pijba odoleske so othe nane nisavo šekeri.</p>
-    <p type="title" xml:lang="swe">Keda o čhadiba tano gotovo ama isi panda prolif</p>
-    <p xml:lang="swe">Obično o čhadibe čhinavela prvo a o panjalo avripeste džajbe/prolif produžinela panda hari. Te isi e čhave panjalo avripeste džajbe hem te piela čuči tegani trebela te produžinel pe te del pe čuči sar angleder. Te na dela pe čuči e čhaveske tegani šaj te del pe zamena bašo dajakoro thud ko primer thud pirindžeskere varea ja thud mumurezeskere varea, odova zavisinela kotar e čhaveskere berša. Počmin odolea so ka de e čhaveske tikne porcie te na čhadel o čhavo o hajbe.</p>
-    <p xml:lang="swe">Keda ka mangel o čhavo te hal tegani šukar i te del pe obično hajbe ama hari pokhilalo. Te manglja manuš te del diso so ka zorakerel e čhaveskoro avripeste džajbe tegani i šukar te del pe supa šargarependar, taro šargarepengoro pire hem pani, odova šaj dela pe e čhavenge so isi olen poviše taro šov masek. Ma bistre kaj o voče/ovošje kerela manuše te ovel poviše prolif, odoleske keda isi manuše diare trebela te izbeginel pe zamena bašo dajakorot hud soj kerdo ko primer kotar giv. Ka ovel šukar te adžikerel pe asavke hajbaja džikote o čhavo te ovel sasto.</p>
-    <p type="title" xml:lang="swe">Te irandža pe o čhadiba</p>
-    <p xml:lang="swe">Te irandža pe pale o čhadiba, tegani pale trebela te del pe i zamena bašo tečnost ama dikh šukar te na ovel o čhavo but slabo ja pale javer disavo lošnipa.</p>
-    <p type="title" xml:lang="swe">Sar šaj te čhinavel pe i zaraza?</p>
-    <p xml:lang="swe">Odoleske so e vogeskoro nasvalipa tano but zarazno trebela hem o čhavo hem o javera manuša ki familija te thoven ple vasta sapane sapuneja angleder o hajbe hem palo sakova džajbe ki kenefa hem sarinen te ovel olen olengoro peškiri ja pale te koristinel pe kosibaskere ljila. Manuš šaj hem te thovel počesto i kenefa.</p>
-    <p xml:lang="swe">Te isi e čhave pherno tegani šukar i te čhivel pe o koristimo pherno ki plastično kesa angleder te ferdel pe ki kanta. Kos šukar o than kori so ikalea e čhavestar o pherne hem palo odova thov šukar tle vasta.</p>
-    <p xml:lang="swe">Keda e čhave isi čhadibe ja pale diare/panjalo avripeste džajbe, tegani trebela te ačhol pe khere. Te džala o čhavo ki angliškola ja pale ko khelibaskoro than, šaj manuš pale te džal odori keda na ka ovel manuše čhadibe hem diare duj dive hem duj rača.</p>
-    <p type="title" xml:lang="swe">Šaj ka trebel te kontaktirinel pe i ambolanta</p>
-    <p xml:lang="swe">Manuš trebela te kontaktirinel e ambolanta ja pale e akutno direktno te dikhlja kaj e čhve isi but diare hem čhadiba hem te sikavela nišani kaj nane ole tečnost ko telo, mangela te vakerel pe kaj o čhavo tano but umorno na dikhela nikas hem ništo uzi peste, hari mutrela ja na mutrela sar angleder hem našti te khelel peske. Manuš trebela te džal te rodel pomoč hem keda e čhave isi osim kotar o čhadibe hem diare, bari jag/temperatura/jangija, dukh ko vogi ja pale te isi rat ko khul ja pale sar šlajmi.</p>
-    <p xml:lang="swe">Manuš trebela te javinel pe ki informacija bašo nasvalipaskoro arakhiba ja pale te kontaktirinel e ambolanta te na ulo o čhavo pošukar palo bišuštar sahatija, ja pale o čhavo tej tano pošukar ama o prolif na čhinavela poviše taro duj kurke.</p>
-    <p xml:lang="swe">Tej o čhavo potikno taro šov masek hem te isi ole čhadiba hem diare, manuš uvek mora te kontaktirinel e informacija bašo nasvalipaskoro arakhibe ja pale e ambolanta.</p>
-    <p xml:lang="swe">O čhavo te dobindža diare avri kotar i Švedska tegani manuš mora te kontaktirinel e ambolanta ja pale e čhavorikane klinika.</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>1122</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Egenvard-barn/Magsjuka-hos-barn---vad-kan-man-gora-sjalv</origFileName><parallel_text xml:lang="eng" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fin" location="magsjuka-hos-smabarn--vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="fit" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sma" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="sme" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="smj" location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html"/><parallel_text xml:lang="swe" location="f12.html"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rka"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmu"/><parallel_text location="magsjuka-hos-sma-barn---vad-kan-man-gora-sjalv.html" xml:lang="yid"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmy-rlo"/><parallel_text location="magsjuka-hos-barn---vad-kan-man-gora-sjalv.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p xml:lang="swe">Vogeskoro nasvalipa ko tikne čhave – so šaj manuš te kerel korkori? / Magsjuka hos barn - vad kan man göra själv? - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
+<p xml:lang="swe"></p>
+<p xml:lang="swe"></p>
+<p type="title">Vogeskoro nasvalipa ko tikne čhave – so šaj manuš te kerel korkori?Magsjuka hos barn - vad kan man göra själv?</p>
+<p xml:lang="swe"></p>
+<list><p type="listitem">E čhaveske trebela tečnost. Disavo puti šaj te del pe polokhe pijbe rojaja hem odova pohari pohari ama često.</p>
+</list><p type="title">O pharipa avena sigate</p>
+<p>Keda isi e čhaven vogeskeskoro nasvalipa tegani obično ola čhadena hem džana avri peste pajnalo/prolif. Olen šaj te dukhal o vogi hem te ovel olen jag/temperatura. O vogeskoro nasvalipa avela obično kotar infekcie so ovela kotar disavo virus. Keda vakerela pe tikne čhave ko akava teksti tegani mislinela pe upro čhave soj pandže ja šove beršengere.</p>
+<p>O pharipa lena te oven duj dive pali zaraza hem odova ovela but sigate. Obično ovena poviše džene zarazime ja pale ki angliškola. Obično akaja infekcija nakhela palo disave divesa. O čhadiba lena te čhinaven palo bišuštar sahatija, ama o džajbe avri peste pajnalo šaj te ovel jek kurko.</p>
+<p type="title">O čhave tane osetliva ko tečnosteskoro (panjalipaskoro) našavipa</p>
+<p>Keda manuš čhadela hem džala pavri peste panjalo/prolif tegani našavela pe o tečnost (panjalipa) hem o lon. O tikne čhave tane but osetliva ko tečnosteskoro našaviba nego o bare manuša. Jek tikno čhavo te našadža poviše tečnost nego so piela tegani but sigate ovela oleske pharo. I bari jag/temperatura kerela o čhavo te našavel poviše tečnost kotar o telo. Odoleske but i važno te del pe pijbe panda kotar o početko keda nasvaljovena o čhave. O najtikne čhave tane ekstra osetliva keda nane olen dovolno tečnost.</p>
+<p type="title">Te dela pe čuči e čhavenge ja pale te dela pe olenge flaša</p>
+<p>Te dela pe e čhaveske čuči tegani trebela te produžinel pe odoleja. Manuš trebela te del ole poviše čuči tegani nego obično. Mada o čhavo čhadela manuš trebela te produžinel te del ole/ola čuči. Isto važinela te dela manuš flaša. Tej pharo e čhaveske/čhajake te cidel i čuči tegani trebela te probinel pe te cedinel pe i čuči ja pale te pumpinel pe hem te del pe e čhaveske thud ki roj. Manuš šaj te ikalel o thud kotar i čuči vastea ja pale pumpaja. Šukar pumpe šaj kinena pe ki apoteka.</p>
+<p>Te isi e čhave baro prolif tegani nane dovolno samo e dajakorot hud, tegani trebela te del pe e čhaveske hem pajnalipaskiri zamena.</p>
+<p type="title">Pajnalipaskiri zamena/Tečnosteskiri zamena</p>
+<p>O čhavoro te čhadela but tegani šukar i te del pe tečnosteskiri zamena. Tečnosteskiri zamena čhavenge šaj kinela pe ki apoteka. Ki tečnosteskiri zamena isi lon hem odova kerela te ovel pale jek šukar tečnosteskoro balansi (panjalipaskoro balansi) ko telo.</p>
+<p>Te čhadela o čhavo but tegani manuš trebela te del duj tikne roja taro akava pani sakova pandžto minuti. Ko prvo bišuštar sahatija trebela but tečnost nego manuš so verujnela, ko primer jek jekheberšeskere čhaveske trebela komaj jek litro.</p>
+<p>Disavoputi šaj e čhaveske ovela polokho te piel aver diso. Tegani manuš trebla te probinel odole pibaja, odoleske so but i važno te ovel e čhave disavo tečnost ani peste. Ama manuš trebela te izbeginel but gudle buča ko primer gazirime buča hem sokija odoleske so but šekeri šaj te kerel te džan o čhave avri peste panjalo poviše. Ma de ni lokhe pijba odoleske so othe nane nisavo šekeri.</p>
+<p type="title">Keda o čhadiba tano gotovo ama isi panda prolif</p>
+<p>Obično o čhadibe čhinavela prvo a o panjalo avripeste džajbe/prolif produžinela panda hari. Te isi e čhave panjalo avripeste džajbe hem te piela čuči tegani trebela te produžinel pe te del pe čuči sar angleder. Te na dela pe čuči e čhaveske tegani šaj te del pe zamena bašo dajakoro thud ko primer thud pirindžeskere varea ja thud mumurezeskere varea, odova zavisinela kotar e čhaveskere berša. Počmin odolea so ka de e čhaveske tikne porcie te na čhadel o čhavo o hajbe.</p>
+<p>Keda ka mangel o čhavo te hal tegani šukar i te del pe obično hajbe ama hari pokhilalo. Te manglja manuš te del diso so ka zorakerel e čhaveskoro avripeste džajbe tegani i šukar te del pe supa šargarependar, taro šargarepengoro pire hem pani, odova šaj dela pe e čhavenge so isi olen poviše taro šov masek. Ma bistre kaj o voče/ovošje kerela manuše te ovel poviše prolif, odoleske keda isi manuše diare trebela te izbeginel pe zamena bašo dajakorot hud soj kerdo ko primer kotar giv. Ka ovel šukar te adžikerel pe asavke hajbaja džikote o čhavo te ovel sasto.</p>
+<p type="title">Te irandža pe o čhadiba</p>
+<p>Te irandža pe pale o čhadiba, tegani pale trebela te del pe i zamena bašo tečnost ama dikh šukar te na ovel o čhavo but slabo ja pale javer disavo lošnipa.</p>
+<p type="title">Sar šaj te čhinavel pe i zaraza?</p>
+<p>Odoleske so e vogeskoro nasvalipa tano but zarazno trebela hem o čhavo hem o javera manuša ki familija te thoven ple vasta sapane sapuneja angleder o hajbe hem palo sakova džajbe ki kenefa hem sarinen te ovel olen olengoro peškiri ja pale te koristinel pe kosibaskere ljila. Manuš šaj hem te thovel počesto i kenefa.</p>
+<p>Te isi e čhave pherno tegani šukar i te čhivel pe o koristimo pherno ki plastično kesa angleder te ferdel pe ki kanta. Kos šukar o than kori so ikalea e čhavestar o pherne hem palo odova thov šukar tle vasta.</p>
+<p>Keda e čhave isi čhadibe ja pale diare/panjalo avripeste džajbe, tegani trebela te ačhol pe khere. Te džala o čhavo ki angliškola ja pale ko khelibaskoro than, šaj manuš pale te džal odori keda na ka ovel manuše čhadibe hem diare duj dive hem duj rača.</p>
+<p type="title">Šaj ka trebel te kontaktirinel pe i ambolanta</p>
+<p>Manuš trebela te kontaktirinel e ambolanta ja pale e akutno direktno te dikhlja kaj e čhve isi but diare hem čhadiba hem te sikavela nišani kaj nane ole tečnost ko telo, mangela te vakerel pe kaj o čhavo tano but umorno na dikhela nikas hem ništo uzi peste, hari mutrela ja na mutrela sar angleder hem našti te khelel peske. Manuš trebela te džal te rodel pomoč hem keda e čhave isi osim kotar o čhadibe hem diare, bari jag/temperatura/jangija, dukh ko vogi ja pale te isi rat ko khul ja pale sar šlajmi.</p>
+<p>Manuš trebela te javinel pe ki informacija bašo nasvalipaskoro arakhiba ja pale te kontaktirinel e ambolanta te na ulo o čhavo pošukar palo bišuštar sahatija, ja pale o čhavo tej tano pošukar ama o prolif na čhinavela poviše taro duj kurke.</p>
+<p>Tej o čhavo potikno taro šov masek hem te isi ole čhadiba hem diare, manuš uvek mora te kontaktirinel e informacija bašo nasvalipaskoro arakhibe ja pale e ambolanta.</p>
+<p>O čhavo te dobindža diare avri kotar i Švedska tegani manuš mora te kontaktirinel e ambolanta ja pale e čhavorikane klinika.</p>
+</body></document>

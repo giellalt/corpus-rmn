@@ -1,73 +1,27 @@
-<document xml:lang="rmn" id="no_id">
-  <header>
-    <title/>
-    <genre code="facta"/>
-    <author>
-      <unknown/>
-    </author>
-    <translator>
-      <unknown/>
-    </translator>
-    <translated_from xml:lang="swe"/>
-    <wordcount>817</wordcount>
-    <conversion_status type="standard"/>
-    <availability>
-      <free/>
-    </availability>
-    <submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/>
-    <multilingual>
-      <language xml:lang="swe"/>
-      <language xml:lang="rmn"/>
-    </multilingual>
-    <origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Tipsi-bao-poukar-korkorioset</origFileName>
-    <parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/>
-    <parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/>
-    <parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/>
-    <parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/>
-    <parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/>
-    <parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/>
-    <parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/>
-    <parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/>
-    <parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/>
-    <parallel_text location="rejchern.html" xml:lang="yid"/>
-    <parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/>
-    <parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/>
-    <metadata>
-      <uncomplete/>
-    </metadata>
-    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version>
-  </header>
-  <body>
-    <p xml:lang="swe">Tipsi bašo pošukar korkorioset</p>
-    <p xml:lang="swe">Alla undrar!  Vad undrar du?</p>
-    <p type="title" xml:lang="swe">Tipsi bašo pošukar korkorioset</p>
-    <p xml:lang="swe">Isi but buča so šaj te keren pe te šaj te zorakerel pe o korkorioset. Ake disave buča so šaj te probinen pe:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Keda isi manuše slabo korkorioset tegani manuš perela lokhe ko negativna misle baši korkori peste. Keda manuše isi asavke lošna misle korkori peske tegani manuš trebela te čhinavel odova odolea so manuš te pučel korkori peste: pomožinela man te mislinv adžahar čače li odova kaj me na sium šukar nisoske?</p>
-      <p type="listitem" xml:lang="swe">Kaj te šaj manuš te cidel pes kotar o lošna misle bašo izled hem baši but keribe buti hem so nane ola veza e korkoriosetea, tegani šaj pučela pe disave manuše kaste so isi poverenje save karakteristike ov ja oj mangela ki oleste/olate. Šaj zamolinela pe odova manuš/odoja manušni te kerel jek lista odole bučencar hem so ka oven čhivde ko jek šukar dikhlo than.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj hem te mislinel save šukar karakteristike isi ko javera manuša kas so mangela. Soj ustvari važno? Te ovel pes <span type="quote" xml:lang="swe">”zgodno”</span>, najšukar ki ispit ki škola ja pale te ovel pes radoznalo, te mislinel javerenge, godžaver, pherdo fantaziaja ja pale te ovel pe zoralo manuš so osudinela pe te ovel pe odova manuš soj?</p>
-      <p type="listitem" xml:lang="swe">O korkorioset zorakerela pe keda isi manuše šukar relacija e javere manušencar, hem amalencar hem ki kamlikani relacija ja familija. Te isi manuša ki jek familija so vakerena našukar buča jek javereske, tegani manuš šaj zamolinela olen te čhinaven odolea. Šaj ka ovel pošukar te zamolinel olen te vakeren diso pozitivno jekjavereske?</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj kerela buča so obično na kerela. Manuš obično te na vazdela plo vas nikad prvo ko klasi – tegani šaj te probinel odova ko javer časi. Ja pale iranela palal okoleske/okolake so probinela te kerel pes fraeri/fraerka javerenge ko računi, te rodel pe odoja buti so manuš oduvek mangela te ovel ole/ola, te telefonirinel okoleske/okolake kas so mangela ja pale te sikavel i novela soj kerdi jekhe amaleske/amalinjake.</p>
-      <p type="listitem" xml:lang="swe">Umesto te ikerel pes manuš zorale ko misle hem ko asavke buča so sine pogrešna angleder ko dživdipa, manuš trebela/valjani te akceptirinel odova so sine angleder hem o osečaja so sine tegani. Manuš ko primer te mislinela kaj džikaskiri daj-dad na dindže dovolno pestar ja na dikhena sine dovolno keda sine manuš tikno, šaj akana sar baro manuš isi ki džikaskiri sredina manuša so mangena odole manuše/odole manušnja hem so potvrdinena ole/ola akana. Manuš šaj hem te pučel pes soj najvažno manušeske baš akana. Ne mora te značinel kaj manuš na tromala te sikavel kaj tano mazumi bašo o buča so sine angleder, naprotiv manuš trebela te rovel jek periodi ama manuš palo odova trebela te džal angle.</p>
-    </list>
-    <p type="title" xml:lang="swe">Ternepanelakoro najšukar tipsi</p>
-    <p xml:lang="swe">E UMO:skiri lično ternipanela dela ple najšukar tipsija bašo odova sar šaj te ovel manuše pošukar korkorioset:</p>
-    <list>
-      <p type="listitem" xml:lang="swe">Manuš šaj te probinel te ovel ekstra hrabro hem te osudinel pe poviše te: terdžol palo odova so vakerela, osudinel pe te pučel odova so na džanela, osudinel pe te ovel ladžake hem te nudinel korkori peste.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj dikhela pes manušencar kasaja soj slobodno hem so osetinela pes sigurno.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te osetinel pes pohrabro hem pozoralo keda šunela pe okoja muzika so svidžinela pe manušeske but, keda manuš ko primer spreminela pes te džal džikaste ama tano/tani nesigurno, ja pale keda manuš mislinela te kerel diso so mislinela kaj hari darutni buti.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te ovel pošukar te lel pofalbe hem komplimentija. Umesto te mislinel kaj i nezgodno mannuš trebela te lel vogi hor, te vakerel ov sasto hem te mukhel e manuše so vakerela odova priminel pes odova hem te dozvolinel korkori peske te ovel pe lošalo/lošali bašo odova.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj dela korkori peske hrabrost hem te dozvolinel peske te ovel zadovolno keda ko primer kerela pli lekcija ja pale palo jek pharo vakeribe telefoneja.</p>
-      <p type="listitem" xml:lang="swe">Manuš šaj te ovel jek šukar podrška hem amal ama isto korkori trebela te birinel amale/amalinja so ka ovel podrška hem so ka mangel manuše sar soj.</p>
-      <p type="listitem" xml:lang="swe">But gušibe!</p>
-      <p type="listitem" xml:lang="swe">Mada o korkoriverujbe hem o korkorioset nane isto buti, šaj o korkorioset te bajrol hem te razvinel pe keda manuš kerela okola buča so manuš kerela olen šukar.</p>
-      <p type="listitem" xml:lang="swe">Ker jek lista bašo o buča so sian šukar.</p>
-      <p type="listitem" xml:lang="swe">Ker jek lista bašo o buča so kerena tut te ove lošalo.</p>
-      <p type="listitem" xml:lang="swe">Ker tuke jek cili bašo tlo dive, ko primer kaj ka kere diso so tu mangea ja pale diso so tu na kerdžan dži akana hem ma te hal tut galja dali ka ovel šukar ja na, dali ka ovel šužo ja pale grubo.</p>
-      <p type="listitem" xml:lang="swe">O korkorioset tano phanlo e sovestea/savestea. Tej manuš bilačho tegani manušeske nane šukar hem osetinela bilačhe. Keda manuš i šukar tegani manuš osetinela pes šukar hem ovela manuše pošukar korkorioset.</p>
-      <p type="listitem" xml:lang="swe">Jek šukar sikavno(učiteli) so podržinela džikas šaj te barakerel o misle baši korkori peste.</p>
-      <p type="listitem" xml:lang="swe">Te trebindža rode pomoč ko jek psihologi ja pale koratori, ko primer ki ternengiri ambolanta.</p>
-    </list>
-    <p xml:lang="swe">» Korkorioset</p>
-  </body>
-</document>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="swe"/><wordcount>812</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.umo.se/Andra-sprak/Romska-arli/Tipsi-bao-poukar-korkorioset</origFileName><parallel_text xml:lang="eng" location="how-to-improve-self-esteem.html"/><parallel_text xml:lang="fin" location="vinkkeja-itsetunnon-kohentamiseen.html"/><parallel_text xml:lang="fit" location="tipsia-kuinka-parantaa-ommaa-ittentuntoa.html"/><parallel_text xml:lang="sma" location="raerieh-buerebe-jijtjedomtesasse.html"/><parallel_text xml:lang="sme" location="guoiggus-buoret-iedovdui.html"/><parallel_text xml:lang="smj" location="gatjastusa-nannusap-iesjdabdduj.html"/><parallel_text xml:lang="swe" location="tips-for-battre-sjalvkansla.html"/><parallel_text location="ideori-sar-te-vortos-iri-zor.html" xml:lang="rmy-rka"/><parallel_text location="hilprepha-gla-fedigare-soluskansla.html" xml:lang="rmu"/><parallel_text location="rejchern.html" xml:lang="yid"/><parallel_text location="tipsura-te-avel-maj-lao-manuesko-aaripe.html" xml:lang="rmy-rlo"/><parallel_text location="tipsi-te-lel-fendide-iegohoiba.html" xml:lang="rmf"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision: 154948 $; </version></header><body><p>Tipsi bašo pošukar korkorioset</p>
+<p type="title">Tipsi bašo pošukar korkorioset</p>
+<p>Isi but buča so šaj te keren pe te šaj te zorakerel pe o korkorioset. Ake disave buča so šaj te probinen pe:</p>
+<list><p type="listitem">Keda isi manuše slabo korkorioset tegani manuš perela lokhe ko negativna misle baši korkori peste. Keda manuše isi asavke lošna misle korkori peske tegani manuš trebela te čhinavel odova odolea so manuš te pučel korkori peste: pomožinela man te mislinv adžahar čače li odova kaj me na sium šukar nisoske?</p>
+<p type="listitem">Kaj te šaj manuš te cidel pes kotar o lošna misle bašo izled hem baši but keribe buti hem so nane ola veza e korkoriosetea, tegani šaj pučela pe disave manuše kaste so isi poverenje save karakteristike ov ja oj mangela ki oleste/olate. Šaj zamolinela pe odova manuš/odoja manušni te kerel jek lista odole bučencar hem so ka oven čhivde ko jek šukar dikhlo than.</p>
+<p type="listitem">Manuš šaj hem te mislinel save šukar karakteristike isi ko javera manuša kas so mangela. Soj ustvari važno? Te ovel pes <span type="quote">”zgodno”</span>, najšukar ki ispit ki škola ja pale te ovel pes radoznalo, te mislinel javerenge, godžaver, pherdo fantaziaja ja pale te ovel pe zoralo manuš so osudinela pe te ovel pe odova manuš soj?</p>
+<p type="listitem">O korkorioset zorakerela pe keda isi manuše šukar relacija e javere manušencar, hem amalencar hem ki kamlikani relacija ja familija. Te isi manuša ki jek familija so vakerena našukar buča jek javereske, tegani manuš šaj zamolinela olen te čhinaven odolea. Šaj ka ovel pošukar te zamolinel olen te vakeren diso pozitivno jekjavereske?</p>
+<p type="listitem">Manuš šaj kerela buča so obično na kerela. Manuš obično te na vazdela plo vas nikad prvo ko klasi – tegani šaj te probinel odova ko javer časi. Ja pale iranela palal okoleske/okolake so probinela te kerel pes fraeri/fraerka javerenge ko računi, te rodel pe odoja buti so manuš oduvek mangela te ovel ole/ola, te telefonirinel okoleske/okolake kas so mangela ja pale te sikavel i novela soj kerdi jekhe amaleske/amalinjake.</p>
+<p type="listitem">Umesto te ikerel pes manuš zorale ko misle hem ko asavke buča so sine pogrešna angleder ko dživdipa, manuš trebela/valjani te akceptirinel odova so sine angleder hem o osečaja so sine tegani. Manuš ko primer te mislinela kaj džikaskiri daj-dad na dindže dovolno pestar ja na dikhena sine dovolno keda sine manuš tikno, šaj akana sar baro manuš isi ki džikaskiri sredina manuša so mangena odole manuše/odole manušnja hem so potvrdinena ole/ola akana. Manuš šaj hem te pučel pes soj najvažno manušeske baš akana. Ne mora te značinel kaj manuš na tromala te sikavel kaj tano mazumi bašo o buča so sine angleder, naprotiv manuš trebela te rovel jek periodi ama manuš palo odova trebela te džal angle.</p>
+</list><p type="title">Ternepanelakoro najšukar tipsi</p>
+<p>E UMO:skiri lično ternipanela dela ple najšukar tipsija bašo odova sar šaj te ovel manuše pošukar korkorioset:</p>
+<list><p type="listitem">Manuš šaj te probinel te ovel ekstra hrabro hem te osudinel pe poviše te: terdžol palo odova so vakerela, osudinel pe te pučel odova so na džanela, osudinel pe te ovel ladžake hem te nudinel korkori peste.</p>
+<p type="listitem">Manuš šaj dikhela pes manušencar kasaja soj slobodno hem so osetinela pes sigurno.</p>
+<p type="listitem">Manuš šaj te osetinel pes pohrabro hem pozoralo keda šunela pe okoja muzika so svidžinela pe manušeske but, keda manuš ko primer spreminela pes te džal džikaste ama tano/tani nesigurno, ja pale keda manuš mislinela te kerel diso so mislinela kaj hari darutni buti.</p>
+<p type="listitem">Manuš šaj te ovel pošukar te lel pofalbe hem komplimentija. Umesto te mislinel kaj i nezgodno mannuš trebela te lel vogi hor, te vakerel ov sasto hem te mukhel e manuše so vakerela odova priminel pes odova hem te dozvolinel korkori peske te ovel pe lošalo/lošali bašo odova.</p>
+<p type="listitem">Manuš šaj dela korkori peske hrabrost hem te dozvolinel peske te ovel zadovolno keda ko primer kerela pli lekcija ja pale palo jek pharo vakeribe telefoneja.</p>
+<p type="listitem">Manuš šaj te ovel jek šukar podrška hem amal ama isto korkori trebela te birinel amale/amalinja so ka ovel podrška hem so ka mangel manuše sar soj.</p>
+<p type="listitem" xml:lang="swe">But gušibe!</p>
+<p type="listitem">Mada o korkoriverujbe hem o korkorioset nane isto buti, šaj o korkorioset te bajrol hem te razvinel pe keda manuš kerela okola buča so manuš kerela olen šukar.</p>
+<p type="listitem">Ker jek lista bašo o buča so sian šukar.</p>
+<p type="listitem">Ker jek lista bašo o buča so kerena tut te ove lošalo.</p>
+<p type="listitem">Ker tuke jek cili bašo tlo dive, ko primer kaj ka kere diso so tu mangea ja pale diso so tu na kerdžan dži akana hem ma te hal tut galja dali ka ovel šukar ja na, dali ka ovel šužo ja pale grubo.</p>
+<p type="listitem">O korkorioset tano phanlo e sovestea/savestea. Tej manuš bilačho tegani manušeske nane šukar hem osetinela bilačhe. Keda manuš i šukar tegani manuš osetinela pes šukar hem ovela manuše pošukar korkorioset.</p>
+<p type="listitem">Jek šukar sikavno(učiteli) so podržinela džikas šaj te barakerel o misle baši korkori peste.</p>
+<p type="listitem">Te trebindža rode pomoč ko jek psihologi ja pale koratori, ko primer ki ternengiri ambolanta.</p>
+</list><p xml:lang="swe">» Korkorioset</p>
+</body></document>
