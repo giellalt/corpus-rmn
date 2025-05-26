@@ -1,45 +1,4 @@
-<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>949</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Valja-vardmottagning</origFileName><parallel_text xml:lang="eng" location="vardvalhalsoval.html"/><parallel_text xml:lang="fin" location="vardval.html"/><parallel_text xml:lang="fit" location="vardval.html"/><parallel_text xml:lang="sme" location="vardval.html"/><parallel_text xml:lang="swe" location="valja-vardmottagning.html"/><parallel_text xml:lang="rmy-rlo" location="valja-vardmottagning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="facta"/><author><unknown/></author><wordcount>6</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.1177.se/Nationella-minoritetssprak/Nationella-minoritetssprak/Romani-chib-arli/Regler-och-rattigheter/Valja-vardmottagning</origFileName><parallel_text xml:lang="eng" location="vardvalhalsoval.html"/><parallel_text xml:lang="fin" location="vardval.html"/><parallel_text xml:lang="fit" location="vardval.html"/><parallel_text xml:lang="sme" location="vardval.html"/><parallel_text xml:lang="swe" location="valja-vardmottagning.html"/><parallel_text xml:lang="rmy-rlo" location="valja-vardmottagning.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
 <body>
-<p xml:lang="swe">Biribe ambolanta / Välja vårdmottagning - 1177 Vårdguiden - sjukdomar, undersökningar, hitta vård, e-tjänster</p>
-<p xml:lang="swe"></p>
-<p xml:lang="swe"></p>
-<p type="title" xml:lang="swe">Biribe ambolantaVälja vårdmottagning</p>
-<p>Tu šaj korkori te birine ki savi ambolanta ja pale klinika ka dža keda ka trebel tut phravdo arakhiba. Tu šaj te birine phravdo arakhiba ki sa i Švedia.</p>
-<p xml:lang="swe"></p>
-<p>Isi razna (sajavera) soskipa keda manuš birinela jek ambolanta ja pale klinika. Tu šaj mangea te dža ki odoja ambolanta soj tuke paše uzo tlo kher, uzi tli buti ja pale odoleske so olate isi personali so vakerela tli čhib ja pale isi informacija ki odoja čhib so tu haljovea.</p>
-<p xml:lang="swe"></p>
-<p type="title">So šaj te birinav</p>
-<p>Tu šaj te birine korkori</p>
-<list><p type="listitem">ambolanta</p>
-<p type="listitem">čhavengiri ambolanta</p>
-<p type="listitem">dajengiri/khamnengiri ambolanta</p>
-<p type="listitem">ternengiri ambolanta</p>
-<p type="listitem">klinika bašo phravdo specijalizirimo sastipaskoro arakhiba, ko primer morčakiri klinika.</p>
-</list><p>Keda ka trebel tut phravdo specializirimo arakhibe, disavo var (puti) šaj ka trebel tut uput (bičhalin). Odova zavisinela kotar o landstinget ja pale kotar o regioni kori so sian registririmo hem kori so mangea te rodea arakhiba. Bašo odova isi buteder informacia ko sakova landsting ja pale regioni, čitin (drabar) akate.</p>
-<p xml:lang="swe"></p>
-<p type="title">Biribe ambolanta</p>
-<p>Keda ovea nasvalo ja pale keda isi tut disavo pharipa tegani šaj rodea arakhiba ki disavi ambolanta. Othe šaj dela pe tuke sastljariba direktno, a te trebindža tuke specializirimo arakhiba tegani ka ove bičhaldo ki čači (pravilno) klinika. Tu šaj birinea odoja ambolanta koja tu so mangea, bizo razlika dali oj tani ko odova landsting ja pale regioni kori tu so sian registririmo ja pale na. Odova važinela bašo sa o ambolante so kerena buti telo landsting ja pale o regioni, a odova važinela hem bašo prifatna ambolante so isi olen dogovor (lafiphaniba) e landstingea ja pale e regionea.</p>
-<p>Tu šaj hem te birine jek specialno ambolanta, bašo odova vakerela pe listibe ki jek ambolanta. Ko disavo landsting tu te na birindžan korkori tegani birinela tut tli najpaše ambolanta. Te na sian čalo kotar i ambolanta so birindžan ja pale te isi tut javer soskipa tu šaj te birine tuke javer ambolanta. Tu šaj listinea tut ki bilo savi ambolanta ki sa i Švedia.Tu te sian da listimo ki jek ambolanta, tu šaj rodea arakhiba ki javer ambolanta.</p>
-<p type="title">Zoralo doktoreskoro kontakti</p>
-<p>Tut isi šaipa te ovel tut jek zoralo doktoreskoro kontakti ki ambolanta. Jek zoralo doktoreskoro kontakti ki ambolanta značinela kaj tu keda ka dža ki ambolanta tu ka dikhe tut uvek odole doktorea te na sine ov/oj zauzeto.</p>
-<p xml:lang="swe"></p>
-<p type="title">Biribe phravdo specializirimo arakhiba</p>
-<p>O phravdo specializirimo arakhibe šaj te del pe tuke bizo te ove čhivdo ko nasvalengoro kher. Odova šaj te ovel ko primer jek mortikakiri/morčakiri klinika ja pale jačhengiri klinika. Te isi tut disavo specialno nasvalipa tu šaj te irane tut direktno ki jek klinika soj specializirime bašo tlo nasvalipa, ko primer bašo kalebukhengiri klinika.</p>
-<p>Tu šaj te rode phravdo specializirimo arakhiba ki sa i Švedia. Disavo puti rodela pe uput (bičhalin), odova zavisinela kotar o landsting ja pale kotar o regioni kori so sian registririmo, dali ola rodena uput bašo džajbe ko phravdo specializirimo arakhibe hem dali o landsting hem o regioni so birindžan te dža rodela asavke uputia.</p>
-<p xml:lang="swe"></p>
-<p type="title">So ovela mle akte/žurnalea?</p>
-<p>Te birindžan jek nevi ambolanta ja pale specializirimi klinika, šaj othe o personali te našti te dikhel tlo akti/žurnali kotar o purano arakhadžia. Te mangljan tli nevi klinika te dikhel tlo purano žurnali, tegani tu mora te priznajne odova. Vaker e personalea te phenen tuke sar kerela pe odova.</p>
-<p xml:lang="swe"></p>
-<p type="title">Trebela mange uput (bičhalin)?</p>
-<p>Jek uput tani jek poruka informaciaja baši tute sar pacienti kaj trebela tuke specialno procenibe, dikhljariba ja pale sastljariba. Plus odova ko uput isi medicikani informacia ko primer save simptomia isi manuše, sar manuš osetinela pe hem bašo anglutne nasvalipa hem khuvdipa.</p>
-<p>Kaj te šaj te le jek uput (bičhalin), prvo mora te dža ki ambolanta. Te trebela tuke phravdo specializirimo arakhiba, tegani o doktori tari ambolanta bičhalela jek uput dži ki klinika kori so mangea te dža. Disave landstingia hem regionia uvek rodena uputia kaj te šaj te rode olende specializirimo arakhiba a disave na rodena. Disavo var keda isi tut uput, šaj posigate te del pe tuke arakhiba ko specializirime klinike. Kobor sigate ka del pe tuke arakhiba zavisinela kotar tli medicikani potreba.</p>
-<p>Te mangljan te rode arakhiba ki jek specializirimi klinika ko javer landsting ja pale regioni a na kori so sian registririmo, tegani mora te dikhe dali tlo kherutno landsting rodela te ovel tut uput. A šaj pale te ovel hem adžahar so o landsting kori so rodea arakhiba rodela tutar uput. Tegani odova mora te ovel tut. Akate šaj te čitine (drabare) sar funkcirinena o buča ko javera landstingia hem regionia.</p>
-<p xml:lang="swe"></p>
-<p type="title" xml:lang="swe">Važinela i arakhibaskiri garancia?</p>
-<p>E arakhibaskiri garancia značinela kaj disavo puti šaj te ove nudimo arakhibe ko jek odredimo vreme hem šaj ka del pe tuke dumo te dža avri kotar tlo kherutno landsting te našti te del tut tlo landsting arakhiba odole vremeske. Odova važinela samo keda rodea arakhiba ko landsting ja regioni kori so sian registririmo, ja pale ki odoja klinika so isi ola dogovor tle landstingea.</p>
-<p>Keda rodea arakhiba ko javer landsting ja pale regioni, odola tane tle medicikane potrebe so odlučinena kobor sigate ka del pe tuke arakhiba. Odova tano o doktori so proceninela odova.</p>
-<p xml:lang="swe"></p>
-<p type="title">Pacientikani taksa hem džajbe ko drumo sar nasvalo</p>
-<p>I pacientikani taksa šaj te ovel javer ko sakova landsting ja pale regioni, odova ovela javer ko zavisnost taro arakhibaskoro tipi. Tu te rodindžan arakhiba avri kotar tlo landsting tegani tu mora te platine (pokine) i pacientikani taksa so važinela ko odova landsting kori soj i klinika.</p>
-<p>Te birindžan te rode arakhiba avri kotar tlo landsting, tegani tut nane pravo te rode te platinel pe tuke o drumo dži ki klinika hem palal, bašo odova vakerela pe džajbe ko drumo sar nasvalo.</p>
+<p xml:lang="swe">version https://git-lfs.github.com/spec/v1 oid sha256:038f0ef912c229ed91e4f94f66569891c08f72854030a6089b092582989f016f size 116230</p>
 </body></document>

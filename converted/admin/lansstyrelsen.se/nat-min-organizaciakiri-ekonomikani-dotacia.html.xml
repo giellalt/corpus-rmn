@@ -1,20 +1,4 @@
-<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>141</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/organizaciakiri-ekonomikani-dotacia.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/><parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/><parallel_text xml:lang="smj" location="nat-min-organisasjavnnadoarjja.html"/><parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/organizaciakiri-ekonomikani-dotacia.aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-jarjestotuki.html"/><parallel_text xml:lang="sma" location="nat-min-aarganisasjovnedaarjoeh.html"/><parallel_text xml:lang="sme" location="nat-min-organisasuvdnadoarjja.html"/><parallel_text xml:lang="smj" location="nat-min-organisasjavnnadoarjja.html"/><parallel_text xml:lang="swe" location="nat-min-organisationsbidrag.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
 <body>
-<p>Organizaciakiri ekonomikani dotacia - Länsstyrelsen i Stockholm</p>
-<list><p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-</list><p xml:lang="swe"></p>
-<p type="title">Organizaciakiri ekonomikani dotacia</p>
-<p><em type="italic">I Sresko uprava sako berš pokjinela organizaciakiri ekonomikani dotacia e organizacienge so zastupinena e nacionalnikane minoriteten, jaudien, romen, švedikane fincon hem tornedalincon. O cili e ekonomikane dotaciaja tano te delpe dumo hem te ločhakerelpe e organizaciengiri buti. </em></p>
-<p xml:lang="swe">I dotacia regulirinelape tari i uredba (2005:765) baši državakiri dotacia e nacionalnikane minoritetenge.</p>
-<p type="title">Ko šaj te rodel i dotacia?</p>
-<p>O organizacie so šaj te len e organizaciakiri ekonomikani dotacia tane o centralnikane organizacie ja organizacie kola tane centranikane so:</p>
-<list><p type="listitem">Zastupinena nekas taro e nacionalnikane minoriteten hem so tane členia ki organizacia ja olengere lokalnikane khedipe (udruženje) ja edinice kola buteder pripadinena ko nacionalnikane minoritetia, hem</p>
-<p type="listitem">Bavinenape bučaja te zojraren o utičibe e nacionalnikane minoritetenge, te džan angle (unapredinen) plo nacionalnikano minoritetengoro grupakoro identiteti, kultura, čhib, te sprečinen diskriminacia ja te širinen džandipa ple grupatar</p>
-</list></body></document>
+<p xml:lang="swe">version https://git-lfs.github.com/spec/v1 oid sha256:f13d12eac8b4b41e1009475febfdbcfae2a085878ebf6bd916080c58bc9153b2 size 41588</p>
+</body></document>

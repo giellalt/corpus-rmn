@@ -1,28 +1,4 @@
-<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>337</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/e-nacionalnikane-minoritetengoro-kanuni-(zakoni).aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/><parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/><parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/><parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/><parallel_text xml:lang="swe" location="nat-min-ny-lag-om-nationella-minoriteter.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<document xml:lang="rmn" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><wordcount>6</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Kevin Brubeck Unhammer" email="unhammer@fsfe.org"/><multilingual><language xml:lang="swe"/><language xml:lang="rmn"/></multilingual><origFileName>http://www.lansstyrelsen.se/stockholm/Sv/manniska-och-samhalle/nationella-minoriteter/romani-arli/Pages/e-nacionalnikane-minoritetengoro-kanuni-(zakoni).aspx</origFileName><parallel_text xml:lang="fin" location="nat-min-laki-kansallisista-vahemmistoista-.html"/><parallel_text xml:lang="sma" location="nat-min-laake-nasjovnelle-unnebelahkoej-bjre.html"/><parallel_text xml:lang="sme" location="nat-min-lahka-riikkalas-unniloguid-birra.html"/><parallel_text xml:lang="smj" location="nat-min-lahka-rijkalasj-unneplagoj-birra.html"/><parallel_text xml:lang="swe" location="nat-min-ny-lag-om-nationella-minoriteter.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
 <body>
-<p>E nacionalnikane minoritetengoro kanuni (zakoni) - Länsstyrelsen i Stockholm</p>
-<list><p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-<p type="listitem" xml:lang="swe"></p>
-</list><p xml:lang="swe"></p>
-<p type="title">E nacionalnikane minoritetengoro kanuni (zakoni)</p>
-<p><em type="italic">E nacionalnikano minoritetengoro hem o minoritetikanečhibjengoro kanuni podžindža te važinel taro o 1 januaro 2010. Akava kanuni zameninela o hako (pravo) te šaj te vakerelpe (upotrebinelpe) i laponikani, i finsko hem i meänkieli čhib ko upravakere organia hem ko kris (sudo). Akala promene tane isto kerde ko sametingkanuni hem ko socialnikano službakoro kanuni. </em></p>
-<p>E Švediakiri internacionalnikani obaveza značini so disave minoritetikane hakia (pravia) ka ostvarinenpe ki soro phuv. Sa o pandž minoritetia dolenape taro akava nevo kanuni (2009:724).</p>
-<p type="title">Osnovnikani zaštita</p>
-<p>Odova so akharelape osnovnikani zaštita značinela so:</p>
-<list><p type="listitem">E upravakere organia keda ka valjani ka informirinen e nacionalnikane minoriteten bašo olegere hakia ko jekh pogodno čani (način)</p>
-<p type="listitem">E javno sektoren isi posebno odgovornost te arakhel (zaštitinel) hem te ingarel anglal (unapredinel) e nacionalnikane minoritetikane čhibjen hem te ingarel anglal e nacionalnikane minoritetengoro šaipe te arakhen hem te buvljaren pli kultura ki Švedia</p>
-<p type="listitem">E čhavengoro buvlipa ko jekh kulturnikano identiteti hem naročito te ingarelpe anglal pli minoritetikani čhib</p>
-<p type="listitem">E upravakere organia e nacionalnikane minoritetenge ka del šaipe te deluinen keda ka kerelpe lafi olendar hem kobor šaj te dogovorinenpe javere minoritetikane predstavnikoncar ko asavko pučiba</p>
-</list><p type="title">Posebno hakia (pravia)</p>
-<p>Osim akava važinena posebno hakia bašo finsko-laponikani hem meänkieli čhib ko sako upravakoro than. Akala hakia tane:</p>
-<list><p type="listitem">Sakone isi ole hako te kulandinel pli čhib ko mujale hem hramome (pišime) kontaktia e organengere upravencar ko posebno predmetia kote e organeskere uprave tane odola so anena odluke ja rešenie</p>
-<p type="listitem">E organeskere uprave tane dužno te den mujalo odgovor ki isto čhib hem ko lično zahtevi te roden hramomo nakhavipe (prevodibe) o rešenie hem motivacia. E organeskiri uprava šaj te poručinel vakti hem than kote i usluga ka delpe ki minoritetikani čhib</p>
-<p type="listitem">E upravakere organia ka del dumo te ovel ja te arakhen manušen ja personali so džanena i minoritetikani čhib</p>
-<p type="listitem">E komunen isi posedno dužnost te organizirinen arakhiba (briga) e phurenge hem e čhavenge, skroz ja delimično ki minoritetikani čhib ako disavo manuš rodela akava ko upravakere thana</p>
-</list></body></document>
+<p xml:lang="swe">version https://git-lfs.github.com/spec/v1 oid sha256:a7328f3129a253e20051d5423052463eaf9515099f2a5ea580978f3886744c90 size 43120</p>
+</body></document>
